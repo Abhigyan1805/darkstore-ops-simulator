@@ -1,0 +1,994 @@
+sku_id,sku_name,category,sub_category,price_inr,days_with_lost_sales,lost_units,lost_sales_inr,avg_daily_demand
+185,"Pork - Traditional Honey Roasted Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",548.4,3.0,11.0,6032.0,13.52
+1599,Earl Grey Tea,Beverages,Tea,910.0,3.0,6.0,5460.0,2.26
+336,Apple - Washington 4 pcs + Kiwi - Green 3 pcs + Pomegranate 4 pcs,Fruits & Vegetables,Fresh Fruits,527.0,2.0,10.0,5270.0,8.48
+1851,Fruit & Nuts Muesli - Protein Rich Breakfast Cereal,Snacks & Branded Foods,Breakfast Cereals,576.0,5.0,9.0,5184.0,1.92
+351,Organic - Almond/Badam,"Foodgrains, Oil & Masala",Dry Fruits,449.0,2.0,11.0,4939.0,8.67
+1408,Mutton Boneless Cubes,"Eggs, Meat & Fish",Mutton & Lamb,600.0,3.0,7.0,4200.0,2.24
+56,Fresh Boneless Chicken Breast,"Eggs, Meat & Fish","Sausages, Bacon & Salami",240.0,1.0,17.0,4080.0,32.36
+1515,100% Pure Almond Butter,Gourmet & World Food,"Sauces, Spreads & Dips",799.0,2.0,5.0,3995.0,2.19
+1268,"Pork - Cured Chorizo Chilly, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",421.2,3.0,9.0,3791.0,2.47
+348,Soda - Original Ginger Ale,Beverages,Energy & Soft Drinks,300.0,1.0,12.0,3600.0,8.32
+418,"Table Butter - Salted, Organic, Tub","Bakery, Cakes & Dairy",Dairy,720.0,1.0,5.0,3600.0,7.42
+231,Homogenised Standardised Milk,"Bakery, Cakes & Dairy",Dairy,356.4,2.0,10.0,3564.0,11.51
+124,Almond Coconut - Unsweetened Milk,"Bakery, Cakes & Dairy",Dairy,495.0,1.0,7.0,3465.0,17.77
+97,Butter,"Bakery, Cakes & Dairy",Dairy,261.0,2.0,13.0,3393.0,22.46
+5,"Avocado - Imported, Medium",Fruits & Vegetables,Fresh Fruits,260.0,1.0,12.0,3120.0,113.55
+2927,Seeds & Berries Breakfast Muesli,Gourmet & World Food,Cereals & Breakfast,506.0,4.0,6.0,3036.0,1.13
+2480,Large Pizza- Chicken Overload  475g+Tandoori Chicken Tikka 450g+BBQ Chicken 450g,Snacks & Branded Foods,Frozen Veggies & Snacks,943.0,3.0,3.0,2829.0,1.43
+215,Smartwater,Beverages,Water,300.0,1.0,9.0,2700.0,12.49
+1413,Double Chicken Pepperoni Pizza,Snacks & Branded Foods,Frozen Veggies & Snacks,295.0,2.0,9.0,2655.0,2.54
+2085,Processed Cheese - Block,"Bakery, Cakes & Dairy",Dairy,431.0,4.0,6.0,2586.0,1.76
+2901,1 To 1  Baking Flour - Gluten Free,Gourmet & World Food,Cooking & Baking Needs,641.25,3.0,4.0,2565.0,0.97
+203,Premium Butter - Salted,"Bakery, Cakes & Dairy",Dairy,255.0,2.0,10.0,2550.0,12.58
+293,Milk Powder - Skimmed,"Bakery, Cakes & Dairy",Dairy,315.0,1.0,8.0,2520.0,8.99
+142,Pork - Pepperoni Salami,Snacks & Branded Foods,Frozen Veggies & Snacks,275.0,1.0,9.0,2475.0,16.43
+390,"Eggs - Free Range & Brown, DHA Enriched, Country","Eggs, Meat & Fish",Eggs,130.0,5.0,18.0,2340.0,8.03
+123,Kitchen Towel Paper Tissue Roll Pack of 2,Cleaning & Household,"Disposables, Garbage Bag",460.0,1.0,5.0,2300.0,17.22
+73,Pork Classic Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",191.25,2.0,12.0,2295.0,26.0
+2291,Butter Chiplets (Cubes),"Bakery, Cakes & Dairy",Dairy,433.5,2.0,5.0,2168.0,1.52
+613,Infant Formula Baby Food Powder - Stage 2,Baby Care,Baby Food & Formula,715.0,1.0,3.0,2145.0,5.23
+2023,"Infant Formula Powder With GOS & FOS - Stage 1, From Birth To 6 Months",Baby Care,Baby Food & Formula,715.0,1.0,3.0,2145.0,1.68
+478,Walnut/Akrodu - Kernels,"Foodgrains, Oil & Masala",Dry Fruits,267.0,2.0,8.0,2136.0,6.93
+230,Pork - Meat Loaf,"Eggs, Meat & Fish","Sausages, Bacon & Salami",147.0,3.0,14.0,2058.0,11.32
+174,Pork Bacon Sausages - Smoked,"Eggs, Meat & Fish","Sausages, Bacon & Salami",675.0,1.0,3.0,2025.0,13.71
+1987,Basmati Rice/Basmati Akki - Traditional,"Foodgrains, Oil & Masala",Rice & Rice Products,1004.0,2.0,2.0,2008.0,1.6
+688,Desi Twist - Creamy Kulfi,"Bakery, Cakes & Dairy",Ice Creams & Desserts,199.2,3.0,10.0,1992.0,4.98
+853,Hummus - Peri Peri,Gourmet & World Food,"Sauces, Spreads & Dips",280.0,1.0,7.0,1960.0,3.71
+759,Ready to Eat - Chicken Darbari,Snacks & Branded Foods,Ready To Cook & Eat,190.0,3.0,10.0,1900.0,4.41
+2997,Spicy Pasta Sauce 385 g + Hot Sauce 75 ml + Salsa - Tomato 270 g,Gourmet & World Food,"Sauces, Spreads & Dips",453.6,3.0,4.0,1814.0,1.05
+1517,"Pork - Proscicutto Crudo Full, P.G.I, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",603.6,2.0,3.0,1811.0,2.26
+652,Mutton Curry Cuts,"Eggs, Meat & Fish",Mutton & Lamb,450.0,2.0,4.0,1800.0,5.19
+2106,Cereals - Great Grains,Gourmet & World Food,Cereals & Breakfast,899.0,1.0,2.0,1798.0,1.44
+1107,Natural Ice Cream - Yummy Chocochip,"Bakery, Cakes & Dairy",Ice Creams & Desserts,350.0,2.0,5.0,1750.0,3.22
+2347,Happy Chef Pasta- Fusilli 500g + Sauce - Arrabiata 270g + Borges Olive Oil 1L,Gourmet & World Food,"Pasta, Soup & Noodles",874.3,1.0,2.0,1749.0,1.52
+1032,Laundry Detergent,Cleaning & Household,Detergents & Dishwash,349.3,3.0,5.0,1747.0,3.2
+673,Apple Pie - Baked Nuts & Dried Fruits,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",425.0,2.0,4.0,1700.0,4.78
+63,Slim Milk - Low Fat Carton,"Bakery, Cakes & Dairy",Dairy,420.0,1.0,4.0,1680.0,31.3
+2626,Classic Instant Coffee,Beverages,Coffee,550.0,3.0,3.0,1650.0,1.22
+2029,Frozen Vegetables Sweet Corn,Snacks & Branded Foods,Frozen Veggies & Snacks,160.0,2.0,10.0,1600.0,2.01
+1171,Organic Brown Rice,"Foodgrains, Oil & Masala",Rice & Rice Products,319.0,2.0,5.0,1595.0,2.68
+265,Streaky - Bacon,"Eggs, Meat & Fish","Sausages, Bacon & Salami",265.0,2.0,6.0,1590.0,9.77
+96,Mozzarella Cheese,"Bakery, Cakes & Dairy",Dairy,225.0,1.0,7.0,1575.0,22.35
+70,Orange - Imported,Fruits & Vegetables,Fresh Fruits,129.0,2.0,12.0,1548.0,27.86
+132,Toned Milk,"Bakery, Cakes & Dairy",Dairy,514.0,1.0,3.0,1542.0,16.9
+259,Nourish Toned Milk,"Bakery, Cakes & Dairy",Dairy,768.48,1.0,2.0,1537.0,10.0
+713,Sweet Corn,Snacks & Branded Foods,Frozen Veggies & Snacks,170.0,2.0,9.0,1530.0,4.36
+873,Pork - Garlic Sausage,"Eggs, Meat & Fish","Sausages, Bacon & Salami",187.2,3.0,8.0,1498.0,3.95
+2872,Extra Light Olive Oil,"Foodgrains, Oil & Masala",Edible Oils & Ghee,748.98,1.0,2.0,1498.0,1.23
+504,Low GI 7 Grain Atta - Diabetic Friendly/Godihittu,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",495.0,2.0,3.0,1485.0,6.33
+502,Virgin Coconut Oil,"Foodgrains, Oil & Masala",Edible Oils & Ghee,185.0,2.0,8.0,1480.0,6.21
+2247,"Toilet Roll - 3 Ply - 100% Virgin Pulp/Paper, Pack of 4",Cleaning & Household,"Disposables, Garbage Bag",488.0,1.0,3.0,1464.0,1.42
+239,Chicken - Sausage (Skinless),"Eggs, Meat & Fish","Sausages, Bacon & Salami",360.0,1.0,4.0,1440.0,11.08
+1377,Coconut Oil,"Foodgrains, Oil & Masala",Edible Oils & Ghee,285.0,3.0,5.0,1425.0,2.55
+715,Syrup - Strawberry,Beverages,Fruit Juices & Drinks,235.0,3.0,6.0,1410.0,4.98
+840,"Multigrain Variety Energy Bar - Chocolate, Vanilla Almonds, Cashew Orange & Nuts & Seeds",Gourmet & World Food,Cereals & Breakfast,352.0,2.0,4.0,1408.0,4.04
+248,Lassi - Rose Flavour,"Bakery, Cakes & Dairy",Dairy,140.0,2.0,10.0,1400.0,10.78
+1474,Pista - Roasted & Salted,"Foodgrains, Oil & Masala",Dry Fruits,200.0,2.0,7.0,1400.0,2.55
+588,Sweet Potato Fries,Snacks & Branded Foods,Frozen Veggies & Snacks,150.0,1.0,9.0,1350.0,5.67
+1281,Disinfecting Wipes - Fresh Scent,Cleaning & Household,All Purpose Cleaners,450.0,1.0,3.0,1350.0,2.29
+105,Chili Garlic Potato Bites,Snacks & Branded Foods,Frozen Veggies & Snacks,263.5,1.0,5.0,1318.0,20.84
+1341,Natural Ice Cream - Sugarless Roasted Almond,"Bakery, Cakes & Dairy",Ice Creams & Desserts,325.0,3.0,4.0,1300.0,2.49
+1742,Natural Ice Cream - Mixed Berries,"Bakery, Cakes & Dairy",Ice Creams & Desserts,325.0,2.0,4.0,1300.0,2.01
+1503,"100% Organic Superfood - Nut Powder, 6-8 Months, No Preservatives, No Artificial Colours",Baby Care,Baby Food & Formula,424.15,2.0,3.0,1272.0,2.38
+49,Paneer Zing Cool,Snacks & Branded Foods,Frozen Veggies & Snacks,254.15,1.0,5.0,1271.0,36.76
+2402,K Energy Bar - 55% Nuts & Grains - Choco Nutty,Snacks & Branded Foods,Breakfast Cereals,420.0,1.0,3.0,1260.0,1.38
+188,Natural Set Curd,"Bakery, Cakes & Dairy",Dairy,209.0,1.0,6.0,1254.0,12.58
+447,Palak 250g+Ladies Finger 500g+Cucumber 1kg+Capsicum Green 500g+Bottle Gourd 1pc,Fruits & Vegetables,Fresh Vegetables,112.27,3.0,11.0,1235.0,7.11
+825,"Fruit Juice - Delight, Orange",Beverages,Fruit Juices & Drinks,600.0,1.0,2.0,1200.0,3.98
+1701,Super Mango Mustard Sauce,Snacks & Branded Foods,Pickles & Chutney,100.0,4.0,12.0,1200.0,1.84
+2328,Fresh Chicken Mince,"Eggs, Meat & Fish","Sausages, Bacon & Salami",240.0,4.0,5.0,1200.0,1.46
+2463,Heart Oil - Vegetable,"Foodgrains, Oil & Masala",Edible Oils & Ghee,599.0,1.0,2.0,1198.0,1.41
+2132,Atlantic Salmon - Fillet,"Eggs, Meat & Fish",Fish & Seafood,1190.0,1.0,1.0,1190.0,1.65
+1235,Durum Wheat Pasta 500g + Green Olives 450g + Olive Oil 500ml + Pasta Sauce 300g,Gourmet & World Food,"Pasta, Soup & Noodles",1180.06,1.0,1.0,1180.0,2.78
+2418,Durum Wheat Pasta 500g + Green Olives 450g + Olive Oil 500ml + Pasta Sauce 300g,Gourmet & World Food,Tinned & Processed Food,1180.06,1.0,1.0,1180.0,1.32
+672,Puff Sheet Squares,Snacks & Branded Foods,Frozen Veggies & Snacks,286.0,1.0,4.0,1144.0,4.74
+582,Jaya Rice,"Foodgrains, Oil & Masala",Rice & Rice Products,570.0,1.0,2.0,1140.0,5.78
+1593,Celebration Gift Box : Assorted Chocolate Cookies,Snacks & Branded Foods,Biscuits & Cookies,285.0,2.0,4.0,1140.0,1.98
+16,Apple - Shimla,Fruits & Vegetables,Fresh Fruits,139.0,1.0,8.0,1112.0,58.6
+657,Sugar Free Double Dark Chocolate Keto Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",275.0,1.0,4.0,1100.0,5.25
+2300,"Organic - Urad Dal/Uddina Bele, Black (Split)","Foodgrains, Oil & Masala",Dals & Pulses,275.0,2.0,4.0,1100.0,1.49
+294,Frozen Vegetables - Green Peas,Snacks & Branded Foods,Frozen Veggies & Snacks,180.0,1.0,6.0,1080.0,9.14
+1535,French Dressing,Gourmet & World Food,"Sauces, Spreads & Dips",270.0,3.0,4.0,1080.0,2.65
+303,"Apple - Red Delicious, Regular",Fruits & Vegetables,Fresh Fruits,179.0,1.0,6.0,1074.0,8.79
+1772,"Isomil Soy Infant Milk Substitute - Lactose Free, Upto 24 months",Baby Care,Baby Food & Formula,530.0,2.0,2.0,1060.0,1.66
+2877,Oat Clusters & Ragi Flakes With Strawberry,Gourmet & World Food,Cereals & Breakfast,260.0,3.0,4.0,1040.0,1.05
+2032,Chicken Overload Pizza - Large,Snacks & Branded Foods,Frozen Veggies & Snacks,345.0,1.0,3.0,1035.0,1.62
+883,Chicken - Sausages,"Eggs, Meat & Fish","Sausages, Bacon & Salami",170.0,1.0,6.0,1020.0,3.7
+1723,Extra Virgin Coconut Oil - Cold Pressed Centrifuge,"Foodgrains, Oil & Masala",Edible Oils & Ghee,340.0,1.0,3.0,1020.0,1.58
+361,Basil Hummus,Gourmet & World Food,"Sauces, Spreads & Dips",200.0,2.0,5.0,1000.0,7.98
+858,Real Ice Cream - Rajbhog,"Bakery, Cakes & Dairy",Ice Creams & Desserts,250.0,1.0,4.0,1000.0,4.29
+1696,Oats Cranberry Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",250.0,2.0,4.0,1000.0,2.03
+365,Shrikhand - Mango,"Bakery, Cakes & Dairy",Dairy,199.0,2.0,5.0,995.0,8.24
+2962,Badam Drink Mix,Snacks & Branded Foods,Ready To Cook & Eat,245.0,2.0,4.0,980.0,0.89
+1068,Chicken Patty - Desi Style,Snacks & Branded Foods,Frozen Veggies & Snacks,161.5,2.0,6.0,969.0,3.27
+407,Strawberry - Fruit Spread,Gourmet & World Food,"Sauces, Spreads & Dips",320.0,1.0,3.0,960.0,7.11
+1677,Real Ice Cream - Butterscotch Bliss,"Bakery, Cakes & Dairy",Ice Creams & Desserts,190.0,3.0,5.0,950.0,2.1
+2462,Raisins/Ona Drakshi - Indian,"Foodgrains, Oil & Masala",Dry Fruits,190.0,4.0,5.0,950.0,1.16
+111,Chana Dal,"Foodgrains, Oil & Masala",Dals & Pulses,84.0,2.0,11.0,924.0,19.43
+44,"Apple - Red Delicious, Premium",Fruits & Vegetables,Fresh Fruits,182.0,1.0,5.0,910.0,37.59
+220,Dip For Tortilla Chips Guacamole,Gourmet & World Food,"Sauces, Spreads & Dips",225.0,1.0,4.0,900.0,10.92
+512,Quinoa Flour,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",450.0,2.0,2.0,900.0,6.24
+523,Crispy Bread Crumbs,Gourmet & World Food,Cooking & Baking Needs,112.5,1.0,8.0,900.0,6.07
+2165,Chick Peas Curry-Basmati Rice,Snacks & Branded Foods,Ready To Cook & Eat,150.0,2.0,6.0,900.0,1.64
+1939,Peanut Butter - Chunky,Gourmet & World Food,"Sauces, Spreads & Dips",299.0,2.0,3.0,897.0,2.15
+2609,Peppermint Herbal Infusion,Beverages,Tea,297.5,2.0,3.0,893.0,1.35
+209,Diced Cheese Blend,"Bakery, Cakes & Dairy",Dairy,444.0,1.0,2.0,888.0,12.18
+1185,Pork - Cumberland,"Eggs, Meat & Fish","Sausages, Bacon & Salami",295.2,1.0,3.0,886.0,2.84
+2931,Cat Litter,"Kitchen, Garden & Pets",Pet Food & Accessories,440.0,1.0,2.0,880.0,1.0
+792,FunFoods Pasta & Pizza Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",175.0,2.0,5.0,875.0,4.0
+312,Pork - Cooked Ham,"Eggs, Meat & Fish","Sausages, Bacon & Salami",215.0,3.0,4.0,860.0,9.24
+114,Supremo Milk,"Bakery, Cakes & Dairy",Dairy,66.0,2.0,13.0,858.0,19.19
+2594,Cheezza,"Bakery, Cakes & Dairy",Dairy,285.0,3.0,3.0,855.0,1.07
+1122,Pork Nuremburg Sausage,"Eggs, Meat & Fish","Sausages, Bacon & Salami",425.0,1.0,2.0,850.0,2.68
+1205,Pan Blanco Bread - Gluten Free,"Bakery, Cakes & Dairy",Gourmet Breads,425.0,2.0,2.0,850.0,3.13
+645,Hummus - Original Olive,Gourmet & World Food,"Sauces, Spreads & Dips",280.0,1.0,3.0,840.0,4.44
+726,Fusilli whole wheat,Gourmet & World Food,"Pasta, Soup & Noodles",272.0,1.0,3.0,816.0,4.55
+45,"Almond Milk - Natural, Unsweetened","Bakery, Cakes & Dairy",Dairy,407.68,1.0,2.0,815.0,37.08
+2924,"Cashews - Whole, 100% Natural Premium",Gourmet & World Food,"Snacks, Dry Fruits, Nuts",404.1,2.0,2.0,808.0,1.07
+223,Aamrus - Kesar Mango Pulp,Snacks & Branded Foods,Frozen Veggies & Snacks,200.0,2.0,4.0,800.0,12.15
+300,"Apple - Red Delicious, Economy",Fruits & Vegetables,Fresh Fruits,160.0,2.0,5.0,800.0,9.12
+1314,Cheese Slices Plain,"Bakery, Cakes & Dairy",Dairy,399.0,2.0,2.0,798.0,3.01
+2178,"Almond Butter - All Natural, Vegan",Gourmet & World Food,"Sauces, Spreads & Dips",399.0,1.0,2.0,798.0,1.4
+1879,Organic Elicoidali Pasta,Gourmet & World Food,"Pasta, Soup & Noodles",396.0,1.0,2.0,792.0,1.74
+1203,Cheese - Slices,"Bakery, Cakes & Dairy",Dairy,390.0,1.0,2.0,780.0,2.53
+1215,Mozzarella Cheese - Diced,"Bakery, Cakes & Dairy",Dairy,260.0,2.0,3.0,780.0,2.76
+421,No Rulz Masala Curlz Corn Puffs,Snacks & Branded Foods,Snacks & Namkeen,128.25,1.0,6.0,770.0,6.53
+463,Syrup - Dates,"Foodgrains, Oil & Masala",Dry Fruits,380.0,1.0,2.0,760.0,6.59
+964,Catla Fish Large Curry Cut 1kg+Chicken Breast Boneless 500G+Chicken Mince 500G,"Eggs, Meat & Fish",Fish & Seafood,760.0,1.0,1.0,760.0,3.43
+117,Tofu Supreme - Chilli,"Bakery, Cakes & Dairy",Dairy,126.0,3.0,6.0,756.0,20.36
+908,Dry Fruits & Nuts,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",189.0,2.0,4.0,756.0,3.32
+2399,Instant Drink Mix - Orange 500 gm + Lemon 500 gm,Beverages,Fruit Juices & Drinks,252.0,2.0,3.0,756.0,1.25
+693,bb Popular Sona Masoori Raw Rice 10kg + Toor Dal 2kg,"Foodgrains, Oil & Masala",Rice & Rice Products,752.0,1.0,1.0,752.0,4.43
+1527,Spicy Pasta Sauce - Original Pizza Pasta Sauce,Gourmet & World Food,"Sauces, Spreads & Dips",188.1,3.0,4.0,752.0,2.27
+890,Fresh Organic Amla Powder - For Kids,Baby Care,Baby Food & Formula,250.0,2.0,3.0,750.0,3.77
+1453,Insta - Guava,Beverages,Fruit Juices & Drinks,150.0,2.0,5.0,750.0,2.32
+2943,Chicken Bockwurst,"Eggs, Meat & Fish","Sausages, Bacon & Salami",249.6,2.0,3.0,749.0,0.8
+255,Potato Onion Tomato 1 kg Each,Fruits & Vegetables,Fresh Vegetables,67.71,2.0,11.0,745.0,10.36
+2041,Chicken Nuggets - Crunchy,Snacks & Branded Foods,Frozen Veggies & Snacks,247.0,1.0,3.0,741.0,1.57
+2253,Thins - Salted Caramel,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",243.0,1.0,3.0,729.0,1.65
+414,Rohu Fish Large Curry Cut 1kg +Chilli Chicken Boneless 500G +Chicken Mince 500G,"Eggs, Meat & Fish",Fish & Seafood,727.0,1.0,1.0,727.0,7.11
+65,Methi 250 g + Coriander Leaves 100 g + Palak 250 g + Curry Leaves 100 g,Fruits & Vegetables,Herbs & Seasonings,72.45,1.0,10.0,725.0,29.57
+484,Apple Shimla Economy 1kg + Mosambi 4pcs + Banana Robusta 1kg + Pomegranate 2pcs,Fruits & Vegetables,Fresh Fruits,360.77,1.0,2.0,722.0,6.82
+1154,Masala Oats - Veggie Twist,Snacks & Branded Foods,Snacks & Namkeen,180.0,1.0,4.0,720.0,2.98
+110,Cheese - Natural Cheddar,"Bakery, Cakes & Dairy",Dairy,179.0,1.0,4.0,716.0,19.09
+513,Grapes - Red Globe  Indian,Fruits & Vegetables,Fresh Fruits,79.5,3.0,9.0,716.0,5.97
+72,Broccoli,Fruits & Vegetables,Fresh Vegetables,39.44,3.0,18.0,710.0,26.73
+1973,Frankfurter - Chicken,"Eggs, Meat & Fish","Sausages, Bacon & Salami",235.0,2.0,3.0,705.0,1.86
+1214,Liquid Laundry Detergent - Refill Pack,Cleaning & Household,Detergents & Dishwash,350.0,1.0,2.0,700.0,2.73
+1067,"Bread - Whole Wheat, Chemical Free 400G + Eggs - Table Tray 30pcs","Bakery, Cakes & Dairy",Breads & Buns,228.0,1.0,3.0,684.0,3.08
+1274,Banana - Nendran,Fruits & Vegetables,Fresh Fruits,76.0,4.0,9.0,684.0,2.84
+1272,Noodles - Spinach,Gourmet & World Food,"Pasta, Soup & Noodles",170.0,1.0,4.0,680.0,2.71
+2409,Barbeque Almonds,"Foodgrains, Oil & Masala",Dry Fruits,336.0,2.0,2.0,672.0,1.35
+388,Pork - Frankfurters Sausages,"Eggs, Meat & Fish","Sausages, Bacon & Salami",165.0,2.0,4.0,660.0,7.29
+846,Baked Beans - In Sauce,Snacks & Branded Foods,Ready To Cook & Eat,110.0,1.0,6.0,660.0,4.16
+1313,Maaza Juice - Mango 1.5 L + Coca Cola Soft Drink 1.75 L Bottle,Beverages,Energy & Soft Drinks,165.0,1.0,4.0,660.0,2.84
+1295,Squash - Lemon Ginger,Beverages,Fruit Juices & Drinks,130.0,2.0,5.0,650.0,2.82
+1356,"Juice - Apple with No Added Sugar, 1 l + Orange, 1 l",Beverages,Fruit Juices & Drinks,216.0,2.0,3.0,648.0,2.56
+1976,Frozen Sweet Corn,Snacks & Branded Foods,Frozen Veggies & Snacks,129.0,4.0,5.0,645.0,1.91
+2425,Brazilian Nuts,"Foodgrains, Oil & Masala",Dry Fruits,321.0,1.0,2.0,642.0,1.3
+2791,"Pasta - Fussilli Rice, Gluten free",Gourmet & World Food,"Pasta, Soup & Noodles",160.0,2.0,4.0,640.0,1.19
+646,Cream Cheese,"Bakery, Cakes & Dairy",Dairy,159.0,2.0,4.0,636.0,5.32
+831,Original Soda Water,Beverages,Energy & Soft Drinks,210.0,2.0,3.0,630.0,4.57
+2349,Anar Pomegranate Fruit Juice,Beverages,Fruit Juices & Drinks,315.0,2.0,2.0,630.0,1.26
+1330,Dishwash Liquid - Basil & Mint,Cleaning & Household,Detergents & Dishwash,209.3,1.0,3.0,628.0,2.25
+617,"Pork - Pizza Pepperoni, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",621.0,1.0,1.0,621.0,5.49
+2773,Tea - Fresh Lemon,Beverages,Tea,155.0,3.0,4.0,620.0,1.13
+1109,Dry Fruit Apple,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",123.5,3.0,5.0,618.0,3.18
+1647,Pink Salmon In Oil,"Eggs, Meat & Fish",Fish & Seafood,308.75,1.0,2.0,618.0,2.23
+43,Processed Cheese,"Bakery, Cakes & Dairy",Dairy,204.0,1.0,3.0,612.0,38.75
+1634,No Added Sugar Muesli - High Fibre Cereal For Breakfast,Snacks & Branded Foods,Breakfast Cereals,612.0,1.0,1.0,612.0,1.88
+417,Pizza Pasta Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",120.0,2.0,5.0,600.0,7.02
+564,Instant Soup - Sweetcorn Chicken,Snacks & Branded Foods,Ready To Cook & Eat,60.0,2.0,10.0,600.0,5.54
+786,Mushroom Soup,Snacks & Branded Foods,Ready To Cook & Eat,60.0,4.0,10.0,600.0,4.53
+822,Tea,Beverages,Tea,600.0,1.0,1.0,600.0,4.38
+903,Berry & Millets Granola,Gourmet & World Food,Cereals & Breakfast,300.0,1.0,2.0,600.0,3.51
+1060,Tea,Beverages,Tea,200.0,3.0,3.0,600.0,3.1
+1496,Multi Millet Granola,Gourmet & World Food,Cereals & Breakfast,300.0,1.0,2.0,600.0,2.3
+1614,"Dried Fruit Cereal - Pineapple, Strawberry & Apricot",Snacks & Branded Foods,Breakfast Cereals,600.0,1.0,1.0,600.0,1.99
+1711,Dates Powder - Natural Sweetener,Baby Care,Baby Food & Formula,300.0,1.0,2.0,600.0,1.86
+2920,Syrup,Gourmet & World Food,"Sauces, Spreads & Dips",200.0,1.0,3.0,600.0,1.05
+763,Juice - Wellnezz Jamun,Beverages,Fruit Juices & Drinks,149.0,1.0,4.0,596.0,3.96
+2387,"Toilet Roll - 3 Ply -100% Virgin Pulp/Paper, Pack of 4",Cleaning & Household,"Disposables, Garbage Bag",588.0,1.0,1.0,588.0,1.37
+2975,Mutton - Seekh Kebab,"Eggs, Meat & Fish",Mutton & Lamb,580.0,1.0,1.0,580.0,0.82
+1092,"Juice - Fruit Power, Cranberry 1 L + Fruit Power, Orange/Santra 1 L",Beverages,Fruit Juices & Drinks,193.0,1.0,3.0,579.0,3.25
+91,Lactose Free Milk,"Bakery, Cakes & Dairy",Dairy,142.56,1.0,4.0,570.0,23.43
+2217,Alkaline Battery Max AAA (8+4 Free),"Kitchen, Garden & Pets",Appliances & Electricals,285.0,2.0,2.0,570.0,1.49
+2547,"Sauce - Bhut Jolokia, Extra Hot Chilli",Snacks & Branded Foods,"Spreads, Sauces, Ketchup",187.5,2.0,3.0,563.0,1.23
+252,30 Second Almond Milk  - Unsweetened,"Bakery, Cakes & Dairy",Dairy,560.0,1.0,1.0,560.0,10.31
+1162,Chutneys - Tomato & Chilli,Snacks & Branded Foods,Ready To Cook & Eat,140.0,1.0,4.0,560.0,2.64
+1415,Light - Apple Juice Based Drink,Beverages,Energy & Soft Drinks,280.0,2.0,2.0,560.0,2.26
+13,Zucchini - Green,Fruits & Vegetables,Fresh Vegetables,50.0,1.0,11.0,550.0,67.32
+494,"Ham - Pork, Smoked","Eggs, Meat & Fish","Sausages, Bacon & Salami",275.0,1.0,2.0,550.0,5.63
+1665,Chocolate Wafer Roll,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",272.0,1.0,2.0,544.0,1.96
+60,Soy Milk - Unsweetened,"Bakery, Cakes & Dairy",Dairy,108.0,2.0,5.0,540.0,32.27
+130,Sour Cream,"Bakery, Cakes & Dairy",Dairy,60.0,2.0,9.0,540.0,17.43
+1461,Organic Chikpea White/Kabuli Chana/Kabuli Kadale,"Foodgrains, Oil & Masala",Dals & Pulses,135.0,3.0,4.0,540.0,2.34
+1624,Noni Juice,Beverages,Fruit Juices & Drinks,540.0,1.0,1.0,540.0,1.99
+1819,100% Mixed Fruit Juice,Beverages,Fruit Juices & Drinks,270.0,1.0,2.0,540.0,1.97
+1989,Dark Cookies Cream - Family Pack,Snacks & Branded Foods,Biscuits & Cookies,135.0,3.0,4.0,540.0,1.58
+2187,100% Pure Peanut Butter,Gourmet & World Food,"Sauces, Spreads & Dips",178.62,2.0,3.0,536.0,1.6
+101,Feta Cheese,"Bakery, Cakes & Dairy",Dairy,89.0,1.0,6.0,534.0,20.67
+1435,Tomato Sauce - No Onion No Garlic,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",105.0,2.0,5.0,525.0,2.51
+837,Oats,Snacks & Branded Foods,Breakfast Cereals,260.0,2.0,2.0,520.0,4.08
+1357,Special Face Tissue - 2 Ply,Cleaning & Household,"Disposables, Garbage Bag",130.0,1.0,4.0,520.0,2.0
+1633,Chicken Sausage,"Eggs, Meat & Fish","Sausages, Bacon & Salami",171.6,1.0,3.0,515.0,1.93
+1914,Amla and Giloy Juice,Beverages,Fruit Juices & Drinks,500.0,1.0,1.0,500.0,1.48
+2107,Powder - Red Chili,"Foodgrains, Oil & Masala",Masalas & Spices,166.5,2.0,3.0,500.0,1.68
+2348,Crunchy Muesli - Almond Raisins And Honey,Snacks & Branded Foods,Breakfast Cereals,499.0,1.0,1.0,499.0,1.44
+1299,Oats,Snacks & Branded Foods,Breakfast Cereals,249.0,1.0,2.0,498.0,2.29
+1729,Spaghetti - Tomato & Cheese,Gourmet & World Food,"Pasta, Soup & Noodles",249.0,1.0,2.0,498.0,1.95
+2218,Ultimate Seeds & Berries Muesli,Gourmet & World Food,Cereals & Breakfast,249.0,2.0,2.0,498.0,1.46
+1331,"Pork - Mortadella with Pistachios, P.G.I, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",492.3,1.0,1.0,492.0,2.35
+1169,Amla Pickle,Snacks & Branded Foods,Pickles & Chutney,70.0,2.0,7.0,490.0,2.98
+2044,Fruit Power Juice - Apple,Beverages,Fruit Juices & Drinks,244.8,2.0,2.0,490.0,1.7
+2542,Cosmic Clusters Strawberry Cereal,Gourmet & World Food,Cereals & Breakfast,485.0,1.0,1.0,485.0,1.08
+1164,"Bread - Brown, Chemical Free 400G + Eggs - Regular 6pcs","Bakery, Cakes & Dairy",Breads & Buns,80.58,2.0,6.0,483.0,2.97
+2305,Hide & Seek Chocolate,Snacks & Branded Foods,Biscuits & Cookies,53.46,5.0,9.0,481.0,1.48
+69,Mineral Water,Beverages,Water,240.0,1.0,2.0,480.0,27.74
+305,Butter Milk - Vitamin,"Bakery, Cakes & Dairy",Dairy,80.0,1.0,6.0,480.0,9.1
+375,Hot Wings Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",160.0,1.0,3.0,480.0,7.67
+559,Jerk Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",160.0,2.0,3.0,480.0,5.89
+843,Mini Samosa - Cheese Corn,Snacks & Branded Foods,Frozen Veggies & Snacks,120.0,3.0,4.0,480.0,4.33
+1487,Dish Wash Powder,Cleaning & Household,Detergents & Dishwash,120.0,1.0,4.0,480.0,2.32
+1715,Green Peas - Garden Fresh,Snacks & Branded Foods,Frozen Veggies & Snacks,240.0,1.0,2.0,480.0,2.24
+2637,Mini Samosa - Cheese Corn,Snacks & Branded Foods,Snacks & Namkeen,120.0,3.0,4.0,480.0,1.34
+175,Curd - Set,"Bakery, Cakes & Dairy",Dairy,119.0,1.0,4.0,476.0,13.37
+969,Breakfast Mix - Oats Dosa,Snacks & Branded Foods,Ready To Cook & Eat,119.0,2.0,4.0,476.0,3.09
+1827,Pasta Elbow,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",119.0,3.0,4.0,476.0,1.69
+2048,Rusk - Garlic,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",119.0,3.0,4.0,476.0,1.89
+360,"Pork - Spanish Toast Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",158.4,1.0,3.0,475.0,8.01
+1478,"Melts Whole Grain Snack - Carrot & Cumin, Apple & Cinnamon, Banana & Strawberry, Blueberry, From 9 Months, Rich in Protein",Baby Care,Baby Food & Formula,475.0,1.0,1.0,475.0,2.38
+2756,Jalapeno Pasta Sauce 385 g + Sriracha Chilli Sauce 185 g + Hot Sauce 75 ml,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",475.2,1.0,1.0,475.0,1.18
+1592,Popcorn Chicken - Halal Cut,Snacks & Branded Foods,Frozen Veggies & Snacks,235.0,2.0,2.0,470.0,2.14
+852,Pickle - Cut Mango,Snacks & Branded Foods,Pickles & Chutney,46.0,4.0,10.0,460.0,4.02
+884,"Sausage - Pork, Cocktail","Eggs, Meat & Fish","Sausages, Bacon & Salami",230.0,1.0,2.0,460.0,3.62
+1048,"Sausage - Pork, Super Bacon","Eggs, Meat & Fish","Sausages, Bacon & Salami",230.0,1.0,2.0,460.0,3.2
+2116,"Sausage - Pork, Cocktail","Eggs, Meat & Fish",Pork & Other Meats,230.0,2.0,2.0,460.0,1.65
+2926,Nutrition Energy Bar - Cocoa Coconut & Almonds,Snacks & Branded Foods,Breakfast Cereals,229.34,1.0,2.0,459.0,0.96
+856,Hand Soap - Lavender & Chamomile,Beauty & Hygiene,Bath & Hand Wash,225.0,1.0,2.0,450.0,3.74
+2914,Organic Basmati Rice//Basmati Akki - Brown,"Foodgrains, Oil & Masala",Rice & Rice Products,224.0,1.0,2.0,448.0,0.91
+2526,"Croissant - Cheese & Chilli, Mini","Bakery, Cakes & Dairy",Gourmet Breads,149.0,2.0,3.0,447.0,1.21
+460,Four Cheese Thin Pizza,Snacks & Branded Foods,Frozen Veggies & Snacks,221.25,1.0,2.0,443.0,6.68
+262,Processed Cheese,"Bakery, Cakes & Dairy",Dairy,110.0,1.0,4.0,440.0,10.05
+1018,Amla Juice,Beverages,Fruit Juices & Drinks,220.0,2.0,2.0,440.0,3.32
+2978,Soft Drink,Beverages,Energy & Soft Drinks,438.0,1.0,1.0,438.0,1.03
+1673,Pasta - Elbow,Gourmet & World Food,"Pasta, Soup & Noodles",218.0,2.0,2.0,436.0,1.65
+1518,Pizza Cheese - Mozzarella Block,"Bakery, Cakes & Dairy",Dairy,431.0,1.0,1.0,431.0,1.95
+475,"Almond Milk Cacao - Lactose Free, Dairy Free & Vegan","Bakery, Cakes & Dairy",Dairy,430.0,1.0,1.0,430.0,6.03
+1761,Corn Flakes - Original,Snacks & Branded Foods,Breakfast Cereals,425.0,1.0,1.0,425.0,2.02
+2793,Preserve - Blackberry,Gourmet & World Food,"Sauces, Spreads & Dips",425.0,1.0,1.0,425.0,1.07
+168,Watermelon  - Small,Fruits & Vegetables,Fresh Fruits,24.95,2.0,17.0,424.0,14.48
+801,pasta shell,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",70.0,2.0,6.0,420.0,4.31
+1389,Snacks - Peanut Salted,Snacks & Branded Foods,Snacks & Namkeen,60.0,2.0,7.0,420.0,2.69
+1854,Pasta - Linguine,Gourmet & World Food,"Pasta, Soup & Noodles",210.0,1.0,2.0,420.0,1.75
+1969,Special K,Snacks & Branded Foods,Breakfast Cereals,210.0,1.0,2.0,420.0,1.89
+2766,2 Ply Kitchen Towels,Cleaning & Household,"Disposables, Garbage Bag",140.0,2.0,3.0,420.0,1.11
+2112,Apple - with No Added Sugar,Beverages,Fruit Juices & Drinks,209.52,1.0,2.0,419.0,1.66
+553,Eggs - Regular,"Eggs, Meat & Fish",Eggs,83.16,2.0,5.0,416.0,5.47
+1286,"Pork - Mortadella with Olives, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",410.4,1.0,1.0,410.0,2.68
+1460,Strawberry Dia Jam,Gourmet & World Food,"Sauces, Spreads & Dips",135.0,1.0,3.0,405.0,2.15
+242,Potato Chips - Classic Salt,Snacks & Branded Foods,Snacks & Namkeen,100.0,1.0,4.0,400.0,10.44
+859,Tandoori Hummus,Gourmet & World Food,"Sauces, Spreads & Dips",400.0,1.0,1.0,400.0,3.65
+1011,Almondo - Roasted Almonds Coated With Milk Chocolate,Snacks & Branded Foods,Chocolates & Candies,200.0,1.0,2.0,400.0,3.65
+1645,Instant - Rava Upma Vegetable,Snacks & Branded Foods,Ready To Cook & Eat,80.0,2.0,5.0,400.0,2.05
+1719,Chicken Premium Ham,"Eggs, Meat & Fish","Sausages, Bacon & Salami",200.0,1.0,2.0,400.0,1.96
+2063,Pav Bhaji,Snacks & Branded Foods,Ready To Cook & Eat,100.0,2.0,4.0,400.0,2.07
+2421,Millet Muesli - Chocolate & Cranberry,Snacks & Branded Foods,Breakfast Cereals,399.0,1.0,1.0,399.0,1.2
+906,Organic - Dry Fruits & Seeds Jaggery Cookies,Baby Care,Baby Food & Formula,199.0,1.0,2.0,398.0,3.7
+1924,Foxtail Almond Jaggery Cookies,Baby Care,Baby Food & Formula,199.0,2.0,2.0,398.0,1.63
+341,Mithai Mate - Sweetened Condensed Milk,"Bakery, Cakes & Dairy",Dairy,99.0,1.0,4.0,396.0,8.47
+1740,Ready To Eat - Lemon Rice,Snacks & Branded Foods,Ready To Cook & Eat,99.0,3.0,4.0,396.0,2.0
+480,Fruit Yoghurt - Mango,"Bakery, Cakes & Dairy",Dairy,79.0,1.0,5.0,395.0,6.78
+2631,Organic Biodegradable Baby Laundry Clothing Detergent,Cleaning & Household,Detergents & Dishwash,395.0,1.0,1.0,395.0,1.12
+1265,Dried Blackberries,"Foodgrains, Oil & Masala",Dry Fruits,392.0,1.0,1.0,392.0,2.85
+29,Baby Corn - Peeled,Fruits & Vegetables,Cuts & Sprouts,23.0,2.0,17.0,391.0,47.71
+448,"Whole Wheat Bread - Safe, Preservative Free 400 g + Pav 300 g","Bakery, Cakes & Dairy",Breads & Buns,65.0,1.0,6.0,390.0,6.81
+1329,Oil - Sesame,"Foodgrains, Oil & Masala",Edible Oils & Ghee,130.0,2.0,3.0,390.0,2.58
+820,Peanut Butter - Creamy,Gourmet & World Food,"Sauces, Spreads & Dips",129.36,1.0,3.0,388.0,4.18
+1406,Preserve - Apricot,Gourmet & World Food,"Sauces, Spreads & Dips",385.0,1.0,1.0,385.0,2.32
+920,Cornetto Chokissimo,"Bakery, Cakes & Dairy",Ice Creams & Desserts,192.0,1.0,2.0,384.0,3.91
+2545,Manchurian Cooking Sauce,Snacks & Branded Foods,Ready To Cook & Eat,127.51,2.0,3.0,383.0,1.32
+789,Energy Drink,Beverages,Energy & Soft Drinks,381.0,1.0,1.0,381.0,4.13
+2812,Fiesta - Fruit Cocktail,Gourmet & World Food,Tinned & Processed Food,190.0,1.0,2.0,380.0,0.91
+2933,Ready Meals - Pau Bhaji,Snacks & Branded Foods,Ready To Cook & Eat,95.0,1.0,4.0,380.0,1.15
+2316,Chocolate Peanut Butter,Gourmet & World Food,"Sauces, Spreads & Dips",189.0,1.0,2.0,378.0,1.1
+1734,Multigrain Chips - Original,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",121.5,2.0,3.0,365.0,1.78
+1,Banana - Poovan,Fruits & Vegetables,Fresh Fruits,26.0,1.0,14.0,364.0,244.27
+2020,"Milk - Soya, Sugar Free","Bakery, Cakes & Dairy",Dairy,362.36,1.0,1.0,362.0,1.74
+51,Carrot - Sliced,Fruits & Vegetables,Cuts & Sprouts,27.8,1.0,13.0,361.0,35.9
+2,Sugarcane,Fruits & Vegetables,Fresh Fruits,10.0,2.0,36.0,360.0,170.54
+720,Pickle - Organic Ginger (Pure Mustard Oil & Spices),Snacks & Branded Foods,Pickles & Chutney,90.0,1.0,4.0,360.0,4.36
+901,Thandai Kesar Badam,Beverages,Fruit Juices & Drinks,360.0,1.0,1.0,360.0,3.36
+1015,Pickle - Garlic,Snacks & Branded Foods,Pickles & Chutney,120.0,2.0,3.0,360.0,3.37
+1150,Organic - Pongal,Snacks & Branded Foods,Ready To Cook & Eat,120.0,1.0,3.0,360.0,2.96
+2395,Jack Fruit Chips,Snacks & Branded Foods,Snacks & Namkeen,120.0,1.0,3.0,360.0,1.24
+2459,Instant Drink Mix - Mosambi,Beverages,Fruit Juices & Drinks,120.0,1.0,3.0,360.0,1.25
+2558,Strong Blend,Beverages,Coffee,90.0,2.0,4.0,360.0,1.35
+15,Cucumber,Fruits & Vegetables,Fresh Vegetables,10.89,1.0,33.0,359.0,62.38
+2755,Super Oats - Dark Chocolate,Gourmet & World Food,Cereals & Breakfast,119.4,1.0,3.0,358.0,1.03
+1958,Breakfast Mix - Oats Idli,Snacks & Branded Foods,Ready To Cook & Eat,119.0,1.0,3.0,357.0,1.56
+470,Fresho Signature Plain Bread Stick 100G + Happy Chef Pasta Sauce Arrabiata 270G,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",177.5,1.0,2.0,355.0,6.24
+1044,Carrot Crackers,Snacks & Branded Foods,Snacks & Namkeen,88.0,1.0,4.0,352.0,2.95
+1042,Masoor Black Whole/Sabut,"Foodgrains, Oil & Masala",Dals & Pulses,117.0,2.0,3.0,351.0,3.13
+1241,Sprinklers - Black Pepper,"Foodgrains, Oil & Masala",Masalas & Spices,175.5,1.0,2.0,351.0,2.67
+1578,Basmati Rice/Basmati Akki - Classic,"Foodgrains, Oil & Masala",Rice & Rice Products,175.0,2.0,2.0,350.0,2.36
+2083,Organic - Whole Wheat Ajwain Jaggery Teething Sticks,Baby Care,Baby Food & Formula,175.0,1.0,2.0,350.0,1.56
+2293,"Fruit & Vegetable Juice - Blends, Lean",Beverages,Fruit Juices & Drinks,350.1,1.0,1.0,350.0,1.53
+2426,"Basmati Rice/Basmati Akki - Traditional, Authentic, Aged","Foodgrains, Oil & Masala",Rice & Rice Products,174.0,2.0,2.0,348.0,1.22
+291,Premium Basmati Rice,Snacks & Branded Foods,Ready To Cook & Eat,115.0,1.0,3.0,345.0,8.81
+2596,Sugar Free Dark Chocolate- 55% Rich In Cocoa,Snacks & Branded Foods,Chocolates & Candies,115.0,2.0,3.0,345.0,1.21
+1891,Natural Smoked Cheese - Sliced,Gourmet & World Food,Dairy & Cheese,171.19,1.0,2.0,342.0,1.88
+2411,Ready To Cook - Quinoa Besibellabath,Snacks & Branded Foods,Ready To Cook & Eat,171.0,1.0,2.0,342.0,1.33
+1669,Peanut Butter Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",170.0,2.0,2.0,340.0,2.03
+1983,Mediterranean Chicken Kebab,Snacks & Branded Foods,Frozen Veggies & Snacks,170.0,1.0,2.0,340.0,1.58
+137,Fresh Natural Thick Curd,"Bakery, Cakes & Dairy",Dairy,84.0,1.0,4.0,336.0,16.75
+1480,Mango Mallika - Organically Grown,Fruits & Vegetables,Fresh Fruits,83.0,3.0,4.0,332.0,2.33
+23,Carrots - Julienne,Fruits & Vegetables,Cuts & Sprouts,33.0,2.0,10.0,330.0,49.66
+1801,"Lactogen Follow-Up Formula Powder, Stage 3, After 12 Months",Baby Care,Baby Food & Formula,330.0,1.0,1.0,330.0,1.91
+2205,Pistachios - Roasted & Salted,"Foodgrains, Oil & Masala",Dry Fruits,165.0,1.0,2.0,330.0,1.35
+186,Peanut Butter- Creamy,Gourmet & World Food,"Sauces, Spreads & Dips",325.0,1.0,1.0,325.0,12.44
+757,Chicken Spicy Breast Strips,"Eggs, Meat & Fish","Sausages, Bacon & Salami",325.0,1.0,1.0,325.0,4.67
+807,Cheese - Block,"Bakery, Cakes & Dairy",Dairy,108.0,2.0,3.0,324.0,3.93
+1714,Pomelo - Peeled,Fruits & Vegetables,Cuts & Sprouts,108.0,1.0,3.0,324.0,1.9
+1759,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Fruits & Vegetables,Herbs & Seasonings,81.06,2.0,4.0,324.0,2.4
+301,Misti Doi,"Bakery, Cakes & Dairy",Dairy,80.0,1.0,4.0,320.0,8.64
+2039,Peri Peri Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",160.0,1.0,2.0,320.0,1.55
+2064,"Yogurt Dip - Cilantro, Jalapeno",Gourmet & World Food,"Sauces, Spreads & Dips",160.0,1.0,2.0,320.0,1.85
+2742,Skin-Fit Tablets - Improves Skin Health,Beauty & Hygiene,Health & Medicine,63.0,2.0,5.0,315.0,1.18
+2938,Muesli - With 22% Fruit Magic,Snacks & Branded Foods,Breakfast Cereals,315.0,1.0,1.0,315.0,0.93
+2819,Natural Hangover & Liver Detox Drink - Mint,Beverages,Energy & Soft Drinks,62.5,2.0,5.0,313.0,1.18
+1965,Black Tea,Beverages,Tea,155.0,1.0,2.0,310.0,1.81
+2516,Idli Rice,"Foodgrains, Oil & Masala",Rice & Rice Products,155.0,2.0,2.0,310.0,1.02
+1722,"Pink Salmon Fillet - Wild Alaskan, In Oil","Eggs, Meat & Fish",Fish & Seafood,308.75,1.0,1.0,309.0,2.14
+1500,Cheddar Cheese Spread - Jalapeno,"Bakery, Cakes & Dairy",Dairy,77.0,1.0,4.0,308.0,2.43
+2690,Pistachio,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",307.2,1.0,1.0,307.0,1.27
+1470,Crunchy Granola Bars - Oats 'n Honey,Gourmet & World Food,Cereals & Breakfast,306.0,1.0,1.0,306.0,2.23
+1386,"Infant Formula - Powder, Stage 1",Baby Care,Baby Food & Formula,304.0,1.0,1.0,304.0,2.63
+317,Slim 'n' Trim Skimmed Milk,"Bakery, Cakes & Dairy",Dairy,150.0,1.0,2.0,300.0,8.66
+620,Red Kidney Beans Curry-Basmati Rice,Snacks & Branded Foods,Ready To Cook & Eat,150.0,1.0,2.0,300.0,5.15
+857,"Woddae Medium Dark Roast Ground Coffee - Whole Beans, Single Origin",Beverages,Coffee,300.0,1.0,1.0,300.0,3.91
+1253,Pina Colada Iced Tea With Coconut & Pineapple,Beverages,Energy & Soft Drinks,300.0,1.0,1.0,300.0,2.51
+1318,"Country (Desi) Eggs - Small, Antibiotic Residue-Free","Eggs, Meat & Fish",Eggs,300.0,1.0,1.0,300.0,2.65
+1403,"Gravy Mix - Chinese Chilli, Serves 4",Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",50.0,1.0,6.0,300.0,2.34
+1553,"Cereal - Ragi, Rice & Strawberry With Milk",Baby Care,Baby Food & Formula,300.0,1.0,1.0,300.0,2.02
+1720,Coconut Water - 100% Natural With No Added Sugar,Beverages,Fruit Juices & Drinks,300.0,1.0,1.0,300.0,2.08
+1873,Filta Fresh Chicory Blend Coffee,Beverages,Coffee,300.0,1.0,1.0,300.0,1.68
+1982,"100% Organic Porridge - Millet & Oats, 6-8 Months, No Preservatives, No Artificial Colours",Baby Care,Baby Food & Formula,300.0,1.0,1.0,300.0,1.8
+2709,Amla Chatpata,Snacks & Branded Foods,Pickles & Chutney,300.0,1.0,1.0,300.0,1.18
+2937,Facial Box Tissue Paper - Standard,Cleaning & Household,"Disposables, Garbage Bag",150.0,2.0,2.0,300.0,0.9
+1844,Black Pepper - Corn,"Foodgrains, Oil & Masala",Masalas & Spices,149.25,1.0,2.0,299.0,1.84
+2224,Tandoori Chicken Tikka Pizza - Large,Snacks & Branded Foods,Frozen Veggies & Snacks,299.0,1.0,1.0,299.0,1.33
+2521,Rice & Bean chips - Sea Salt,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",149.5,1.0,2.0,299.0,1.14
+2608,Pomegranate - Premium,Fruits & Vegetables,Fresh Fruits,299.0,1.0,1.0,299.0,0.95
+2074,Total Anticavity Fluoride Toothpaste - Whole Mouth Health,Beauty & Hygiene,Oral Care,297.0,1.0,1.0,297.0,1.46
+522,Organic Penne - Rigate,Gourmet & World Food,"Pasta, Soup & Noodles",295.0,1.0,1.0,295.0,6.68
+994,Mexican Chicken Pizza,Snacks & Branded Foods,Frozen Veggies & Snacks,295.0,1.0,1.0,295.0,3.57
+1878,Milk Chocolate - Salted Peanut Praline,Snacks & Branded Foods,Chocolates & Candies,295.0,1.0,1.0,295.0,1.74
+2280,Soft Drink - Lemon,Beverages,Energy & Soft Drinks,145.8,1.0,2.0,292.0,1.55
+2928,Intensive Care Deep Moisture Body Lotion - With Pure Oat Extract,Beauty & Hygiene,Skin Care,291.85,1.0,1.0,292.0,0.95
+2765,"Muffin - Rich Chocolate, Whole Wheat (Eggless)","Bakery, Cakes & Dairy",Cakes & Pastries,289.0,1.0,1.0,289.0,1.12
+1394,French Fries,Snacks & Branded Foods,Frozen Veggies & Snacks,95.0,1.0,3.0,285.0,2.19
+2215,Raisins/Ona Drakshi - Indian,"Foodgrains, Oil & Masala",Dry Fruits,95.0,2.0,3.0,285.0,1.46
+2376,Sabudana Wada Mix,Snacks & Branded Foods,Ready To Cook & Eat,95.0,1.0,3.0,285.0,1.44
+2936,Hommade Lemoneez - Goodness Of 33 Lemons,Beverages,Fruit Juices & Drinks,71.0,2.0,4.0,284.0,0.97
+650,0.0 Non Alcoholic Beer,Beverages,Energy & Soft Drinks,56.25,1.0,5.0,281.0,5.15
+479,Preserve - Raspberry,Gourmet & World Food,"Sauces, Spreads & Dips",280.0,1.0,1.0,280.0,6.65
+996,Microwave Popcorn Variety Pack,Snacks & Branded Foods,Snacks & Namkeen,280.0,1.0,1.0,280.0,3.43
+1674,Ridge Gourd - Organically Grown,Fruits & Vegetables,Fresh Vegetables,40.0,4.0,7.0,280.0,2.05
+2257,Gruyere,Gourmet & World Food,Dairy & Cheese,280.0,1.0,1.0,280.0,1.49
+2660,"Jam - Strawberry, Preserve",Gourmet & World Food,"Sauces, Spreads & Dips",280.0,1.0,1.0,280.0,1.0
+2043,Organic Sattu Maavu Multi-Grain Millets Porridge Mix,Baby Care,Baby Food & Formula,275.0,1.0,1.0,275.0,1.78
+2158,Spaghetti Whole Wheat,Gourmet & World Food,"Pasta, Soup & Noodles",272.0,1.0,1.0,272.0,1.57
+2353,Cheese Spread - Yummy Plain,"Bakery, Cakes & Dairy",Dairy,136.0,1.0,2.0,272.0,1.38
+406,Green Peas,Snacks & Branded Foods,Frozen Veggies & Snacks,90.45,2.0,3.0,271.0,7.51
+381,Pickle - Tomato (Without Garlic),Snacks & Branded Foods,Pickles & Chutney,90.0,2.0,3.0,270.0,8.05
+2005,Matta Rice - Long Grain,"Foodgrains, Oil & Masala",Rice & Rice Products,270.0,1.0,1.0,270.0,1.53
+2952,Stain Remover Stick - Lemon,Cleaning & Household,Detergents & Dishwash,269.0,1.0,1.0,269.0,0.99
+1502,"Cornetto Frozen Dessert-Double Chocolate+Butterscotch (115ml E)+Disc, Oreo 120ml","Bakery, Cakes & Dairy",Ice Creams & Desserts,134.0,1.0,2.0,268.0,2.42
+2703,Chicken - Cold Cut Ham,Snacks & Branded Foods,Frozen Veggies & Snacks,134.0,1.0,2.0,268.0,1.3
+1141,Whole Wheat Cookies - Almond,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",89.0,1.0,3.0,267.0,2.93
+2211,Spread - Choco Butter,"Bakery, Cakes & Dairy",Dairy,89.0,1.0,3.0,267.0,1.38
+706,Garlic Pickle,Gourmet & World Food,"Sauces, Spreads & Dips",265.0,1.0,1.0,265.0,4.62
+1730,Cranberry Blueberry Muesli - Fibre Rich Breakfast Cereal,Snacks & Branded Foods,Breakfast Cereals,265.0,1.0,1.0,265.0,1.68
+1863,"Cerelac Baby Cereal with Milk - Multigrain Dal Veg, From 12-24 Months, Rich in Iron",Baby Care,Baby Food & Formula,264.0,1.0,1.0,264.0,1.88
+2308,Chilli Cheesy Nuggets,Snacks & Branded Foods,Frozen Veggies & Snacks,130.0,2.0,2.0,260.0,1.41
+2764,Red Pepper (Bhut Jolokia) Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",65.0,3.0,4.0,260.0,1.23
+2883,Kitchen Towel - ECO (4 in 1),Cleaning & Household,"Disposables, Garbage Bag",260.0,1.0,1.0,260.0,1.09
+2915,Choco Fills+,Snacks & Branded Foods,Breakfast Cereals,130.0,2.0,2.0,260.0,1.09
+1348,Peanut Butter,Gourmet & World Food,"Sauces, Spreads & Dips",129.0,1.0,2.0,258.0,2.52
+1349,Multigrain Cookies,Snacks & Branded Foods,Biscuits & Cookies,36.85,3.0,7.0,258.0,2.48
+2460,Chocolate Croissant,"Bakery, Cakes & Dairy",Gourmet Breads,128.0,1.0,2.0,256.0,1.11
+804,Dark Soya Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",85.0,1.0,3.0,255.0,4.12
+1246,Egg Hakka Noodles,Gourmet & World Food,"Pasta, Soup & Noodles",85.0,1.0,3.0,255.0,2.88
+1343,Premium Low Gi Natural Herbal Sugar - Diabetic Friendly,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",85.0,1.0,3.0,255.0,2.25
+37,Asparagus,Fruits & Vegetables,Fresh Vegetables,84.0,1.0,3.0,252.0,44.92
+144,Dairy Whipping Cream,"Bakery, Cakes & Dairy",Dairy,250.0,1.0,1.0,250.0,16.63
+785,Chilli Garlic,Snacks & Branded Foods,Snacks & Namkeen,50.0,1.0,5.0,250.0,3.99
+875,Cheese Cubes,"Bakery, Cakes & Dairy",Dairy,125.0,1.0,2.0,250.0,3.63
+1023,Multigrain Bread,"Bakery, Cakes & Dairy",Breads & Buns,50.0,1.0,5.0,250.0,2.89
+1061,12 Grains With Organic Jaggery,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50.0,3.0,5.0,250.0,3.57
+1260,Farfalle Pasta,Gourmet & World Food,"Pasta, Soup & Noodles",250.0,1.0,1.0,250.0,2.58
+1752,Organic - Black Rice/Akki,"Foodgrains, Oil & Masala",Rice & Rice Products,125.0,2.0,2.0,250.0,1.69
+1807,Chicken Cocktail Sausage,Snacks & Branded Foods,Frozen Veggies & Snacks,125.0,1.0,2.0,250.0,1.7
+2229,Chocolate Peanut Butter,Gourmet & World Food,"Sauces, Spreads & Dips",250.0,1.0,1.0,250.0,1.02
+2610,Whey Protein Bar - Cranberry Blast,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",125.0,1.0,2.0,250.0,1.05
+806,Durum Wheat Pasta - Angel Hair,Gourmet & World Food,"Pasta, Soup & Noodles",249.0,1.0,1.0,249.0,4.12
+729,"Pork - Oak Smoked Bacon, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",246.6,1.0,1.0,247.0,4.45
+651,Idli - Sooji 2kg + Sugar 2kg + Peanuts/ Mungaphali/Shengdana - Raw 500gm,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",243.0,1.0,1.0,243.0,4.88
+1970,Ready Meals - Paneer Tikka Masala,Snacks & Branded Foods,Ready To Cook & Eat,120.0,1.0,2.0,240.0,1.81
+2067,Go Mixed Fruit Mania - Active Hydration Drink With Zero Sugar & No Preservatives,Beverages,Energy & Soft Drinks,60.0,2.0,4.0,240.0,1.84
+2179,Chicken Bratwurst,"Eggs, Meat & Fish","Sausages, Bacon & Salami",239.0,1.0,1.0,239.0,1.36
+2089,Chunky Orange Marmalade,Gourmet & World Food,"Sauces, Spreads & Dips",119.0,1.0,2.0,238.0,1.56
+2143,"Idly Dosa Batter, 1 Kg + Whole Wheat Parota, 350 g",Snacks & Branded Foods,Frozen Veggies & Snacks,118.89,1.0,2.0,238.0,1.43
+2945,Pickle - Mixed,Snacks & Branded Foods,Pickles & Chutney,119.0,1.0,2.0,238.0,1.03
+364,Fruit Yoghurt - Strawberry,"Bakery, Cakes & Dairy",Dairy,79.0,1.0,3.0,237.0,7.87
+2170,Black Pepper & Sea Salt Grinder,"Foodgrains, Oil & Masala",Masalas & Spices,118.15,1.0,2.0,236.0,1.52
+534,Banana - Red,Fruits & Vegetables,Fresh Fruits,39.0,2.0,6.0,234.0,5.75
+656,Natural Paneer,"Bakery, Cakes & Dairy",Dairy,76.23,1.0,3.0,229.0,5.14
+346,Apple Shimla 4 pcs + Banana Robusta 1 kg + Watermelon Small + Papaya Medium 1 pc,Fruits & Vegetables,Fresh Fruits,228.3,1.0,1.0,228.0,8.09
+517,Grapes - Thompson Seedless,Fruits & Vegetables,Fresh Fruits,76.0,1.0,3.0,228.0,6.0
+2466,Wheat - Samba Broken,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",113.85,2.0,2.0,228.0,1.44
+283,Sausage - Pork,"Eggs, Meat & Fish","Sausages, Bacon & Salami",225.0,1.0,1.0,225.0,9.65
+1012,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225.0,1.0,1.0,225.0,3.33
+1178,Nuts & Seeds Bar - Dark Chocolate & Sea Salt,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",75.0,2.0,3.0,225.0,2.88
+1795,Sliced Black Olives,Snacks & Branded Foods,Ready To Cook & Eat,225.0,1.0,1.0,225.0,1.92
+1834,King Alphonso Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225.0,1.0,1.0,225.0,1.75
+2223,Cheese Balls,Snacks & Branded Foods,Snacks & Namkeen,75.0,2.0,3.0,225.0,1.51
+2930,Pizza Snacks,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",75.0,1.0,3.0,225.0,1.03
+2955,Biscuits - Fruit,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",75.0,3.0,3.0,225.0,0.99
+53,Tomato - Hybrid,Fruits & Vegetables,Fresh Vegetables,14.0,2.0,16.0,224.0,35.64
+1697,Frozen Vegetables -  Tinda,Snacks & Branded Foods,Frozen Veggies & Snacks,56.0,1.0,4.0,224.0,1.82
+2134,2 Ply Toilet Tissue Roll,Cleaning & Household,"Disposables, Garbage Bag",112.0,1.0,2.0,224.0,1.37
+2838,Cranberries - Whole,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",224.0,1.0,1.0,224.0,1.01
+2595,Chocolate,Snacks & Branded Foods,Chocolates & Candies,111.67,1.0,2.0,223.0,1.0
+2711,Informals - Facial Tissue Box,Cleaning & Household,"Disposables, Garbage Bag",222.0,1.0,1.0,222.0,1.01
+116,Tomato - Diced,Fruits & Vegetables,Fresh Vegetables,22.0,2.0,10.0,220.0,19.04
+1111,Emotibites - Crispy Happy Potato Snack,Snacks & Branded Foods,Frozen Veggies & Snacks,220.0,1.0,1.0,220.0,3.12
+1332,Potato Chips - Chilli Tamato,Snacks & Branded Foods,Snacks & Namkeen,110.0,2.0,2.0,220.0,2.52
+1777,Pizza Cheese Mozzarella - Diced,"Bakery, Cakes & Dairy",Dairy,110.0,1.0,2.0,220.0,1.79
+1616,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219.0,1.0,1.0,219.0,2.02
+633,Red Poha,"Foodgrains, Oil & Masala",Rice & Rice Products,72.75,1.0,3.0,218.0,4.7
+845,Sauce - American Mustard,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",109.0,2.0,2.0,218.0,3.64
+2601,"Thin Cookie - Garam Masala, Gluten Free","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",109.0,2.0,2.0,218.0,1.29
+2789,Podi - Puttu,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",54.32,3.0,4.0,217.0,1.07
+1687,Soy Milky - Elaichi Flavour,"Bakery, Cakes & Dairy",Dairy,54.0,3.0,4.0,216.0,2.23
+2068,Pizza Seasoning,"Foodgrains, Oil & Masala",Masalas & Spices,108.0,1.0,2.0,216.0,1.41
+452,Malai Paneer,"Bakery, Cakes & Dairy",Dairy,71.28,1.0,3.0,214.0,6.56
+979,Choco Brownie Fudge Tub - Frozen Dessert,"Bakery, Cakes & Dairy",Ice Creams & Desserts,211.65,1.0,1.0,212.0,3.34
+575,Shrikhand - Badam Pista,"Bakery, Cakes & Dairy",Dairy,105.0,1.0,2.0,210.0,5.53
+887,Fruit Cookies,Snacks & Branded Foods,Biscuits & Cookies,70.0,2.0,3.0,210.0,3.71
+2867,Banana Chips Pepper,Snacks & Branded Foods,Snacks & Namkeen,70.0,1.0,3.0,210.0,0.89
+59,Kiwi - Green,Fruits & Vegetables,Fresh Fruits,209.0,1.0,1.0,209.0,32.34
+474,Dairy Whitener,"Bakery, Cakes & Dairy",Dairy,205.0,1.0,1.0,205.0,6.56
+2297,Organic Green Tea,Beverages,Tea,102.0,1.0,2.0,204.0,1.15
+1172,Baked Beans In Tomato Sauce,Gourmet & World Food,Tinned & Processed Food,202.5,1.0,1.0,203.0,2.66
+2445,Cheese Spread - Asli Pepper,"Bakery, Cakes & Dairy",Dairy,101.25,1.0,2.0,203.0,1.58
+140,Zucchini - Yellow,Fruits & Vegetables,Fresh Vegetables,50.0,1.0,4.0,200.0,17.54
+385,Bread - Milk,"Bakery, Cakes & Dairy",Breads & Buns,40.0,1.0,5.0,200.0,7.79
+631,Pain Au Levain - with Blueberries & Cranberries (Sourdough),"Bakery, Cakes & Dairy",Gourmet Breads,200.0,1.0,1.0,200.0,5.27
+1683,Ice Cream - Choco Caramel,"Bakery, Cakes & Dairy",Ice Creams & Desserts,200.0,1.0,1.0,200.0,2.2
+1705,Ice Cream - Caramel Cookies,"Bakery, Cakes & Dairy",Ice Creams & Desserts,200.0,1.0,1.0,200.0,2.0
+2598,Badam Drink,"Bakery, Cakes & Dairy",Dairy,50.0,2.0,4.0,200.0,1.29
+2611,Green Coffee,Beverages,Coffee,200.0,1.0,1.0,200.0,1.26
+2963,"Cold Extracted Juice - Basics, Guava",Beverages,Fruit Juices & Drinks,200.0,1.0,1.0,200.0,0.93
+1613,Tuna Chunks In Spring Water,Gourmet & World Food,Tinned & Processed Food,199.0,1.0,1.0,199.0,1.98
+1813,Rice Stick - 3 mm,Gourmet & World Food,"Pasta, Soup & Noodles",199.0,1.0,1.0,199.0,1.56
+2031,Organic - Ragi & Choco Jaggery Cookies,Baby Care,Baby Food & Formula,199.0,1.0,1.0,199.0,1.45
+2561,Organic - Cinnamon/Chakke,"Foodgrains, Oil & Masala",Masalas & Spices,199.0,1.0,1.0,199.0,1.12
+25,Sparkling Water,Beverages,Water,198.0,1.0,1.0,198.0,48.25
+1081,Breakfast Cereal - Crunchy Flakes with Corn & Oats,Snacks & Branded Foods,Breakfast Cereals,99.0,1.0,2.0,198.0,3.21
+1735,Tamarind - Sweet,Fruits & Vegetables,Fresh Fruits,99.0,1.0,2.0,198.0,1.77
+78,Capsicum - Yellow,Fruits & Vegetables,Fresh Vegetables,65.0,1.0,3.0,195.0,26.43
+1497,Khara Boondi,Snacks & Branded Foods,Snacks & Namkeen,65.0,2.0,3.0,195.0,2.23
+1660,Naan Chips - Butter Garlic,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",95.0,2.0,2.0,190.0,2.32
+2701,Noodles - Egg,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",95.0,2.0,2.0,190.0,1.13
+2781,Shin Ramyun Noodles,Gourmet & World Food,"Pasta, Soup & Noodles",95.0,1.0,2.0,190.0,1.07
+2967,Laccha Paratha,Snacks & Branded Foods,Frozen Veggies & Snacks,95.0,1.0,2.0,190.0,1.18
+802,Elephant Apple Pickle,Gourmet & World Food,Tinned & Processed Food,189.0,1.0,1.0,189.0,3.99
+2563,"Dates - Kimia, with Seed",Fruits & Vegetables,Fresh Fruits,189.0,1.0,1.0,189.0,1.26
+260,Frozen - Mixed Vegetables,Snacks & Branded Foods,Frozen Veggies & Snacks,93.5,1.0,2.0,187.0,9.66
+2570,Urad Dal/Uddina Bele - Whole,"Foodgrains, Oil & Masala",Dals & Pulses,93.5,1.0,2.0,187.0,1.24
+1297,Instant Soup - Manchow,Snacks & Branded Foods,Ready To Cook & Eat,92.15,2.0,2.0,184.0,2.74
+2056,Apricots/Jardalu,"Foodgrains, Oil & Masala",Dry Fruits,181.7,1.0,1.0,182.0,1.79
+632,Vanilla Milkshake,"Bakery, Cakes & Dairy",Dairy,180.0,1.0,1.0,180.0,4.77
+844,Delight Fruit Juice - Cranberry,Beverages,Fruit Juices & Drinks,180.4,1.0,1.0,180.0,3.87
+1192,Salted Crispy Murukku,Snacks & Branded Foods,Snacks & Namkeen,60.0,1.0,3.0,180.0,2.85
+1996,Fruit Juice - Masala Pomegranate,Beverages,Fruit Juices & Drinks,180.0,1.0,1.0,180.0,1.56
+2724,Powder - Curry,"Foodgrains, Oil & Masala",Masalas & Spices,60.0,3.0,3.0,180.0,1.21
+2958,Low Gi (Palm Sugar),"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",60.0,2.0,3.0,180.0,1.02
+279,Salsa Dip,Gourmet & World Food,"Sauces, Spreads & Dips",89.0,1.0,2.0,178.0,10.09
+1310,Mango Chilli Jam,Gourmet & World Food,"Sauces, Spreads & Dips",89.1,1.0,2.0,178.0,2.87
+1629,Green Tea Bags - Moroccan Mint,Beverages,Tea,178.0,1.0,1.0,178.0,2.21
+1508,Cooking Butter,"Bakery, Cakes & Dairy",Dairy,88.4,1.0,2.0,177.0,2.6
+1907,Boiled Sweet Corn Kernel - Spice Up With Cheese And Herbs Seasoning,Fruits & Vegetables,Cuts & Sprouts,59.0,3.0,3.0,177.0,1.66
+6,Raw Mango,Fruits & Vegetables,Fresh Fruits,16.0,1.0,11.0,176.0,97.32
+1091,Crunchy Potato Nuggets - Chilli Garlic Potato Bites,Snacks & Branded Foods,Frozen Veggies & Snacks,175.5,1.0,1.0,176.0,2.81
+1884,Mountain Dew,Beverages,Energy & Soft Drinks,35.2,2.0,5.0,176.0,1.93
+2735,Fruit Power - Orange,Beverages,Fruit Juices & Drinks,176.4,1.0,1.0,176.0,1.05
+12,"Tomato - Local, Organically Grown",Fruits & Vegetables,Fresh Vegetables,5.0,1.0,35.0,175.0,72.84
+971,Rice - Flour,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",35.0,2.0,5.0,175.0,3.32
+981,Peanut Butter - Crunchy,Gourmet & World Food,"Sauces, Spreads & Dips",175.0,1.0,1.0,175.0,3.4
+1552,Bonbons Blister,Gourmet & World Food,"Sauces, Spreads & Dips",175.0,1.0,1.0,175.0,1.98
+2750,Sunrise Instant Coffee,Beverages,Coffee,175.0,1.0,1.0,175.0,1.11
+267,Organic Sprouts Moong Green,Fruits & Vegetables,Cuts & Sprouts,29.0,1.0,6.0,174.0,10.14
+955,Milkshake- Vanilla,"Bakery, Cakes & Dairy",Dairy,172.8,1.0,1.0,173.0,3.13
+1273,Beans - Julienne,Fruits & Vegetables,Cuts & Sprouts,43.0,1.0,4.0,172.0,2.62
+2716,Spaghetti - Basmati Rice,Gourmet & World Food,"Pasta, Soup & Noodles",171.0,1.0,1.0,171.0,1.16
+966,Breakfast Cereal - Crunchy Granola With Nutty Honey,Snacks & Branded Foods,Breakfast Cereals,170.0,1.0,1.0,170.0,3.42
+1391,Instant - Ambode Mix,Snacks & Branded Foods,Ready To Cook & Eat,85.0,1.0,2.0,170.0,2.7
+2772,Noodles - Tomato & Carrot,Gourmet & World Food,"Pasta, Soup & Noodles",170.0,1.0,1.0,170.0,0.97
+2331,Butter - Pasteurised (School Pack),"Bakery, Cakes & Dairy",Dairy,56.43,1.0,3.0,169.0,1.29
+2384,Himayath Mango,Fruits & Vegetables,Fresh Fruits,169.0,1.0,1.0,169.0,1.27
+610,"Coconut Milk Yogurt - With Coconut Jaggery, Dairy Free","Bakery, Cakes & Dairy",Dairy,168.0,1.0,1.0,168.0,4.69
+944,Fish - Nuggets,"Eggs, Meat & Fish",Fish & Seafood,168.0,1.0,1.0,168.0,4.03
+2222,Grand Coffee,Beverages,Coffee,83.2,1.0,2.0,166.0,1.56
+416,Pork - Oxford Sausages,"Eggs, Meat & Fish","Sausages, Bacon & Salami",165.0,1.0,1.0,165.0,7.11
+483,Instant Diet Popcorn - 60% Less Salt,Snacks & Branded Foods,Snacks & Namkeen,33.0,2.0,5.0,165.0,6.02
+876,Chicken - Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",165.0,1.0,1.0,165.0,3.67
+1312,Sauce - Red Chili,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",55.0,2.0,3.0,165.0,2.6
+2007,"Toilet Roll - 2 Rolls, 3 ply",Cleaning & Household,"Disposables, Garbage Bag",165.0,1.0,1.0,165.0,1.42
+2443,FunFoods Spicy Vinegar,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",55.0,2.0,3.0,165.0,1.35
+2392,Caribbean Chicken Pops,Snacks & Branded Foods,Frozen Veggies & Snacks,161.5,1.0,1.0,162.0,1.48
+545,Energy Bar - Oats & Apricot,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",160.0,1.0,1.0,160.0,5.36
+998,All Natural Salsa - Peri Peri Salsa,Gourmet & World Food,"Sauces, Spreads & Dips",160.0,1.0,1.0,160.0,3.54
+1672,Cheese Spread - Jeera,"Bakery, Cakes & Dairy",Dairy,80.0,1.0,2.0,160.0,2.02
+1769,Rich Cocoa Dark Chocolate Bar,Snacks & Branded Foods,Chocolates & Candies,160.0,1.0,1.0,160.0,1.77
+1911,Instant - Khara Bhath with Methi & green peas,Snacks & Branded Foods,Ready To Cook & Eat,80.0,2.0,2.0,160.0,1.89
+2091,Popped Potato Chips - Mirch Masala flavour,Snacks & Branded Foods,Snacks & Namkeen,40.0,3.0,4.0,160.0,1.76
+2162,"Mini Oaty Bites - Nuts & Berries, 18+ Months, 100% Natural, No Added Sugars",Baby Care,Baby Food & Formula,160.0,1.0,1.0,160.0,1.69
+2235,"Snacks - Cheese Balls, Cheese Flavoured",Gourmet & World Food,"Snacks, Dry Fruits, Nuts",80.0,1.0,2.0,160.0,1.44
+2604,Ready to Cook - Prawn Small,"Eggs, Meat & Fish",Fish & Seafood,160.0,1.0,1.0,160.0,1.36
+2694,Munch Chocolate Coated Crunchy Wafer - Share Pack,Snacks & Branded Foods,Biscuits & Cookies,80.0,2.0,2.0,160.0,1.29
+1290,Whole Wheat Cookies - Choco Chip,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",159.0,1.0,1.0,159.0,2.41
+2267,Dish Wash Paste - Lime,Cleaning & Household,Detergents & Dishwash,159.0,1.0,1.0,159.0,1.36
+505,Fruit Yoghurt - Peach,"Bakery, Cakes & Dairy",Dairy,79.0,1.0,2.0,158.0,6.51
+2884,Cooking Soda,Gourmet & World Food,Cooking & Baking Needs,31.5,2.0,5.0,158.0,1.13
+2635,Colin Cleaner - Glass and Household 500 ml + Scotch Brite Sponge Wipe Large 1 pc,Cleaning & Household,All Purpose Cleaners,155.0,1.0,1.0,155.0,1.22
+1184,Chocobakes Choc Layered Cakes - Family Pack,Snacks & Branded Foods,Biscuits & Cookies,51.0,1.0,3.0,153.0,2.98
+1426,Nacho Cheese,Snacks & Branded Foods,Snacks & Namkeen,76.5,2.0,2.0,153.0,2.36
+2326,Multi Grain Idli Dosa Batter,Snacks & Branded Foods,Ready To Cook & Eat,76.0,1.0,2.0,152.0,1.4
+216,Probiotic Yogurt - Vanilla Bean,"Bakery, Cakes & Dairy",Dairy,25.0,2.0,6.0,150.0,12.11
+427,"Beans - Double, White","Foodgrains, Oil & Masala",Dals & Pulses,75.0,2.0,2.0,150.0,6.81
+671,Biscuits,Snacks & Branded Foods,Biscuits & Cookies,30.0,1.0,5.0,150.0,4.95
+811,Powder - Garlic,"Foodgrains, Oil & Masala",Masalas & Spices,75.0,1.0,2.0,150.0,4.08
+968,Hot Chicken Flavour Ramen 3 X Spicy,Gourmet & World Food,"Pasta, Soup & Noodles",150.0,1.0,1.0,150.0,3.37
+984,Margarita - Lemon & Lime,Beverages,Energy & Soft Drinks,50.0,1.0,3.0,150.0,3.74
+1195,Health Bar - Almond,Snacks & Branded Foods,Breakfast Cereals,150.0,1.0,1.0,150.0,2.6
+1354,Yam - Cut,Fruits & Vegetables,Cuts & Sprouts,30.0,2.0,5.0,150.0,2.43
+1476,Coconut Flakes,"Foodgrains, Oil & Masala",Dry Fruits,150.0,1.0,1.0,150.0,2.13
+1699,Pizza Rusk,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",25.0,3.0,6.0,150.0,2.03
+1998,Ready to Cook & Serve - Cheese Poppons,Snacks & Branded Foods,Frozen Veggies & Snacks,150.0,1.0,1.0,150.0,1.73
+2171,Naturedrop Dishwashing Liquid,Cleaning & Household,Detergents & Dishwash,150.0,1.0,1.0,150.0,1.3
+2249,"Easy To Cook Gravy Mix - Chinese Manchurian, Serves 4",Snacks & Branded Foods,Ready To Cook & Eat,50.0,1.0,3.0,150.0,1.32
+2281,Mysore Filter Coffee -  90:10,Beverages,Coffee,150.0,1.0,1.0,150.0,1.34
+2475,Dates Pickle,Snacks & Branded Foods,Pickles & Chutney,150.0,1.0,1.0,150.0,1.35
+2818,Fruit Drink - Green Apple,Beverages,Fruit Juices & Drinks,50.0,1.0,3.0,150.0,1.12
+2879,Instant - Khara Bhath Mix,Snacks & Branded Foods,Ready To Cook & Eat,75.0,1.0,2.0,150.0,1.07
+2977,Chicken Bell Pepper Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",150.0,1.0,1.0,150.0,0.92
+387,Classic Mixed Vegetable Soup,Snacks & Branded Foods,Ready To Cook & Eat,49.5,2.0,3.0,149.0,7.99
+728,Cashew/Godambis - Roasted & Salted,"Foodgrains, Oil & Masala",Dry Fruits,149.0,1.0,1.0,149.0,4.44
+1810,Raw Turmeric Pickle,Snacks & Branded Foods,Pickles & Chutney,149.0,1.0,1.0,149.0,1.86
+1963,Tender Coconut Tub - Frozen Dessert,"Bakery, Cakes & Dairy",Ice Creams & Desserts,149.0,1.0,1.0,149.0,1.99
+2495,Spanish Corn - Roasted & Salted,"Foodgrains, Oil & Masala",Dry Fruits,149.0,1.0,1.0,149.0,1.25
+2669,Veg Chaap,Snacks & Branded Foods,Frozen Veggies & Snacks,149.0,1.0,1.0,149.0,1.14
+2718,Cashew/Godambis - Pepper Dry Roasted,"Foodgrains, Oil & Masala",Dry Fruits,149.0,1.0,1.0,149.0,0.96
+2446,Idli Rice,"Foodgrains, Oil & Masala",Rice & Rice Products,74.0,2.0,2.0,148.0,1.31
+1658,Dry Fruit Plum,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",49.0,2.0,3.0,147.0,2.05
+2591,Instant - Adai Dosa Mix,Snacks & Branded Foods,Ready To Cook & Eat,145.0,1.0,1.0,145.0,1.25
+737,Cranberry - Slice,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",72.0,1.0,2.0,144.0,4.54
+1393,Milano Choco Chip Cookies,Snacks & Branded Foods,Biscuits & Cookies,20.1,3.0,7.0,141.0,2.42
+443,Chicken Classic Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",140.0,1.0,1.0,140.0,7.38
+827,Strong Garlic Instant Noodles,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",20.0,3.0,7.0,140.0,3.92
+868,Pita Bread 100% Wholewheat,"Bakery, Cakes & Dairy",Gourmet Breads,70.0,1.0,2.0,140.0,3.86
+962,Cheese - Block,"Bakery, Cakes & Dairy",Dairy,139.5,1.0,1.0,140.0,3.35
+1130,"Melts Whole Grain Snack - Banana & Strawberry, From 9 Months, 100% Natural, No Additives",Baby Care,Baby Food & Formula,140.0,1.0,1.0,140.0,2.88
+1397,Chunky Salsa - Hot,Gourmet & World Food,"Sauces, Spreads & Dips",140.25,1.0,1.0,140.0,2.44
+2164,Weelz Crunchy Choco Coated Biscuit,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",140.0,1.0,1.0,140.0,1.42
+2172,"Urad - Black, Split/Chilka","Foodgrains, Oil & Masala",Dals & Pulses,70.0,2.0,2.0,140.0,1.41
+2424,Royal Kashmiri Mix,"Foodgrains, Oil & Masala",Dry Fruits,140.25,1.0,1.0,140.0,1.16
+2983,Maharaja Breakfast Long Leaf Black Tea - Pyramid Bags,Beverages,Tea,140.0,1.0,1.0,140.0,0.99
+439,Mayonnaise - Classic,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",69.0,2.0,2.0,138.0,6.66
+549,Alphabytes,Snacks & Branded Foods,Frozen Veggies & Snacks,137.75,1.0,1.0,138.0,5.67
+1151,Spring Onion - Chopped,Fruits & Vegetables,Cuts & Sprouts,46.0,2.0,3.0,138.0,3.14
+1256,Raspuri/Gola Mango,Fruits & Vegetables,Fresh Fruits,69.0,2.0,2.0,138.0,2.81
+2664,Pickle - Red Stuffed Chilli,Snacks & Branded Foods,Pickles & Chutney,138.0,1.0,1.0,138.0,1.47
+636,Sliced Peppers,Fruits & Vegetables,Cuts & Sprouts,34.0,1.0,4.0,136.0,5.33
+1242,Organic Whole Moong - Green Gram,"Foodgrains, Oil & Masala",Dals & Pulses,135.0,1.0,1.0,135.0,2.85
+1252,Chicken Momo,Snacks & Branded Foods,Frozen Veggies & Snacks,135.0,1.0,1.0,135.0,2.54
+2037,Soft Drink - Lime Flavoured 2.25l+Mango drink 600ml,Beverages,Fruit Juices & Drinks,135.0,1.0,1.0,135.0,1.59
+2487,Sesame  Bagel - 100% Wholewheat,"Bakery, Cakes & Dairy",Gourmet Breads,135.0,1.0,1.0,135.0,1.18
+2682,Dilliwali Dal Aloo Tikki,Snacks & Branded Foods,Frozen Veggies & Snacks,67.5,1.0,2.0,135.0,1.21
+2904,Sewai Kheer,Snacks & Branded Foods,Frozen Veggies & Snacks,67.5,2.0,2.0,135.0,0.93
+2061,Masala Peanut,Snacks & Branded Foods,Snacks & Namkeen,65.0,1.0,2.0,130.0,1.64
+2707,Juicy Orange Squash,Beverages,Fruit Juices & Drinks,130.0,1.0,1.0,130.0,1.24
+36,"Tomato - Hybrid, Organically Grown",Fruits & Vegetables,Fresh Vegetables,7.5,3.0,17.0,128.0,42.52
+1774,Frozen Dessert - Crunchy Butterscotch,"Bakery, Cakes & Dairy",Ice Creams & Desserts,126.65,1.0,1.0,127.0,1.85
+2681,Ragi Flour/Ragi Hittu,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",42.3,2.0,3.0,127.0,1.23
+1420,Edam Block Cheese - Diced,Gourmet & World Food,Dairy & Cheese,126.0,1.0,1.0,126.0,2.52
+2237,Curly Fries Masala,Snacks & Branded Foods,Frozen Veggies & Snacks,126.0,1.0,1.0,126.0,1.6
+156,Curd - Farm Fresh,"Bakery, Cakes & Dairy",Dairy,62.36,1.0,2.0,125.0,14.8
+533,Haldi Doodh Mix With Ashwagandha & Mulethi,Beverages,Fruit Juices & Drinks,125.0,1.0,1.0,125.0,5.85
+1837,Instant - Ragi Dosa Mix,Snacks & Branded Foods,Ready To Cook & Eat,125.0,1.0,1.0,125.0,2.08
+2743,Mix - Paneer Butter Masala,Snacks & Branded Foods,Ready To Cook & Eat,125.0,1.0,1.0,125.0,0.91
+2530,Lebanese Falafel Kebab,Snacks & Branded Foods,Frozen Veggies & Snacks,123.5,1.0,1.0,124.0,1.25
+1385,Cookies - Oats & Raisin,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",40.5,1.0,3.0,122.0,2.53
+33,Coriander Leaves,Fruits & Vegetables,Herbs & Seasonings,10.0,2.0,12.0,120.0,43.87
+182,Carrots - Grated,Fruits & Vegetables,Cuts & Sprouts,30.0,1.0,4.0,120.0,13.51
+240,Mango Drink,Beverages,Fruit Juices & Drinks,30.0,1.0,4.0,120.0,11.27
+628,Jeera Buttermilk,"Bakery, Cakes & Dairy",Dairy,30.0,1.0,4.0,120.0,4.95
+1115,"Eggs - Organic, Farm Fresh, Country","Eggs, Meat & Fish",Eggs,120.0,1.0,1.0,120.0,3.36
+1417,Chips Cream & Onion,Snacks & Branded Foods,Snacks & Namkeen,120.0,1.0,1.0,120.0,2.37
+1427,Nutricrunch Classic Digestive Cookies,Snacks & Branded Foods,Biscuits & Cookies,120.0,1.0,1.0,120.0,2.13
+1566,"Biscuits - Marie,  Sugar Free",Snacks & Branded Foods,Biscuits & Cookies,40.0,2.0,3.0,120.0,2.26
+1833,Hummus Chips - Sour Cream & Chives,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",60.0,1.0,2.0,120.0,2.01
+1981,Gram Flour - Besan/Kadale Hittu,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",60.0,2.0,2.0,120.0,1.67
+2018,Krackjack Biscuits - Butter Masala,Snacks & Branded Foods,Biscuits & Cookies,30.0,2.0,4.0,120.0,1.78
+2121,3 Minute Breakfast - Poha,Snacks & Branded Foods,Ready To Cook & Eat,60.0,1.0,2.0,120.0,1.58
+2242,Soya Sticks - Magic Masala,Snacks & Branded Foods,Snacks & Namkeen,60.0,1.0,2.0,120.0,1.38
+2613,Chips - Desi Masala,Snacks & Branded Foods,Snacks & Namkeen,120.0,1.0,1.0,120.0,1.3
+2623,Potato Chips - Rock Sea Salt & English Vinegar,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",40.0,2.0,3.0,120.0,1.23
+2820,Ready Meals - Palak Paneer,Snacks & Branded Foods,Ready To Cook & Eat,120.0,1.0,1.0,120.0,1.12
+2852,Pickle - Kalyana Mango,Snacks & Branded Foods,Pickles & Chutney,60.0,1.0,2.0,120.0,0.96
+2869,Multigrain Energy Bar - Vanilla Almond,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",40.0,2.0,3.0,120.0,1.14
+1940,Croissants - Cheese,"Bakery, Cakes & Dairy",Gourmet Breads,119.0,1.0,1.0,119.0,1.8
+2243,Sriracha Mayo,Gourmet & World Food,"Sauces, Spreads & Dips",119.0,1.0,1.0,119.0,1.31
+2845,Chef Kung Pao Gravy,Snacks & Branded Foods,Ready To Cook & Eat,119.2,1.0,1.0,119.0,0.81
+2777,5 Star - 3D Chocolate Bar,Snacks & Branded Foods,Chocolates & Candies,58.8,1.0,2.0,118.0,1.05
+959,Watermelon - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,39.0,2.0,3.0,117.0,3.66
+2658,Popcorn - Caramel Bliss,Snacks & Branded Foods,Snacks & Namkeen,58.5,1.0,2.0,117.0,1.24
+441,Muskmelon - Diced,Fruits & Vegetables,Fresh Fruits,29.0,1.0,4.0,116.0,6.81
+2299,Instant Energy Health Drink - Regular,Beverages,Fruit Juices & Drinks,58.0,1.0,2.0,116.0,1.11
+1261,Energy Drink - Sugar Free,Beverages,Energy & Soft Drinks,115.0,1.0,1.0,115.0,2.68
+1269,"Country Eggs - Kadaknath, Small, Antibiotic Residue-Free","Eggs, Meat & Fish",Eggs,115.0,1.0,1.0,115.0,2.69
+54,Thai Ginger,Fruits & Vegetables,Fresh Vegetables,38.0,1.0,3.0,114.0,33.42
+2363,"Drink - Mango, Fresh 'N' Juicy",Beverages,Fruit Juices & Drinks,38.0,1.0,3.0,114.0,1.4
+1926,Veg Sticks,Snacks & Branded Foods,Frozen Veggies & Snacks,112.5,1.0,1.0,113.0,1.78
+2729,Waffy Cheese Flavor Wafer,Snacks & Branded Foods,Biscuits & Cookies,22.5,2.0,5.0,113.0,1.1
+2790,Minute Meals - Chana Masala & Basmati Rice Combo,Snacks & Branded Foods,Ready To Cook & Eat,112.5,1.0,1.0,113.0,0.92
+48,Natural Mineral Water,Beverages,Water,55.25,1.0,2.0,111.0,36.78
+55,Sweet Potato,Fruits & Vegetables,Fresh Vegetables,15.84,2.0,7.0,111.0,34.23
+619,Honey Sunflower,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",110.5,1.0,1.0,111.0,5.02
+1574,Carrot Strips and Beans Strip,Fruits & Vegetables,Fresh Vegetables,37.0,2.0,3.0,111.0,2.19
+237,Potato - Wedges,Fruits & Vegetables,Cuts & Sprouts,22.0,2.0,5.0,110.0,11.29
+530,Squash - Kokum Kadi,Beverages,Fruit Juices & Drinks,110.0,1.0,1.0,110.0,6.18
+1209,Dried Prunes,"Foodgrains, Oil & Masala",Dry Fruits,110.0,1.0,1.0,110.0,2.68
+1619,Focaccia Bread - Olives,"Bakery, Cakes & Dairy",Gourmet Breads,55.0,1.0,2.0,110.0,1.91
+2486,Baked Coconut Chips - Coffee & Cinnamon,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",55.0,2.0,2.0,110.0,1.37
+2700,Pineapple Chunks - In Syrup,Snacks & Branded Foods,Ready To Cook & Eat,110.0,1.0,1.0,110.0,0.96
+2833,Black Salt/Uppu,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",55.0,2.0,2.0,110.0,0.96
+1835,"Croissant - Plain Butter, Mini","Bakery, Cakes & Dairy",Gourmet Breads,109.0,1.0,1.0,109.0,2.03
+119,Natural Mountain Water - Vedica,Beverages,Water,54.0,1.0,2.0,108.0,18.65
+2616,Fruit Salt - Lemon,Beauty & Hygiene,Health & Medicine,54.0,1.0,2.0,108.0,1.12
+764,"Treat Croissant - Cocoa Creme Roll, 100% Veg","Bakery, Cakes & Dairy",Gourmet Breads,13.35,1.0,8.0,107.0,4.44
+1262,Rice Powder,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",53.0,1.0,2.0,106.0,2.33
+573,Kesar Shrikhand,"Bakery, Cakes & Dairy",Dairy,105.0,1.0,1.0,105.0,5.19
+1282,Heat & Serve - Multigrain Paratha (8 Grain Enriched),Snacks & Branded Foods,Frozen Veggies & Snacks,105.0,1.0,1.0,105.0,2.74
+814,Malai Paneer - Organic,"Bakery, Cakes & Dairy",Dairy,104.0,1.0,1.0,104.0,3.87
+2390,Processed Cheese - Chiplets Cubes,"Bakery, Cakes & Dairy",Dairy,103.0,1.0,1.0,103.0,1.44
+2909,Vita Marie Gold Biscuits,Snacks & Branded Foods,Biscuits & Cookies,102.0,1.0,1.0,102.0,1.12
+2332,Appam/Idiyappam Podi,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",101.0,1.0,1.0,101.0,1.29
+157,Bread - Fruit,"Bakery, Cakes & Dairy",Breads & Buns,20.0,3.0,5.0,100.0,15.07
+340,Classic Sweet Garlic Chutney,Snacks & Branded Foods,Pickles & Chutney,100.0,1.0,1.0,100.0,8.32
+409,Rose Lassi,"Bakery, Cakes & Dairy",Dairy,20.0,1.0,5.0,100.0,7.53
+607,Macaroni Elbow Pasta,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",100.0,1.0,1.0,100.0,5.26
+973,Hapima Crispy Fry Mix,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",20.0,2.0,5.0,100.0,3.49
+1353,Instant Upma,Snacks & Branded Foods,Ready To Cook & Eat,50.0,1.0,2.0,100.0,2.68
+1791,Cheese Balls - Cheese-N-Corn,Snacks & Branded Foods,Snacks & Namkeen,100.0,1.0,1.0,100.0,1.56
+88,Carrots - Julienne,Fruits & Vegetables,Fresh Vegetables,33.0,1.0,3.0,99.0,23.6
+420,Cheese - Spread,"Bakery, Cakes & Dairy",Dairy,99.0,1.0,1.0,99.0,6.84
+486,"Country Cage Free Eggs - Medium, Antibiotic Residue-Free","Eggs, Meat & Fish",Eggs,99.0,1.0,1.0,99.0,6.74
+1186,Biscuits - Super Value Family Pack,Snacks & Branded Foods,Biscuits & Cookies,99.0,1.0,1.0,99.0,2.6
+1359,Cheese - Pizza,"Bakery, Cakes & Dairy",Dairy,99.0,1.0,1.0,99.0,2.46
+1490,Carrot - Sliced,Fruits & Vegetables,Fresh Vegetables,33.0,1.0,3.0,99.0,2.1
+1712,Tikka Masala Sauce,Snacks & Branded Foods,Ready To Cook & Eat,99.0,1.0,1.0,99.0,1.85
+1727,Litchi,Fruits & Vegetables,Fresh Fruits,99.0,1.0,1.0,99.0,2.1
+1954,"Xpress Eats, Ready-to-Eat Dal Makhani",Snacks & Branded Foods,Ready To Cook & Eat,99.0,1.0,1.0,99.0,1.55
+1961,Heat to Eat - Saucy Tomato Pasta with Veggies,Snacks & Branded Foods,Ready To Cook & Eat,49.5,1.0,2.0,99.0,1.81
+2234,Beanz - Baked Beans In Tomato Sauce,Gourmet & World Food,Tinned & Processed Food,99.0,1.0,1.0,99.0,1.21
+2614,Rogan Josh Sauce,Snacks & Branded Foods,Ready To Cook & Eat,99.0,1.0,1.0,99.0,1.08
+2634,Kochi Masala Banana Chips Nendran Chips made in Coconut Oil,Snacks & Branded Foods,Snacks & Namkeen,99.0,1.0,1.0,99.0,1.42
+125,Radish - White,Fruits & Vegetables,Fresh Vegetables,49.0,1.0,2.0,98.0,18.37
+1930,Tamarind Date Chutney,Snacks & Branded Foods,Pickles & Chutney,49.0,2.0,2.0,98.0,1.78
+158,Totapuri Mango,Fruits & Vegetables,Fresh Fruits,24.0,1.0,4.0,96.0,15.2
+1698,"Yumitos Potato Chips - Original Style, Chilli",Snacks & Branded Foods,Snacks & Namkeen,96.0,1.0,1.0,96.0,2.18
+1920,Yumitos Masala - Potato Chips,Snacks & Branded Foods,Snacks & Namkeen,48.0,1.0,2.0,96.0,1.73
+2415,Flavoured Milk - Badam,"Bakery, Cakes & Dairy",Dairy,96.0,1.0,1.0,96.0,1.4
+751,Coke Zero Soft Drink - No Sugar,Beverages,Energy & Soft Drinks,23.76,1.0,4.0,95.0,4.98
+1116,Banana Chips - Salted,Snacks & Branded Foods,Snacks & Namkeen,95.0,1.0,1.0,95.0,2.82
+1736,"All-Purpose Gravy - Tomato Makhani, Easy and Quick, Pre-Cooked Indian Gravy, No Preservatives",Snacks & Branded Foods,Ready To Cook & Eat,95.0,1.0,1.0,95.0,1.88
+2364,Canapes,Snacks & Branded Foods,Snacks & Namkeen,95.0,1.0,1.0,95.0,1.44
+2861,Coconut Rice-Ready to Eat   250 GRM,Snacks & Branded Foods,Ready To Cook & Eat,95.0,1.0,1.0,95.0,0.95
+2903,Noodles - Chicken,Gourmet & World Food,"Pasta, Soup & Noodles",94.5,1.0,1.0,95.0,1.01
+449,Punjabi Paneer,"Bakery, Cakes & Dairy",Dairy,93.5,1.0,1.0,94.0,7.14
+1064,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47.0,1.0,2.0,94.0,3.35
+152,Sambhar Onion (Small Onion),Fruits & Vegetables,Fresh Vegetables,23.0,1.0,4.0,92.0,15.84
+703,Cut - Mushroom,Fruits & Vegetables,Cuts & Sprouts,46.0,1.0,2.0,92.0,4.8
+1101,Banana Milk Shake,"Bakery, Cakes & Dairy",Dairy,91.0,1.0,1.0,91.0,2.96
+2643,Potato Crisps Pizza flavour,Snacks & Branded Foods,Snacks & Namkeen,91.08,1.0,1.0,91.0,1.27
+446,Cup-A-Soup - Chicken Delite,Snacks & Branded Foods,Ready To Cook & Eat,15.0,3.0,6.0,90.0,6.99
+527,Mango Shrikhand,"Bakery, Cakes & Dairy",Dairy,90.0,1.0,1.0,90.0,5.76
+539,Paratha Puff,Snacks & Branded Foods,Frozen Veggies & Snacks,90.0,1.0,1.0,90.0,5.48
+798,Bread - Brown,"Bakery, Cakes & Dairy",Breads & Buns,45.0,1.0,2.0,90.0,4.03
+1017,"Chips - Potato, Masala",Snacks & Branded Foods,Snacks & Namkeen,45.0,1.0,2.0,90.0,3.26
+1325,Yam - Cut,Fruits & Vegetables,Fresh Vegetables,30.0,2.0,3.0,90.0,2.81
+1767,Naturedrop - Herbal Liquid Dish Wash,Cleaning & Household,Detergents & Dishwash,90.0,1.0,1.0,90.0,1.7
+1839,Ridge Gourd - Diced,Fruits & Vegetables,Fresh Vegetables,45.0,1.0,2.0,90.0,2.08
+2060,Hide & Seek - Chocolate,Snacks & Branded Foods,Biscuits & Cookies,45.0,2.0,2.0,90.0,1.77
+2336,This Mocha  3 In 1 Premix Instant Coffee,Beverages,Coffee,90.0,1.0,1.0,90.0,1.43
+2490,Sanjay Potato Chips Plain,Snacks & Branded Foods,Snacks & Namkeen,45.0,2.0,2.0,90.0,1.22
+2564,Pickle - Green Chilli (Sliced) With out Garlic,Snacks & Branded Foods,Pickles & Chutney,90.0,1.0,1.0,90.0,1.1
+2652,Noodles - Chicken Pho Rice,Gourmet & World Food,"Pasta, Soup & Noodles",90.0,1.0,1.0,90.0,1.2
+2726,Tomato Ketchup,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",90.0,1.0,1.0,90.0,1.13
+2868,Crisp & Shine Floral Fusion Fabric Enhancer,Cleaning & Household,Detergents & Dishwash,45.0,2.0,2.0,90.0,1.02
+746,Mushrooms - Button,Fruits & Vegetables,Fresh Vegetables,44.55,1.0,2.0,89.0,4.36
+909,"Ice Cube/Freezer Tray - Pink, L5003X2","Kitchen, Garden & Pets",Storage & Accessories,89.0,1.0,1.0,89.0,3.87
+1124,100% Whole Grain Oats,Gourmet & World Food,Cereals & Breakfast,89.0,1.0,1.0,89.0,2.68
+1441,Lime Pickle in Olive Oil,Snacks & Branded Foods,Pickles & Chutney,89.0,1.0,1.0,89.0,2.34
+1507,Ready To Eat - Sambar Rice,Snacks & Branded Foods,Ready To Cook & Eat,89.0,1.0,1.0,89.0,2.23
+1544,Malabar Paratha,Snacks & Branded Foods,Frozen Veggies & Snacks,89.0,1.0,1.0,89.0,2.32
+1454,Secret Hot & Sour Veg Soup,Snacks & Branded Foods,Ready To Cook & Eat,44.0,1.0,2.0,88.0,2.3
+2008,Frozen Vegetables - Parwal,Snacks & Branded Foods,Frozen Veggies & Snacks,44.0,1.0,2.0,88.0,1.68
+398,"Capsicum - Yellow, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,29.0,1.0,3.0,87.0,7.25
+547,Drumstick/Moringa,Fruits & Vegetables,Fresh Vegetables,21.78,1.0,4.0,87.0,5.67
+1087,White Radish - Sliced,Fruits & Vegetables,Fresh Vegetables,29.0,1.0,3.0,87.0,2.95
+1848,Dark Chocolate- 55% Rich In Cocoa,Snacks & Branded Foods,Chocolates & Candies,87.12,1.0,1.0,87.0,2.19
+2455,Thickest Mango Drink,Beverages,Fruit Juices & Drinks,43.34,1.0,2.0,87.0,1.26
+1157,Chicken - Meat Loaf,"Eggs, Meat & Fish","Sausages, Bacon & Salami",86.0,1.0,1.0,86.0,3.09
+165,Cream - Fresh,"Bakery, Cakes & Dairy",Dairy,85.0,1.0,1.0,85.0,13.8
+774,Whole Wheat Rusk - Sweet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",85.0,1.0,1.0,85.0,4.33
+1685,50-50 Maska Chaska Salted Biscuits,Snacks & Branded Foods,Biscuits & Cookies,28.22,3.0,3.0,85.0,1.98
+2120,Drink - Anar 200 ml + Juice - Santra 200 ml + Juice - Lychee Ras 200 ml,Beverages,Fruit Juices & Drinks,85.0,1.0,1.0,85.0,1.91
+2559,Tomato +  Hot & Sour Soup,Snacks & Branded Foods,Ready To Cook & Eat,85.36,1.0,1.0,85.0,1.3
+1395,Cardio Egg - Low Cholesterol Good For Heart,"Eggs, Meat & Fish",Eggs,84.0,1.0,1.0,84.0,2.53
+249,Onion - Diced,Fruits & Vegetables,Fresh Vegetables,27.0,1.0,3.0,81.0,10.33
+2691,Makhani Gravy - Ready to Cook,Snacks & Branded Foods,Ready To Cook & Eat,81.0,1.0,1.0,81.0,1.16
+2710,Nacho Round Chips,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",81.0,1.0,1.0,81.0,1.29
+71,"Brinjal - Varikatri, Organically Grown",Fruits & Vegetables,Fresh Vegetables,10.0,1.0,8.0,80.0,28.44
+285,Lassi,"Bakery, Cakes & Dairy",Dairy,20.0,2.0,4.0,80.0,9.62
+343,Sweet Bread,"Bakery, Cakes & Dairy",Breads & Buns,40.0,1.0,2.0,80.0,8.14
+515,Plum - Imported,Fruits & Vegetables,Fresh Fruits,79.75,1.0,1.0,80.0,5.77
+664,Club Soda - Evervess,Beverages,Energy & Soft Drinks,20.0,1.0,4.0,80.0,4.75
+927,Apple Fruit Juice,Beverages,Fruit Juices & Drinks,80.0,1.0,1.0,80.0,3.62
+947,OvenOrg Organic Multi Millet Bread,"Bakery, Cakes & Dairy",Breads & Buns,80.0,1.0,1.0,80.0,3.43
+1196,"Apple - Sliced, Royal Gala",Fruits & Vegetables,Cuts & Sprouts,40.0,1.0,2.0,80.0,2.63
+1206,Marie Biscuits,Snacks & Branded Foods,Biscuits & Cookies,20.1,1.0,4.0,80.0,2.97
+2391,Grated Coconut,Snacks & Branded Foods,Frozen Veggies & Snacks,80.0,1.0,1.0,80.0,1.11
+2470,Instant - Upma With Onion & Tomato,Snacks & Branded Foods,Ready To Cook & Eat,80.0,1.0,1.0,80.0,1.31
+2496,Cheese Spread - Red Chilli Flakes,"Bakery, Cakes & Dairy",Dairy,80.0,1.0,1.0,80.0,1.2
+2511,Popped Potato Chips - Spicy Chaat,Snacks & Branded Foods,Snacks & Namkeen,40.0,1.0,2.0,80.0,1.05
+2537,Vermicelli - Kodo Millet,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",40.0,2.0,2.0,80.0,1.21
+2640,"7 Grain Breakfast Cookie - Choco Chips, Soft & Chewy",Snacks & Branded Foods,Biscuits & Cookies,40.0,2.0,2.0,80.0,1.25
+456,Bitter Gourd,Fruits & Vegetables,Fresh Vegetables,19.8,1.0,4.0,79.0,6.8
+1147,Raw Mango - Diced,Fruits & Vegetables,Cuts & Sprouts,26.25,1.0,3.0,79.0,3.03
+1702,Cheese Bagel,"Bakery, Cakes & Dairy",Gourmet Breads,79.0,1.0,1.0,79.0,2.02
+1763,Strawberry Creme Biscuits,Snacks & Branded Foods,Biscuits & Cookies,79.2,1.0,1.0,79.0,1.84
+1782,Spice - Kashmiri Chilli Paprika,"Foodgrains, Oil & Masala",Masalas & Spices,79.0,1.0,1.0,79.0,1.73
+2004,Beans - Organically Grown,Fruits & Vegetables,Fresh Vegetables,79.0,1.0,1.0,79.0,1.56
+1344,Plastic Round Glass With Lid - Pink,"Kitchen, Garden & Pets",Storage & Accessories,39.0,1.0,2.0,78.0,2.78
+198,Sweet Corn,Fruits & Vegetables,Fresh Vegetables,25.74,1.0,3.0,77.0,12.6
+1001,Paneer - Chilli,"Bakery, Cakes & Dairy",Dairy,76.5,1.0,1.0,77.0,3.32
+136,Sugarcane - Diced,Fruits & Vegetables,Cuts & Sprouts,19.0,1.0,4.0,76.0,16.86
+288,Cucumber - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,19.0,1.0,4.0,76.0,9.79
+1997,Parwal,Fruits & Vegetables,Fresh Vegetables,76.0,1.0,1.0,76.0,1.59
+2095,Pineapple - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,38.0,2.0,2.0,76.0,1.63
+2177,Classic Aloo Tikki,Snacks & Branded Foods,Frozen Veggies & Snacks,76.0,1.0,1.0,76.0,1.35
+2464,Soya Flour,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",76.0,1.0,1.0,76.0,1.25
+850,Pizza Base - Sourdough 100% Wholewheat,"Bakery, Cakes & Dairy",Breads & Buns,75.0,1.0,1.0,75.0,3.86
+860,Knol Khol,Fruits & Vegetables,Fresh Vegetables,25.0,2.0,3.0,75.0,3.91
+2014,Chips - Banana Salted,Snacks & Branded Foods,Snacks & Namkeen,75.0,1.0,1.0,75.0,1.71
+2491,Instant Mix - Lemon Poha,Snacks & Branded Foods,Ready To Cook & Eat,75.0,1.0,1.0,75.0,1.47
+2760,Popcorn - Golden Sizzle  (Ipc Party Pack),Snacks & Branded Foods,Snacks & Namkeen,37.4,2.0,2.0,75.0,0.95
+2929,Rice Flour/Akki Hittu - Pesticide Free,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",74.25,1.0,1.0,74.0,0.88
+31,Cauliflower,Fruits & Vegetables,Fresh Vegetables,18.08,1.0,4.0,72.0,46.03
+680,Mint - Chopped,Fruits & Vegetables,Fresh Vegetables,24.0,3.0,3.0,72.0,5.04
+750,Mint - Chopped,Fruits & Vegetables,Cuts & Sprouts,24.0,1.0,3.0,72.0,3.9
+1040,Pro Health Chocolate Cookies,Snacks & Branded Foods,Biscuits & Cookies,72.0,1.0,1.0,72.0,3.15
+1166,Paneer - Regular,"Bakery, Cakes & Dairy",Dairy,72.0,1.0,1.0,72.0,3.0
+1225,Malai Fresh Paneer,"Bakery, Cakes & Dairy",Dairy,72.0,1.0,1.0,72.0,2.91
+2244,Pop Corn - Sweet Corn Chaat Masala,Snacks & Branded Foods,Snacks & Namkeen,36.1,1.0,2.0,72.0,1.53
+2592,Joy Square Mug,"Kitchen, Garden & Pets",Storage & Accessories,72.0,1.0,1.0,72.0,1.04
+1384,Ragi - Huri Hittu,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",70.56,1.0,1.0,71.0,2.37
+2156,Chocolate Syrup,Snacks & Branded Foods,Ready To Cook & Eat,71.0,1.0,1.0,71.0,1.35
+85,Dill Leaves,Fruits & Vegetables,Fresh Vegetables,10.0,1.0,7.0,70.0,23.04
+257,Healthy Brown Eggs,"Eggs, Meat & Fish",Eggs,70.29,1.0,1.0,70.0,10.07
+869,Cheese Sauce - Pizza,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",70.0,1.0,1.0,70.0,4.11
+987,Rajbhog Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,35.0,2.0,2.0,70.0,3.13
+1352,Banana Chips Masala,Snacks & Branded Foods,Snacks & Namkeen,70.0,1.0,1.0,70.0,2.64
+1467,Tea - Ginger Zing,Beverages,Tea,70.0,1.0,1.0,70.0,2.23
+1663,Onion Powder,"Foodgrains, Oil & Masala",Masalas & Spices,70.0,1.0,1.0,70.0,2.05
+1747,Roasted Sesame Seeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",70.0,1.0,1.0,70.0,2.0
+2287,Vegan Butter,"Bakery, Cakes & Dairy",Dairy,70.0,1.0,1.0,70.0,1.58
+2655,"Instant Energy Health Drink - Nimbu Pani, Refill",Beverages,Energy & Soft Drinks,70.0,1.0,1.0,70.0,1.29
+2719,White Chocolate Bar,Snacks & Branded Foods,Chocolates & Candies,10.0,3.0,7.0,70.0,1.19
+2720,Organic - White Pepper,"Foodgrains, Oil & Masala",Masalas & Spices,70.0,1.0,1.0,70.0,0.97
+459,Coriander Leaves - Chopped,Fruits & Vegetables,Cuts & Sprouts,23.0,1.0,3.0,69.0,7.02
+870,Healthy Daily Eggs,"Eggs, Meat & Fish",Eggs,69.3,1.0,1.0,69.0,3.92
+974,FunFoods American Mustard,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",69.0,1.0,1.0,69.0,3.02
+1534,Yummy Tummy Lunch Pack,"Kitchen, Garden & Pets",Storage & Accessories,69.0,1.0,1.0,69.0,2.15
+238,Sauce - Pasta & Pizza,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",67.5,1.0,1.0,68.0,10.84
+886,Sapota,Fruits & Vegetables,Fresh Fruits,34.0,1.0,2.0,68.0,4.12
+960,Bajra Flour,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",34.0,1.0,2.0,68.0,3.74
+1167,Digestive Biscuits,Snacks & Branded Foods,Biscuits & Cookies,68.0,1.0,1.0,68.0,3.08
+1523,"Pomegranate - Single Serve, Peeled",Fruits & Vegetables,Cuts & Sprouts,34.0,1.0,2.0,68.0,1.98
+2605,Schezwan Cooking Sauce,Snacks & Branded Foods,Ready To Cook & Eat,67.5,1.0,1.0,68.0,1.32
+337,Popcorn - Classic Salted,Snacks & Branded Foods,Snacks & Namkeen,33.25,1.0,2.0,67.0,7.59
+357,Onion - Thin Sliced,Fruits & Vegetables,Cuts & Sprouts,22.0,1.0,3.0,66.0,8.19
+46,"Tomato - Local, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,5.0,1.0,13.0,65.0,37.12
+684,Instant Soup - Creamy Chicken,Snacks & Branded Foods,Ready To Cook & Eat,65.0,1.0,1.0,65.0,4.38
+692,Chips - Topica,Snacks & Branded Foods,Snacks & Namkeen,65.0,1.0,1.0,65.0,5.53
+756,Chinese Fried Rice,Snacks & Branded Foods,Ready To Cook & Eat,65.0,1.0,1.0,65.0,4.49
+1247,Chocolate - Chips,Snacks & Branded Foods,Ready To Cook & Eat,65.0,1.0,1.0,65.0,2.67
+2062,Instant Soup - Creamy Mushroom,Snacks & Branded Foods,Ready To Cook & Eat,65.0,1.0,1.0,65.0,1.6
+2880,Natural Hangover & Liver Detox Drink - Strawberry,Beverages,Energy & Soft Drinks,62.5,1.0,1.0,63.0,0.96
+1846,Gluco Biscuits - Parle-G,Snacks & Branded Foods,Biscuits & Cookies,62.37,1.0,1.0,62.0,1.99
+1992,Pure Hands Tulsi Soap,Beauty & Hygiene,Bath & Hand Wash,30.8,2.0,2.0,62.0,1.66
+366,"Brinjal - Green, Long",Fruits & Vegetables,Fresh Vegetables,30.0,1.0,2.0,60.0,8.09
+579,Pudina Buttermilk,"Bakery, Cakes & Dairy",Dairy,30.0,1.0,2.0,60.0,5.04
+1217,Moonfils Choco Cream,"Bakery, Cakes & Dairy",Gourmet Breads,15.0,1.0,4.0,60.0,2.45
+1244,Pickle - Garlic,Snacks & Branded Foods,Pickles & Chutney,60.0,1.0,1.0,60.0,3.3
+1402,Milk Bikis Biscuits,Snacks & Branded Foods,Biscuits & Cookies,60.0,1.0,1.0,60.0,2.36
+1475,Go Zappy Apple - Active Hydration Drink With Zero Sugar & No Preservatives,Beverages,Energy & Soft Drinks,60.0,1.0,1.0,60.0,2.19
+1780,Instant Cup-A-Soup - Hot & Sour Vegetable,Snacks & Branded Foods,Ready To Cook & Eat,15.0,3.0,4.0,60.0,1.96
+2098,Cold Extracted Juice - Mixed Fruit,Beverages,Fruit Juices & Drinks,60.0,1.0,1.0,60.0,1.58
+2298,Breakfast Mix - Khaman Dhokla,Snacks & Branded Foods,Ready To Cook & Eat,60.0,1.0,1.0,60.0,1.38
+2320,Chocolate Milk Shake,"Bakery, Cakes & Dairy",Dairy,29.75,1.0,2.0,60.0,1.31
+2321,Flakes - Ragi,Snacks & Branded Foods,Breakfast Cereals,60.0,1.0,1.0,60.0,1.33
+2837,Aloo Paratha,Snacks & Branded Foods,Frozen Veggies & Snacks,60.0,1.0,1.0,60.0,0.82
+2976,Red Rice Poha - Thick,"Foodgrains, Oil & Masala",Rice & Rice Products,59.5,1.0,1.0,60.0,1.08
+1904,Sweet Corn Kernels - Achari Masti,Fruits & Vegetables,Cuts & Sprouts,59.0,1.0,1.0,59.0,1.64
+2529,Little Millet Noodles,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",59.0,1.0,1.0,59.0,1.3
+2712,Soft Drink,Beverages,Energy & Soft Drinks,59.4,1.0,1.0,59.0,1.11
+2919,Multimillet (Multigrain) Atta,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",58.8,1.0,1.0,59.0,0.91
+778,"Burger Buns - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,29.0,2.0,2.0,58.0,4.37
+1054,Kulcha,"Bakery, Cakes & Dairy",Breads & Buns,29.0,1.0,2.0,58.0,3.3
+1957,Garlic Naan,Snacks & Branded Foods,Frozen Veggies & Snacks,57.5,1.0,1.0,58.0,1.76
+2759,Namkeen - Rice Kodubale,Snacks & Branded Foods,Snacks & Namkeen,19.0,3.0,3.0,57.0,1.14
+1082,Pumpkin - Organically Grown,Fruits & Vegetables,Fresh Vegetables,28.0,1.0,2.0,56.0,3.53
+1228,Pumpkin Green - Cut,Fruits & Vegetables,Cuts & Sprouts,28.0,1.0,2.0,56.0,2.57
+1134,Jackfruit - Peeled,Fruits & Vegetables,Fresh Fruits,55.0,1.0,1.0,55.0,2.99
+1311,Rock Salt/Uppu Powder,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",55.0,1.0,1.0,55.0,2.68
+2417,Premium - Idli Instant Mix,Snacks & Branded Foods,Ready To Cook & Eat,55.0,1.0,1.0,55.0,1.25
+2533,Lemon Pepper Peanuts,Snacks & Branded Foods,Snacks & Namkeen,55.0,1.0,1.0,55.0,1.46
+77,Green Chilly - Chopped,Fruits & Vegetables,Cuts & Sprouts,18.0,1.0,3.0,54.0,25.57
+150,Colocasia,Fruits & Vegetables,Fresh Vegetables,10.89,2.0,5.0,54.0,14.84
+816,Yam - Sliced,Fruits & Vegetables,Fresh Vegetables,27.0,1.0,2.0,54.0,4.13
+1612,Almonds - Classic,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",54.0,1.0,1.0,54.0,2.08
+1632,Organic Classic Peach Ice Tea,Beverages,Tea,54.0,1.0,1.0,54.0,1.86
+565,Pathiri Podi,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",53.0,1.0,1.0,53.0,4.99
+2745,Chilla Mix - Moong Dal/Hesaru Bele,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",52.5,1.0,1.0,53.0,1.2
+975,Beetroot - Diced,Fruits & Vegetables,Fresh Vegetables,26.0,1.0,2.0,52.0,3.31
+275,Potato Chips Salt,Snacks & Branded Foods,Snacks & Namkeen,50.0,1.0,1.0,50.0,8.91
+304,Tortilla Chips - Jalapeno,Snacks & Branded Foods,Snacks & Namkeen,50.0,1.0,1.0,50.0,9.05
+670,Celery,Fruits & Vegetables,Herbs & Seasonings,16.5,1.0,3.0,50.0,5.07
+739,Instant Popcorn Value Pack - Classic Salted,Snacks & Branded Foods,Snacks & Namkeen,50.0,1.0,1.0,50.0,4.24
+813,Yellow Pumpkin - Avial Cut,Fruits & Vegetables,Cuts & Sprouts,25.0,1.0,2.0,50.0,4.68
+1072,Masala Balls Snacks,Snacks & Branded Foods,Snacks & Namkeen,10.0,5.0,5.0,50.0,3.42
+1437,The Vitamin Bar - Orange,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",50.0,1.0,1.0,50.0,2.48
+2330,Chinese Hot & Sour Veg Soup,Snacks & Branded Foods,Ready To Cook & Eat,49.5,1.0,1.0,50.0,1.43
+2442,Indian Tonic Water,Beverages,Energy & Soft Drinks,50.0,1.0,1.0,50.0,1.05
+2528,Vermicelli - Rice Sevai,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",50.0,1.0,1.0,50.0,1.41
+762,"Paper Napkins - Floral Border, White",Cleaning & Household,"Disposables, Garbage Bag",49.0,1.0,1.0,49.0,4.36
+1445,Cinnamon Milk Chocolate Dipped Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49.0,1.0,1.0,49.0,2.24
+1580,Coffee - Grand,Beverages,Coffee,49.2,1.0,1.0,49.0,2.18
+1855,Boiled Sweet Corn Kernel - Spice Up With Peri-Peri Seasoning,Fruits & Vegetables,Cuts & Sprouts,49.0,1.0,1.0,49.0,1.64
+2747,Bhelpuri Chutney,Snacks & Branded Foods,Pickles & Chutney,49.0,1.0,1.0,49.0,1.05
+193,Leeks,Fruits & Vegetables,Fresh Vegetables,16.0,1.0,3.0,48.0,12.63
+1387,Pure Magic - Chocolate Biscuits,Snacks & Branded Foods,Biscuits & Cookies,47.52,1.0,1.0,48.0,2.34
+2645,Bleaching Powder - Strong,Cleaning & Household,All Purpose Cleaners,24.0,1.0,2.0,48.0,1.19
+516,Coccinia - Sliced,Fruits & Vegetables,Cuts & Sprouts,23.0,1.0,2.0,46.0,6.03
+593,Cheese Macaroni Pazzta,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",23.0,1.0,2.0,46.0,5.23
+1466,Spring Onion - Chopped,Fruits & Vegetables,Fresh Vegetables,46.0,1.0,1.0,46.0,2.34
+1843,Tender Coconut - Medium,Fruits & Vegetables,Cuts & Sprouts,46.0,1.0,1.0,46.0,1.65
+1956,"Beans - Broad, Organically Grown",Fruits & Vegetables,Fresh Vegetables,46.0,1.0,1.0,46.0,1.57
+431,Fried Rice Mix,Fruits & Vegetables,Cuts & Sprouts,45.0,1.0,1.0,45.0,6.76
+699,Brown Bread,"Bakery, Cakes & Dairy",Breads & Buns,45.0,1.0,1.0,45.0,4.77
+1025,Bread - Healthy Slice,"Bakery, Cakes & Dairy",Breads & Buns,45.0,1.0,1.0,45.0,3.11
+1030,Glucose Biscuits,Snacks & Branded Foods,Biscuits & Cookies,45.0,1.0,1.0,45.0,3.47
+1043,Papaya - Organically Grown,Fruits & Vegetables,Fresh Fruits,45.0,1.0,1.0,45.0,3.21
+1296,Pita Bread - Mini,"Bakery, Cakes & Dairy",Gourmet Breads,45.0,1.0,1.0,45.0,2.63
+1401,Multigrain Chips 54g+Veggie Stix-Sour Cream & Onion 52g+Karare-Munchy Masala 75g,Snacks & Branded Foods,Snacks & Namkeen,44.82,1.0,1.0,45.0,2.14
+1405,"Cut Cauliflower, Washed",Fruits & Vegetables,Cuts & Sprouts,45.0,1.0,1.0,45.0,2.45
+1806,Ridge Gourd - Diced,Fruits & Vegetables,Cuts & Sprouts,45.0,1.0,1.0,45.0,1.91
+1859,Beans - Broad,Fruits & Vegetables,Fresh Vegetables,45.0,1.0,1.0,45.0,1.87
+1860,Little Millet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",45.0,1.0,1.0,45.0,1.75
+1892,Silver Belly,"Eggs, Meat & Fish",Fish & Seafood,45.0,1.0,1.0,45.0,1.68
+2477,Mealmaker Masala Soya Mini Chunks,"Foodgrains, Oil & Masala",Dals & Pulses,45.0,1.0,1.0,45.0,1.34
+2670,Masala Oats - Peppy Tomato,Snacks & Branded Foods,Snacks & Namkeen,15.0,2.0,3.0,45.0,1.13
+558,"Banana - Raw, Organically Grown",Fruits & Vegetables,Fresh Vegetables,22.0,1.0,2.0,44.0,6.01
+1428,Caramel Popcorn - Himalayan Salt,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",44.1,1.0,1.0,44.0,2.38
+1900,Honey Oats Cookies,Snacks & Branded Foods,Biscuits & Cookies,22.0,1.0,2.0,44.0,1.93
+2432,Secret Sweet Corn Veg Soup,Snacks & Branded Foods,Ready To Cook & Eat,44.0,1.0,1.0,44.0,1.32
+1721,Beans - Julienne,Fruits & Vegetables,Fresh Vegetables,43.0,1.0,1.0,43.0,2.08
+481,Papaya - Medium,Fruits & Vegetables,Fresh Fruits,41.58,1.0,1.0,42.0,6.51
+714,Sambar Onion - Peeled (Small Onion),Fruits & Vegetables,Fresh Vegetables,41.0,1.0,1.0,41.0,4.19
+1037,Soyatein - Minni Warian,"Foodgrains, Oil & Masala",Dals & Pulses,40.5,1.0,1.0,41.0,3.02
+103,Baby Potato,Fruits & Vegetables,Fresh Vegetables,20.0,1.0,2.0,40.0,19.93
+1019,Sparkling Water - Club Soda,Beverages,Energy & Soft Drinks,20.0,1.0,2.0,40.0,3.4
+1439,Apple Juice Based Drink,Beverages,Fruit Juices & Drinks,20.0,1.0,2.0,40.0,2.31
+2113,Namkeen - Aloo Bhujia,Snacks & Branded Foods,Snacks & Namkeen,20.0,1.0,2.0,40.0,1.57
+2206,Super Snack - Himalyan Salt,Snacks & Branded Foods,Snacks & Namkeen,40.0,1.0,1.0,40.0,1.14
+2523,Himalayan Mixed Fruit,Beverages,Fruit Juices & Drinks,40.0,1.0,1.0,40.0,1.19
+2597,"Snacks - Rings, Tomato & Cheese, 2+ Years, 100% Natural & Healthy",Snacks & Branded Foods,Snacks & Namkeen,20.0,2.0,2.0,40.0,0.97
+2814,"Nutty Chips - Lemon Chilli Almond, Baked Supergrain Chips, Protein Packed, Not Fried",Snacks & Branded Foods,Snacks & Namkeen,40.0,1.0,1.0,40.0,1.2
+735,"White Sandwich Bread - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,39.0,1.0,1.0,39.0,4.18
+1006,Coconut - Diced,Fruits & Vegetables,Fresh Fruits,39.0,1.0,1.0,39.0,3.33
+1106,"Milk Bread - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,39.0,1.0,1.0,39.0,3.13
+1600,Ridge Gourd,Fruits & Vegetables,Fresh Vegetables,37.42,1.0,1.0,37.0,1.98
+945,Green Chilly - Chopped,Fruits & Vegetables,Herbs & Seasonings,18.0,1.0,2.0,36.0,3.37
+1545,Double Stuf Creme Biscuit,Snacks & Branded Foods,Biscuits & Cookies,36.0,1.0,1.0,36.0,1.86
+2327,Digestive Biscuits - No Added Sugar,Snacks & Branded Foods,Biscuits & Cookies,18.0,1.0,2.0,36.0,1.34
+1003,Chunky Honey Mustard Chicken,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",35.0,1.0,1.0,35.0,3.31
+1100,"White Big Bread Slices - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,35.0,1.0,1.0,35.0,3.38
+1181,FrutORS - Orange,Beverages,Energy & Soft Drinks,35.0,1.0,1.0,35.0,2.92
+1301,Atta Kulcha,"Bakery, Cakes & Dairy",Breads & Buns,35.0,1.0,1.0,35.0,2.74
+1601,Onion - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,35.0,1.0,1.0,35.0,2.27
+2510,Electro +Â  ORS Apple Drink,Beverages,Energy & Soft Drinks,35.0,1.0,1.0,35.0,1.14
+149,Cucumber - Mangalore,Fruits & Vegetables,Fresh Vegetables,34.0,1.0,1.0,34.0,15.67
+197,Packaged Drinking Water,Beverages,Water,17.0,1.0,2.0,34.0,12.86
+836,Guava,Fruits & Vegetables,Fresh Fruits,34.0,1.0,1.0,34.0,4.18
+1529,Lemon - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,33.6,1.0,1.0,34.0,1.99
+1564,Sambar Onion - Organically Grown,Fruits & Vegetables,Fresh Vegetables,34.0,1.0,1.0,34.0,2.23
+2677,3 Minute Vegetable Upma,Snacks & Branded Foods,Ready To Cook & Eat,33.6,1.0,1.0,34.0,1.15
+286,Lettuce - Iceberg,Fruits & Vegetables,Fresh Vegetables,32.0,1.0,1.0,32.0,9.4
+2057,Chawli / Lobia Black Eye,"Foodgrains, Oil & Masala",Dals & Pulses,32.0,1.0,1.0,32.0,1.54
+58,Ginger - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,6.0,1.0,5.0,30.0,32.07
+454,Papaya - Small,Fruits & Vegetables,Fresh Fruits,30.0,1.0,1.0,30.0,6.82
+719,Bitter Gourd - Sliced,Fruits & Vegetables,Cuts & Sprouts,30.0,1.0,1.0,30.0,4.4
+736,Biscuit - Nariyal,Snacks & Branded Foods,Biscuits & Cookies,10.0,1.0,3.0,30.0,4.65
+1013,French Fries,Snacks & Branded Foods,Frozen Veggies & Snacks,29.7,1.0,1.0,30.0,3.27
+1085,Instant Mixed Vegetable Cup-A-Soup,Snacks & Branded Foods,Ready To Cook & Eat,10.0,1.0,3.0,30.0,2.78
+1094,Pizza - Base,"Bakery, Cakes & Dairy",Breads & Buns,30.0,1.0,1.0,30.0,2.89
+1113,Salted Peanuts,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",30.0,1.0,1.0,30.0,2.69
+1322,Carrots - Grated,Fruits & Vegetables,Fresh Vegetables,30.0,1.0,1.0,30.0,2.57
+1337,Ladies Finger - Organically Grown,Fruits & Vegetables,Fresh Vegetables,30.0,1.0,1.0,30.0,2.51
+1537,Tricone - Two In One Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,30.0,1.0,1.0,30.0,2.32
+1811,Methi Khakhra,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",30.0,1.0,1.0,30.0,1.78
+2505,Kool Cafe - Milk & Coffee,"Bakery, Cakes & Dairy",Dairy,30.0,1.0,1.0,30.0,1.18
+2586,Nachoz - Cheese,Snacks & Branded Foods,Snacks & Namkeen,30.0,1.0,1.0,30.0,1.18
+2736,Tortilla Chips - Chilli,Gourmet & World Food,"Sauces, Spreads & Dips",30.0,1.0,1.0,30.0,1.25
+2842,Sunflower Seeds - B.B.Q,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",30.0,1.0,1.0,30.0,1.15
+1065,"Pav - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,29.0,1.0,1.0,29.0,3.12
+2334,Secret Hot & Sour Instant Soup,Snacks & Branded Foods,Ready To Cook & Eat,9.5,2.0,3.0,29.0,1.04
+457,Fresh Turmeric - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,14.0,1.0,2.0,28.0,7.0
+1027,Chow Chow - Organically Grown,Fruits & Vegetables,Fresh Vegetables,28.0,1.0,1.0,28.0,3.23
+2452,Rusk - Fruit,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",28.0,1.0,1.0,28.0,1.02
+266,Coconut Chunks - Single Serve,Fruits & Vegetables,Fresh Fruits,27.0,1.0,1.0,27.0,9.97
+748,Yam - Diced,Fruits & Vegetables,Fresh Vegetables,27.0,1.0,1.0,27.0,4.45
+1152,Yam - Diced,Fruits & Vegetables,Cuts & Sprouts,27.0,1.0,1.0,27.0,2.84
+243,Coccinia - Organically Grown,Fruits & Vegetables,Fresh Vegetables,13.0,2.0,2.0,26.0,10.53
+948,Beetroot - Julienne,Fruits & Vegetables,Fresh Vegetables,26.0,1.0,1.0,26.0,2.96
+196,"Chilli - Green Long, Medium",Fruits & Vegetables,Herbs & Seasonings,12.5,1.0,2.0,25.0,12.85
+334,Dark Chocolate,Snacks & Branded Foods,Chocolates & Candies,25.0,1.0,1.0,25.0,9.12
+616,Ginger Milk,"Bakery, Cakes & Dairy",Dairy,25.0,1.0,1.0,25.0,5.31
+687,5 Grain Cracker,Snacks & Branded Foods,Biscuits & Cookies,25.0,1.0,1.0,25.0,5.03
+710,Top Biscuits - Butter Munch,Snacks & Branded Foods,Biscuits & Cookies,25.0,1.0,1.0,25.0,4.99
+937,Beans Cluster - Diced,Fruits & Vegetables,Cuts & Sprouts,25.0,1.0,1.0,25.0,3.34
+1240,20-20 Nice Biscuits,Snacks & Branded Foods,Biscuits & Cookies,25.0,1.0,1.0,25.0,2.71
+2372,Just Ginger - The Ginger Biscuit With Real Tang,Snacks & Branded Foods,Biscuits & Cookies,25.0,1.0,1.0,25.0,1.31
+2079,Dark Fantasy - Choco Fills Biscuits - Cookies,Snacks & Branded Foods,Biscuits & Cookies,23.76,1.0,1.0,24.0,1.57
+2365,Black Salt/Kala Namak Powder,"Foodgrains, Oil & Masala",Masalas & Spices,24.0,1.0,1.0,24.0,1.4
+2810,Pure Magic Deuce Vanilla Biscuits,Snacks & Branded Foods,Biscuits & Cookies,24.0,1.0,1.0,24.0,1.07
+647,Coccinia - Julienne,Fruits & Vegetables,Fresh Vegetables,23.0,1.0,1.0,23.0,5.27
+658,Coriander Leaves - Chopped,Fruits & Vegetables,Fresh Vegetables,23.0,1.0,1.0,23.0,5.07
+2646,Pineapple 100% Fruit Juice - No Added Sugar,Beverages,Fruit Juices & Drinks,22.55,1.0,1.0,23.0,1.34
+160,Betel Leaf,Fruits & Vegetables,Fresh Vegetables,11.0,1.0,2.0,22.0,14.12
+568,Radish - Organically Grown,Fruits & Vegetables,Fresh Vegetables,22.0,1.0,1.0,22.0,5.62
+155,Capsicum - Diced,Fruits & Vegetables,Cuts & Sprouts,21.0,1.0,1.0,21.0,14.79
+201,Amaranthus - Green,Fruits & Vegetables,Fresh Vegetables,20.0,1.0,1.0,20.0,12.57
+1280,Sweet Potato - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,20.0,1.0,1.0,20.0,2.7
+1570,Mad Angles Cheese Nachos Chips,Snacks & Branded Foods,Snacks & Namkeen,10.0,1.0,2.0,20.0,2.13
+1952,Juice - Mango Refresh,Beverages,Fruit Juices & Drinks,10.0,1.0,2.0,20.0,1.74
+2185,Potato Crisps - Cream 'N' Onion,Snacks & Branded Foods,Snacks & Namkeen,10.0,1.0,2.0,20.0,1.26
+2674,Apple Juice Based Drink,Beverages,Energy & Soft Drinks,10.0,1.0,2.0,20.0,1.14
+109,"Chilli - Green, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,6.0,1.0,3.0,18.0,21.08
+691,Instant Cup-A-Soup - Creamy Chicken,Snacks & Branded Foods,Ready To Cook & Eat,15.0,1.0,1.0,15.0,4.64
+27,Spring Onion,Fruits & Vegetables,Fresh Vegetables,13.0,1.0,1.0,13.0,48.01
+401,Kale,Fruits & Vegetables,Organic Fruits & Vegetables,10.0,1.0,1.0,10.0,7.71
+690,Tulsi Leaves,Fruits & Vegetables,Organic Fruits & Vegetables,10.0,1.0,1.0,10.0,4.84
+863,Biscuits - Googly,Snacks & Branded Foods,Biscuits & Cookies,10.0,1.0,1.0,10.0,3.65
+896,"Breakfast Cereal - Chocolate Flavour, Small Pack",Snacks & Branded Foods,Breakfast Cereals,10.0,1.0,1.0,10.0,3.74
+1449,Dish Shine Bar,Cleaning & Household,Detergents & Dishwash,5.0,1.0,2.0,10.0,2.4
+2638,Butter Cookies,Snacks & Branded Foods,Biscuits & Cookies,10.0,1.0,1.0,10.0,1.29
+577,50-50 Timepass Salted Biscuits,Snacks & Branded Foods,Biscuits & Cookies,5.0,1.0,1.0,5.0,5.05
+1338,50-50 Timepass Biscuits,Snacks & Branded Foods,Biscuits & Cookies,5.0,1.0,1.0,5.0,2.56

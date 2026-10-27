@@ -1,0 +1,135 @@
+src_department,src_aisle,bb_category,bb_sub_category,products,lines,lines_in_store,share_in_store
+alcohol,beers coolers,,,385,48657,0,0.0
+alcohol,red wines,,,232,35181,0,0.0
+alcohol,specialty wines champagnes,,,95,11198,0,0.0
+alcohol,spirits,,,195,28102,0,0.0
+alcohol,white wines,,,147,30558,0,0.0
+babies,baby accessories,Baby Care,Baby Accessories,44,8160,6315,0.7738970588235294
+babies,baby bath body care,Baby Care,Baby Bath & Hygiene,132,8581,0,0.0
+babies,baby food formula,Baby Care,Baby Food & Formula,718,382456,174945,0.4574251678624469
+babies,diapers wipes,Baby Care,Diapers & Wipes,187,24605,2907,0.11814671814671815
+bakery,bakery desserts,"Bakery, Cakes & Dairy",Cakes & Pastries,297,34871,4394,0.1260072839895615
+bakery,bread,"Bakery, Cakes & Dairy",Breads & Buns,557,584834,343872,0.5879822308552513
+bakery,breakfast bakery,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",226,250770,190092,0.7580332575666946
+bakery,buns rolls,"Bakery, Cakes & Dairy",Breads & Buns,195,113015,42865,0.3792859354952882
+bakery,tortillas flat bread,"Bakery, Cakes & Dairy",Gourmet Breads,241,193297,136451,0.7059136975741993
+beverages,cocoa drink mixes,Beverages,"Health Drink, Supplement",223,21214,1448,0.06825681153954935
+beverages,coffee,Beverages,Coffee,680,207075,95900,0.4631172280574671
+beverages,energy sports drinks,Beverages,Energy & Soft Drinks,294,103615,49229,0.475114606958452
+beverages,juice nectars,Beverages,Fruit Juices & Drinks,792,333933,201797,0.6043038573606083
+beverages,refrigerated,Beverages,Fruit Juices & Drinks,675,575881,431247,0.7488474181297873
+beverages,soft drinks,Beverages,Energy & Soft Drinks,463,357537,283641,0.7933192928284345
+beverages,tea,Beverages,Tea,894,249341,84790,0.34005638864045623
+beverages,water seltzer sparkling water,Beverages,Water,344,841533,393709,0.4678473690277149
+breakfast,breakfast bars pastries,Gourmet & World Food,Cereals & Breakfast,173,71860,29753,0.41404119120512106
+breakfast,cereal,Snacks & Branded Foods,Breakfast Cereals,454,377586,275834,0.7305196696911432
+breakfast,granola,Gourmet & World Food,Cereals & Breakfast,185,101959,67721,0.66419835424043
+breakfast,hot cereal pancake mixes,Snacks & Branded Foods,Ready To Cook & Eat,303,158164,101430,0.6412963759136087
+bulk,bulk dried fruits vegetables,"Foodgrains, Oil & Masala",Dry Fruits,12,17368,15553,0.8954974666052511
+bulk,bulk grains rice dried goods,"Foodgrains, Oil & Masala",Organic Staples,26,17205,6380,0.37082243533856435
+canned goods,canned fruit applesauce,Gourmet & World Food,Tinned & Processed Food,243,87197,47430,0.5439407319059142
+canned goods,canned jarred vegetables,Snacks & Branded Foods,Pickles & Chutney,487,297037,227444,0.7657093224076462
+canned goods,canned meals beans,"Foodgrains, Oil & Masala",Dals & Pulses,342,270314,212852,0.7874249946358679
+canned goods,canned meat seafood,Gourmet & World Food,Tinned & Processed Food,283,67046,18425,0.274811323568893
+canned goods,soup broth bouillon,Snacks & Branded Foods,Ready To Cook & Eat,737,346464,193316,0.5579685046642653
+dairy eggs,butter,"Bakery, Cakes & Dairy",Dairy,150,254317,224515,0.8828155412339718
+dairy eggs,cream,"Bakery, Cakes & Dairy",Dairy,161,318002,231991,0.7295268583216458
+dairy eggs,eggs,"Eggs, Meat & Fish",Eggs,125,452134,378189,0.8364533523247533
+dairy eggs,milk,"Bakery, Cakes & Dairy",Dairy,243,891015,623879,0.700189110172107
+dairy eggs,other creams cheeses,"Bakery, Cakes & Dairy",Dairy,191,308007,203394,0.6603551217991799
+dairy eggs,packaged cheese,"Bakery, Cakes & Dairy",Dairy,891,979763,749740,0.7652258760536987
+dairy eggs,refrigerated pudding desserts,"Bakery, Cakes & Dairy",Ice Creams & Desserts,98,37691,9588,0.2543843357830782
+dairy eggs,soy lactosefree,"Bakery, Cakes & Dairy",Dairy,293,638253,575896,0.9023004983917036
+dairy eggs,specialty cheeses,Gourmet & World Food,Dairy & Cheese,271,82491,45559,0.5522905529088021
+dairy eggs,yogurt,"Bakery, Cakes & Dairy",Dairy,1026,1452343,621342,0.42782042534029496
+deli,fresh dips tapenades,Gourmet & World Food,"Sauces, Spreads & Dips",327,355685,285430,0.8024797222261271
+deli,lunch meat,"Eggs, Meat & Fish","Sausages, Bacon & Salami",373,395130,272710,0.690177916128869
+deli,prepared meals,Snacks & Branded Foods,Ready To Cook & Eat,317,99032,46403,0.4685657161321593
+deli,prepared soups salads,Fruits & Vegetables,Cuts & Sprouts,146,71928,24212,0.3366143921699477
+deli,tofu meat alternatives,"Bakery, Cakes & Dairy",Dairy,159,129474,39776,0.307212258831889
+dry goods pasta,dry pasta,Gourmet & World Food,"Pasta, Soup & Noodles",457,266637,181153,0.6793993331758158
+dry goods pasta,fresh pasta,Gourmet & World Food,"Pasta, Soup & Noodles",123,36727,7391,0.20124159337816866
+dry goods pasta,grains rice dried goods,"Foodgrains, Oil & Masala",Rice & Rice Products,336,144189,91448,0.634223137687341
+dry goods pasta,instant foods,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",543,200687,108022,0.5382610732135116
+dry goods pasta,pasta sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",399,218387,149305,0.6836716471218525
+frozen,frozen appetizers sides,Snacks & Branded Foods,Frozen Veggies & Snacks,386,194582,125740,0.6462057127586314
+frozen,frozen breads doughs,Snacks & Branded Foods,Frozen Veggies & Snacks,81,40208,16555,0.4117339832869081
+frozen,frozen breakfast,Snacks & Branded Foods,Frozen Veggies & Snacks,296,232763,165685,0.7118184591193617
+frozen,frozen dessert,"Bakery, Cakes & Dairy",Ice Creams & Desserts,112,19319,4077,0.21103576789688908
+frozen,frozen juice,Beverages,Fruit Juices & Drinks,47,4853,0,0.0
+frozen,frozen meals,Snacks & Branded Foods,Ready To Cook & Eat,880,390299,224845,0.5760839766435476
+frozen,frozen meat seafood,"Eggs, Meat & Fish",Fish & Seafood,229,71742,43237,0.602673468818823
+frozen,frozen pizza,Snacks & Branded Foods,Frozen Veggies & Snacks,335,162218,102210,0.6300780431271499
+frozen,frozen produce,Snacks & Branded Foods,Frozen Veggies & Snacks,361,522654,443841,0.8492061669861897
+frozen,frozen vegan vegetarian,Snacks & Branded Foods,Frozen Veggies & Snacks,189,99369,51425,0.5175155229498133
+frozen,ice cream ice,"Bakery, Cakes & Dairy",Ice Creams & Desserts,1091,498425,203706,0.40869940311982744
+household,air fresheners candles,Cleaning & Household,Fresheners & Repellents,355,19851,0,0.0
+household,cleaning products,Cleaning & Household,All Purpose Cleaners,655,118477,33193,0.28016408248014385
+household,dish detergents,Cleaning & Household,Detergents & Dishwash,204,94927,55813,0.5879570617421809
+household,food storage,"Kitchen, Garden & Pets",Storage & Accessories,206,65946,36349,0.551193400661147
+household,kitchen supplies,"Kitchen, Garden & Pets",Kitchen Accessories,218,9172,0,0.0
+household,laundry,Cleaning & Household,Detergents & Dishwash,506,94354,29663,0.3143798885049918
+household,more household,"Kitchen, Garden & Pets",Appliances & Electricals,308,17514,2205,0.12589928057553956
+household,paper goods,Cleaning & Household,"Disposables, Garbage Bag",322,242996,166079,0.6834639253321042
+household,plates bowls cups flatware,Cleaning & Household,"Disposables, Garbage Bag",199,43348,11365,0.26218049275629784
+household,trash bags liners,Cleaning & Household,"Disposables, Garbage Bag",112,32081,10046,0.31314485209313925
+international,asian foods,Gourmet & World Food,"Pasta, Soup & Noodles",605,166607,77052,0.4624775669689749
+international,indian foods,Snacks & Branded Foods,Ready To Cook & Eat,108,15901,1837,0.11552732532545124
+international,kosher foods,,,169,11798,0,0.0
+international,latino foods,,,257,74947,0,0.0
+meat seafood,hot dogs bacon sausage,"Eggs, Meat & Fish","Sausages, Bacon & Salami",387,305655,190068,0.6218383471561074
+meat seafood,meat counter,"Eggs, Meat & Fish",Mutton & Lamb,105,70887,55027,0.7762636308490979
+meat seafood,packaged meat,"Eggs, Meat & Fish",Pork & Other Meats,100,33865,19287,0.5695260593533147
+meat seafood,packaged poultry,"Eggs, Meat & Fish","Sausages, Bacon & Salami",99,118437,96342,0.8134451227234732
+meat seafood,packaged seafood,"Eggs, Meat & Fish",Fish & Seafood,80,20931,8720,0.41660694663417897
+meat seafood,poultry counter,"Eggs, Meat & Fish","Sausages, Bacon & Salami",82,129514,118214,0.9127507450931945
+meat seafood,seafood counter,"Eggs, Meat & Fish",Fish & Seafood,54,29642,22274,0.7514337763983537
+missing,missing,,,1258,69145,0,0.0
+other,other,,,548,36291,0,0.0
+pantry,baking ingredients,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",623,326692,201897,0.618004113966672
+pantry,baking supplies decor,Gourmet & World Food,Cooking & Baking Needs,290,23692,7974,0.33656930609488434
+pantry,condiments,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",466,222049,153590,0.6916941756098879
+pantry,doughs gelatins bake mixes,Snacks & Branded Foods,Ready To Cook & Eat,463,106089,49456,0.46617462696415274
+pantry,honeys syrups nectars,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",229,66926,25589,0.3823476675731405
+pantry,marinades meat preparation,Gourmet & World Food,Cooking & Baking Needs,409,62510,18583,0.29728043513037916
+pantry,oils vinegars,"Foodgrains, Oil & Masala",Edible Oils & Ghee,375,245466,178588,0.7275467885572747
+pantry,pickled goods olives,Snacks & Branded Foods,Pickles & Chutney,402,112639,55069,0.48889816138282477
+pantry,preserved dips spreads,Gourmet & World Food,"Sauces, Spreads & Dips",264,108691,69196,0.6366304477831651
+pantry,salad dressing toppings,Gourmet & World Food,Oils & Vinegar,560,99331,23237,0.2339350253193867
+pantry,spices seasonings,"Foodgrains, Oil & Masala",Masalas & Spices,797,212092,108883,0.5133762706749901
+pantry,spreads,Gourmet & World Food,"Sauces, Spreads & Dips",493,289400,202193,0.6986627505183137
+personal care,beauty,Beauty & Hygiene,Makeup,178,6168,0,0.0
+personal care,body lotions soap,Beauty & Hygiene,Skin Care,504,40768,2945,0.07223802982731554
+personal care,cold flu allergy,Beauty & Hygiene,Health & Medicine,427,26061,0,0.0
+personal care,deodorants,Beauty & Hygiene,Fragrances & Deos,317,14815,0,0.0
+personal care,digestion,Beauty & Hygiene,Health & Medicine,338,26873,1666,0.0619953112789789
+personal care,eye ear care,Beauty & Hygiene,Health & Medicine,113,8974,4197,0.4676844216625808
+personal care,facial care,Beauty & Hygiene,Skin Care,277,12169,0,0.0
+personal care,feminine care,Beauty & Hygiene,Feminine Hygiene,285,19753,0,0.0
+personal care,first aid,Beauty & Hygiene,Health & Medicine,240,10872,0,0.0
+personal care,hair care,Beauty & Hygiene,Hair Care,816,32013,0,0.0
+personal care,muscles joints pain relief,Beauty & Hygiene,Health & Medicine,172,18683,6019,0.32216453460365035
+personal care,oral hygiene,Beauty & Hygiene,Oral Care,565,63749,9506,0.1491160645657187
+personal care,protein meal replacements,Beauty & Hygiene,Health & Medicine,325,36599,2350,0.06420940462854176
+personal care,shave needs,Beauty & Hygiene,Men's Grooming,198,10344,0,0.0
+personal care,skin care,Beauty & Hygiene,Skin Care,245,10164,0,0.0
+personal care,soap,Beauty & Hygiene,Bath & Hand Wash,525,64059,17122,0.267284846781873
+personal care,vitamins supplements,Beauty & Hygiene,Health & Medicine,1038,45059,5556,0.12330500011096562
+pets,cat food care,"Kitchen, Garden & Pets",Pet Food & Accessories,499,63421,4877,0.07689881900316929
+pets,dog food care,"Kitchen, Garden & Pets",Pet Food & Accessories,473,34303,0,0.0
+produce,fresh fruits,Fruits & Vegetables,Fresh Fruits,382,3642188,3562788,0.9781999171926326
+produce,fresh herbs,Fruits & Vegetables,Herbs & Seasonings,86,377741,357955,0.9476201947895516
+produce,fresh vegetables,Fruits & Vegetables,Fresh Vegetables,569,3418021,3239670,0.9478203908050887
+produce,packaged produce,Fruits & Vegetables,Organic Fruits & Vegetables,32,276028,271146,0.9823133884968192
+produce,packaged vegetables fruits,Fruits & Vegetables,Cuts & Sprouts,615,1765313,1559457,0.883388384949298
+snacks,candy chocolate,Snacks & Branded Foods,Chocolates & Candies,1246,300567,117607,0.3912838069382201
+snacks,chips pretzels,Snacks & Branded Foods,Snacks & Namkeen,989,722470,533285,0.738141376112503
+snacks,cookies cakes,Snacks & Branded Foods,Biscuits & Cookies,874,234065,104588,0.4468331446393096
+snacks,crackers,Snacks & Branded Foods,Biscuits & Cookies,747,458838,327068,0.7128180316364381
+snacks,energy granola bars,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",832,456386,281080,0.6158821699175697
+snacks,fruit vegetable snacks,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",356,175757,110282,0.6274686072247478
+snacks,ice cream toppings,Gourmet & World Food,Cooking & Baking Needs,85,11202,2148,0.19175147295125872
+snacks,mint gum,Snacks & Branded Foods,Chocolates & Candies,168,22664,1550,0.06839039887045535
+snacks,nuts seeds dried fruit,"Foodgrains, Oil & Masala",Dry Fruits,582,306487,197149,0.6432540368759523
+snacks,popcorn jerky,Snacks & Branded Foods,Snacks & Namkeen,316,163524,113717,0.695414740343925
+snacks,trail mix snack mix,Snacks & Branded Foods,Snacks & Namkeen,69,35590,24971,0.7016296712559708

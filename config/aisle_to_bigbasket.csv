@@ -1,0 +1,135 @@
+src_department,src_aisle,bb_category,bb_sub_category,bb_types,note
+alcohol,beers coolers,,,,BigBasket sells no alcohol; Indian quick commerce does not deliver it
+alcohol,red wines,,,,no alcohol
+alcohol,specialty wines champagnes,,,,no alcohol
+alcohol,spirits,,,,no alcohol
+alcohol,white wines,,,,no alcohol
+babies,baby accessories,Baby Care,Baby Accessories,,
+babies,baby bath body care,Baby Care,Baby Bath & Hygiene,,
+babies,baby food formula,Baby Care,Baby Food & Formula,,
+babies,diapers wipes,Baby Care,Diapers & Wipes,,
+bakery,bakery desserts,"Bakery, Cakes & Dairy",Cakes & Pastries,,
+bakery,bread,"Bakery, Cakes & Dairy",Breads & Buns,,
+bakery,breakfast bakery,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",,rusk and khari are the Indian breakfast bakery staples
+bakery,buns rolls,"Bakery, Cakes & Dairy",Breads & Buns,,pooled with bread
+bakery,tortillas flat bread,"Bakery, Cakes & Dairy",Gourmet Breads,,"wraps, pita"
+beverages,cocoa drink mixes,Beverages,"Health Drink, Supplement",,malted/cocoa drinks (Bournvita-type)
+beverages,coffee,Beverages,Coffee,,
+beverages,energy sports drinks,Beverages,Energy & Soft Drinks,"Sports & Energy Drinks;Glucose Powder, Tablets",
+beverages,juice nectars,Beverages,Fruit Juices & Drinks,,
+beverages,refrigerated,Beverages,Fruit Juices & Drinks,,chilled juices; pooled
+beverages,soft drinks,Beverages,Energy & Soft Drinks,"Cold Drinks;Non Alcoholic Drinks;Soda & Cocktail Mix;Icetea, Non Aerated Drink;Juices",
+beverages,tea,Beverages,Tea,,
+beverages,water seltzer sparkling water,Beverages,Water,,"only 17 BigBasket water SKUs, so the long tail is dropped"
+breakfast,breakfast bars pastries,Gourmet & World Food,Cereals & Breakfast,,
+breakfast,cereal,Snacks & Branded Foods,Breakfast Cereals,,
+breakfast,granola,Gourmet & World Food,Cereals & Breakfast,,pooled
+breakfast,hot cereal pancake mixes,Snacks & Branded Foods,Ready To Cook & Eat,Breakfast & Snack Mixes,oats/upma/poha-style mixes
+bulk,bulk dried fruits vegetables,"Foodgrains, Oil & Masala",Dry Fruits,,
+bulk,bulk grains rice dried goods,"Foodgrains, Oil & Masala",Organic Staples,,
+canned goods,canned fruit applesauce,Gourmet & World Food,Tinned & Processed Food,,
+canned goods,canned jarred vegetables,Snacks & Branded Foods,Pickles & Chutney,,jarred vegetables -> achaar
+canned goods,canned meals beans,"Foodgrains, Oil & Masala",Dals & Pulses,,US shoppers buy canned beans where Indian shoppers buy dal and chana
+canned goods,canned meat seafood,Gourmet & World Food,Tinned & Processed Food,,pooled
+canned goods,soup broth bouillon,Snacks & Branded Foods,Ready To Cook & Eat,Soups,
+dairy eggs,butter,"Bakery, Cakes & Dairy",Dairy,Butter & Margarine,
+dairy eggs,cream,"Bakery, Cakes & Dairy",Dairy,"Paneer, Tofu & Cream",fresh cream and paneer
+dairy eggs,eggs,"Eggs, Meat & Fish",Eggs,,
+dairy eggs,milk,"Bakery, Cakes & Dairy",Dairy,"Milk;Condensed, Powdered Milk",
+dairy eggs,other creams cheeses,"Bakery, Cakes & Dairy",Dairy,"Paneer, Tofu & Cream",cottage cheese -> paneer; pooled
+dairy eggs,packaged cheese,"Bakery, Cakes & Dairy",Dairy,Cheese,
+dairy eggs,refrigerated pudding desserts,"Bakery, Cakes & Dairy",Ice Creams & Desserts,,
+dairy eggs,soy lactosefree,"Bakery, Cakes & Dairy",Dairy,"Flavoured, Soya Milk;Dairy Free (Vegan)",
+dairy eggs,specialty cheeses,Gourmet & World Food,Dairy & Cheese,International Cheese,
+dairy eggs,yogurt,"Bakery, Cakes & Dairy",Dairy,Curd;Yogurt & Shrikhand;Buttermilk & Lassi,"yogurt -> curd/dahi, lassi"
+deli,fresh dips tapenades,Gourmet & World Food,"Sauces, Spreads & Dips",,
+deli,lunch meat,"Eggs, Meat & Fish","Sausages, Bacon & Salami",Pork & Ham;Turkey & Duck,cold cuts
+deli,prepared meals,Snacks & Branded Foods,Ready To Cook & Eat,Heat & Eat Ready Meals;Canned Food,
+deli,prepared soups salads,Fruits & Vegetables,Cuts & Sprouts,,salads and sprouts; pooled
+deli,tofu meat alternatives,"Bakery, Cakes & Dairy",Dairy,"Paneer, Tofu & Cream",pooled
+dry goods pasta,dry pasta,Gourmet & World Food,"Pasta, Soup & Noodles",,pasta is a gourmet aisle in India
+dry goods pasta,fresh pasta,Gourmet & World Food,"Pasta, Soup & Noodles",,pooled
+dry goods pasta,grains rice dried goods,"Foodgrains, Oil & Masala",Rice & Rice Products,,
+dry goods pasta,instant foods,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,"instant noodles (Maggi-type), vermicelli"
+dry goods pasta,pasta sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",,
+frozen,frozen appetizers sides,Snacks & Branded Foods,Frozen Veggies & Snacks,,
+frozen,frozen breads doughs,Snacks & Branded Foods,Frozen Veggies & Snacks,,pooled
+frozen,frozen breakfast,Snacks & Branded Foods,Frozen Veggies & Snacks,,pooled
+frozen,frozen dessert,"Bakery, Cakes & Dairy",Ice Creams & Desserts,,pooled
+frozen,frozen juice,Beverages,Fruit Juices & Drinks,,pooled
+frozen,frozen meals,Snacks & Branded Foods,Ready To Cook & Eat,Heat & Eat Ready Meals;Canned Food,pooled
+frozen,frozen meat seafood,"Eggs, Meat & Fish",Fish & Seafood,,pooled
+frozen,frozen pizza,Snacks & Branded Foods,Frozen Veggies & Snacks,,pooled
+frozen,frozen produce,Snacks & Branded Foods,Frozen Veggies & Snacks,,frozen peas/corn; pooled
+frozen,frozen vegan vegetarian,Snacks & Branded Foods,Frozen Veggies & Snacks,,pooled
+frozen,ice cream ice,"Bakery, Cakes & Dairy",Ice Creams & Desserts,,pooled
+household,air fresheners candles,Cleaning & Household,Fresheners & Repellents,,
+household,cleaning products,Cleaning & Household,All Purpose Cleaners,,
+household,dish detergents,Cleaning & Household,Detergents & Dishwash,Dishwash Liquids & Pastes;Dishwash Bars & Powders,
+household,food storage,"Kitchen, Garden & Pets",Storage & Accessories,,
+household,kitchen supplies,"Kitchen, Garden & Pets",Kitchen Accessories,,
+household,laundry,Cleaning & Household,Detergents & Dishwash,"Detergent Powder, Liquid;Fabric Pre, Post Wash;Detergent Bars",
+household,more household,"Kitchen, Garden & Pets",Appliances & Electricals,,"batteries, bulbs"
+household,paper goods,Cleaning & Household,"Disposables, Garbage Bag",,"tissue, kitchen rolls"
+household,plates bowls cups flatware,Cleaning & Household,"Disposables, Garbage Bag",,disposable tableware; pooled
+household,trash bags liners,Cleaning & Household,"Disposables, Garbage Bag",,pooled
+international,asian foods,Gourmet & World Food,"Pasta, Soup & Noodles",,imported noodles; pooled
+international,indian foods,Snacks & Branded Foods,Ready To Cook & Eat,"Papads, Ready To Fry",
+international,kosher foods,,,,no Indian counterpart
+international,latino foods,,,,no Indian counterpart
+meat seafood,hot dogs bacon sausage,"Eggs, Meat & Fish","Sausages, Bacon & Salami",Pork & Ham;Turkey & Duck,pooled
+meat seafood,meat counter,"Eggs, Meat & Fish",Mutton & Lamb,,
+meat seafood,packaged meat,"Eggs, Meat & Fish",Pork & Other Meats,,
+meat seafood,packaged poultry,"Eggs, Meat & Fish","Sausages, Bacon & Salami",Chicken Sausages,the BigBasket list has no fresh-chicken sub-category
+meat seafood,packaged seafood,"Eggs, Meat & Fish",Fish & Seafood,,pooled
+meat seafood,poultry counter,"Eggs, Meat & Fish","Sausages, Bacon & Salami",Chicken Sausages,pooled; see packaged poultry
+meat seafood,seafood counter,"Eggs, Meat & Fish",Fish & Seafood,,
+missing,missing,,,,Instacart left these products unlabelled
+other,other,,,,Instacart left these products unlabelled
+pantry,baking ingredients,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",,"flour, sooji, besan"
+pantry,baking supplies decor,Gourmet & World Food,Cooking & Baking Needs,,
+pantry,condiments,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",,pooled
+pantry,doughs gelatins bake mixes,Snacks & Branded Foods,Ready To Cook & Eat,Home Baking;Dessert Mixes,
+pantry,honeys syrups nectars,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",,sweeteners
+pantry,marinades meat preparation,Gourmet & World Food,Cooking & Baking Needs,,pooled
+pantry,oils vinegars,"Foodgrains, Oil & Masala",Edible Oils & Ghee,,
+pantry,pickled goods olives,Snacks & Branded Foods,Pickles & Chutney,,pooled
+pantry,preserved dips spreads,Gourmet & World Food,"Sauces, Spreads & Dips",,pooled
+pantry,salad dressing toppings,Gourmet & World Food,Oils & Vinegar,,
+pantry,spices seasonings,"Foodgrains, Oil & Masala",Masalas & Spices,,
+pantry,spreads,Gourmet & World Food,"Sauces, Spreads & Dips",,"jam, peanut butter; pooled"
+personal care,beauty,Beauty & Hygiene,Makeup,,
+personal care,body lotions soap,Beauty & Hygiene,Skin Care,,
+personal care,cold flu allergy,Beauty & Hygiene,Health & Medicine,Ayurveda;Everyday Medicine,
+personal care,deodorants,Beauty & Hygiene,Fragrances & Deos,,
+personal care,digestion,Beauty & Hygiene,Health & Medicine,Ayurveda;Everyday Medicine,pooled
+personal care,eye ear care,Beauty & Hygiene,Health & Medicine,Ayurveda;Everyday Medicine,pooled
+personal care,facial care,Beauty & Hygiene,Skin Care,,pooled
+personal care,feminine care,Beauty & Hygiene,Feminine Hygiene,,
+personal care,first aid,Beauty & Hygiene,Health & Medicine,Antiseptics & Bandages;Cotton & Ear Buds,
+personal care,hair care,Beauty & Hygiene,Hair Care,,
+personal care,muscles joints pain relief,Beauty & Hygiene,Health & Medicine,Ayurveda;Everyday Medicine,pooled
+personal care,oral hygiene,Beauty & Hygiene,Oral Care,,
+personal care,protein meal replacements,Beauty & Hygiene,Health & Medicine,Supplements & Proteins,
+personal care,shave needs,Beauty & Hygiene,Men's Grooming,,
+personal care,skin care,Beauty & Hygiene,Skin Care,,pooled
+personal care,soap,Beauty & Hygiene,Bath & Hand Wash,,
+personal care,vitamins supplements,Beauty & Hygiene,Health & Medicine,Supplements & Proteins,pooled
+pets,cat food care,"Kitchen, Garden & Pets",Pet Food & Accessories,,
+pets,dog food care,"Kitchen, Garden & Pets",Pet Food & Accessories,,pooled
+produce,fresh fruits,Fruits & Vegetables,Fresh Fruits,,
+produce,fresh herbs,Fruits & Vegetables,Herbs & Seasonings,,"coriander, mint, curry leaves"
+produce,fresh vegetables,Fruits & Vegetables,Fresh Vegetables,,
+produce,packaged produce,Fruits & Vegetables,Organic Fruits & Vegetables,,
+produce,packaged vegetables fruits,Fruits & Vegetables,Cuts & Sprouts,,pre-cut and packed produce
+snacks,candy chocolate,Snacks & Branded Foods,Chocolates & Candies,,
+snacks,chips pretzels,Snacks & Branded Foods,Snacks & Namkeen,,chips and namkeen
+snacks,cookies cakes,Snacks & Branded Foods,Biscuits & Cookies,,
+snacks,crackers,Snacks & Branded Foods,Biscuits & Cookies,,crackers -> salted biscuits; pooled
+snacks,energy granola bars,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",,
+snacks,fruit vegetable snacks,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",,pooled
+snacks,ice cream toppings,Gourmet & World Food,Cooking & Baking Needs,,pooled
+snacks,mint gum,Snacks & Branded Foods,Chocolates & Candies,,pooled
+snacks,nuts seeds dried fruit,"Foodgrains, Oil & Masala",Dry Fruits,,pooled
+snacks,popcorn jerky,Snacks & Branded Foods,Snacks & Namkeen,,pooled
+snacks,trail mix snack mix,Snacks & Branded Foods,Snacks & Namkeen,,trail mix -> namkeen mixture; pooled

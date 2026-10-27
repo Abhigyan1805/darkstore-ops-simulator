@@ -1,0 +1,136 @@
+{
+  "eval_orders": 5000,
+  "eval_lines_per_order": 7.5166,
+  "layout": {
+    "n_aisles": 10,
+    "aisle_length_m": 15.0,
+    "aisle_pitch_m": 2.0,
+    "width_m": 20.0,
+    "depth_m": 16.5,
+    "floor_area_m2": 360.0,
+    "slots": 3600,
+    "skus": 3000
+  },
+  "abc": [
+    {
+      "abc": "A",
+      "skus": 1193,
+      "picks": 18221236,
+      "share_of_picks": 0.7999667390948925
+    },
+    {
+      "abc": "B",
+      "skus": 1147,
+      "picks": 3416578,
+      "share_of_picks": 0.14999798924306504
+    },
+    {
+      "abc": "C",
+      "skus": 660,
+      "picks": 1139678,
+      "share_of_picks": 0.05003527166204251
+    }
+  ],
+  "results": [
+    {
+      "layout": "random",
+      "walk_m_mean": 102.512,
+      "walk_m_median": 98.0,
+      "walk_nn_m_mean": 88.0682,
+      "pick_s_mean": 205.3242,
+      "pick_min_mean": 3.4220699999999997,
+      "golden_share": 0.48995262516171667,
+      "walk_diff_vs_category_m": 19.5846,
+      "walk_diff_ci": [
+        18.864472499999998,
+        20.3439075
+      ],
+      "walk_reduction_vs_category": -0.23616560991903746,
+      "walk_reduction_ci": [
+        -0.24543704968464347,
+        -0.22669101775361034
+      ],
+      "pick_time_reduction_vs_category": -0.10738239830864993,
+      "pick_time_reduction_ci": [
+        -0.11150484616670846,
+        -0.10337750498733683
+      ],
+      "aisles_per_order": 4.7264
+    },
+    {
+      "layout": "category",
+      "walk_m_mean": 82.9274,
+      "walk_m_median": 84.0,
+      "walk_nn_m_mean": 72.7275,
+      "pick_s_mean": 185.414,
+      "pick_min_mean": 3.090233333333333,
+      "golden_share": 0.5065936144330553,
+      "walk_diff_vs_category_m": 0.0,
+      "walk_diff_ci": [
+        0.0,
+        0.0
+      ],
+      "walk_reduction_vs_category": 0.0,
+      "walk_reduction_ci": [
+        0.0,
+        0.0
+      ],
+      "pick_time_reduction_vs_category": 0.0,
+      "pick_time_reduction_ci": [
+        0.0,
+        0.0
+      ],
+      "aisles_per_order": 3.8812
+    },
+    {
+      "layout": "abc_velocity",
+      "walk_m_mean": 65.819,
+      "walk_m_median": 61.5,
+      "walk_nn_m_mean": 58.4097,
+      "pick_s_mean": 163.2512,
+      "pick_min_mean": 2.7208533333333333,
+      "golden_share": 0.6731025083885442,
+      "walk_diff_vs_category_m": -17.1084,
+      "walk_diff_ci": [
+        -17.8038875,
+        -16.342475
+      ],
+      "walk_reduction_vs_category": 0.20630575660155748,
+      "walk_reduction_ci": [
+        0.1985310368110058,
+        0.21411171116651218
+      ],
+      "pick_time_reduction_vs_category": 0.11953142696883723,
+      "pick_time_reduction_ci": [
+        0.11569129334531554,
+        0.12344369452255426
+      ],
+      "aisles_per_order": 3.2388
+    },
+    {
+      "layout": "abc_affinity",
+      "walk_m_mean": 63.2832,
+      "walk_m_median": 57.5,
+      "walk_nn_m_mean": 56.578,
+      "pick_s_mean": 160.2522,
+      "pick_min_mean": 2.67087,
+      "golden_share": 0.6890464059871034,
+      "walk_diff_vs_category_m": -19.6442,
+      "walk_diff_ci": [
+        -20.402615,
+        -18.921502500000003
+      ],
+      "walk_reduction_vs_category": 0.23688431085503714,
+      "walk_reduction_ci": [
+        0.22953946609602216,
+        0.24409011336163644
+      ],
+      "pick_time_reduction_vs_category": 0.13570604161498057,
+      "pick_time_reduction_ci": [
+        0.13186226707683407,
+        0.13940886298965455
+      ],
+      "aisles_per_order": 3.1272
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "instacart_products": 49688,
+  "instacart_aisles": 134,
+  "aisles_mapped": 125,
+  "aisles_dropped": [
+    "beers coolers",
+    "kosher foods",
+    "latino foods",
+    "missing",
+    "other",
+    "red wines",
+    "specialty wines champagnes",
+    "spirits",
+    "white wines"
+  ],
+  "departments_fully_mapped": 17,
+  "departments_partly_mapped": [
+    "international"
+  ],
+  "departments_dropped": [
+    "alcohol",
+    "missing",
+    "other"
+  ],
+  "bigbasket_skus_in_catalogue": 25636,
+  "bigbasket_sub_categories_used": 60,
+  "bigbasket_categories_used": 11,
+  "store_skus": 3000,
+  "store_skus_name_matched": 2153,
+  "store_lines_name_matched_share": 0.7399229028375908,
+  "status": {
+    "bb_depth_exhausted": {
+      "products": 29970,
+      "lines": 5670771,
+      "share_of_lines": 0.17483768589663923
+    },
+    "mapped": {
+      "products": 3000,
+      "lines": 22777492,
+      "share_of_lines": 0.7022614723481538
+    },
+    "no_bb_category": {
+      "products": 3286,
+      "lines": 345877,
+      "share_of_lines": 0.010663864628790667
+    },
+    "outside_assortment": {
+      "products": 13432,
+      "lines": 3640349,
+      "share_of_lines": 0.11223697712641627
+    }
+  },
+  "store_orders": 3215417,
+  "all_orders": 3346083,
+  "store_lines": 23724034
+}

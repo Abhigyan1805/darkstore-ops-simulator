@@ -1,0 +1,128 @@
+{
+  "wait_target_min": 2.0,
+  "wait_target_share": 0.9,
+  "category": {
+    "mean_pick_min": 3.0902333333333334,
+    "cv_pick": 0.48186432892657854,
+    "peak_dow": 1,
+    "peak_hour": 10,
+    "peak_orders_per_hour": 230.06658234375197,
+    "peak_pickers": 15,
+    "picker_hours_per_week": 1085.0,
+    "orders_per_picker_hour": 12.903225806451612,
+    "max_orders_per_hour_pickers": 265.65915370241885
+  },
+  "abc_velocity": {
+    "mean_pick_min": 2.7208533333333333,
+    "cv_pick": 0.4747282358980793,
+    "peak_dow": 1,
+    "peak_hour": 10,
+    "peak_orders_per_hour": 230.06658234375197,
+    "peak_pickers": 13,
+    "picker_hours_per_week": 974.0,
+    "orders_per_picker_hour": 14.373716632443532,
+    "max_orders_per_hour_pickers": 305.6735366743902
+  },
+  "throughput": {
+    "max_pickers_on_floor": 16,
+    "picker_limit_orders_per_hour": 305.6735366743902,
+    "pack_limit_orders_per_hour": 306.0,
+    "binding": "pickers",
+    "store_limit_orders_per_hour": 305.6735366743902,
+    "peak_hour_share_of_day": 0.115033291171876,
+    "max_orders_per_day_at_this_profile": 2657.261507172482
+  },
+  "planning_grid": [
+    {
+      "orders_per_day": 1000,
+      "peak_orders_per_hour": 115.03329117187599,
+      "peak_pickers": 8,
+      "picker_hours_per_day": 87.28571428571429,
+      "feasible_on_floor": true
+    },
+    {
+      "orders_per_day": 1500,
+      "peak_orders_per_hour": 172.549936757814,
+      "peak_pickers": 10,
+      "picker_hours_per_day": 113.0,
+      "feasible_on_floor": true
+    },
+    {
+      "orders_per_day": 2000,
+      "peak_orders_per_hour": 230.06658234375197,
+      "peak_pickers": 13,
+      "picker_hours_per_day": 139.14285714285714,
+      "feasible_on_floor": true
+    },
+    {
+      "orders_per_day": 2500,
+      "peak_orders_per_hour": 287.58322792969,
+      "peak_pickers": 16,
+      "picker_hours_per_day": 163.14285714285714,
+      "feasible_on_floor": true
+    },
+    {
+      "orders_per_day": 3000,
+      "peak_orders_per_hour": 345.099873515628,
+      "peak_pickers": 18,
+      "picker_hours_per_day": 187.85714285714286,
+      "feasible_on_floor": false
+    },
+    {
+      "orders_per_day": 4000,
+      "peak_orders_per_hour": 460.13316468750395,
+      "peak_pickers": 24,
+      "picker_hours_per_day": 234.85714285714286,
+      "feasible_on_floor": false
+    },
+    {
+      "orders_per_day": 5000,
+      "peak_orders_per_hour": 575.16645585938,
+      "peak_pickers": 29,
+      "picker_hours_per_day": 281.42857142857144,
+      "feasible_on_floor": false
+    }
+  ],
+  "des": {
+    "weeks": 4.0,
+    "orders": 56153,
+    "rounds": [
+      {
+        "round": 0,
+        "picker_hours_per_week": 974,
+        "share_within_target": 0.9792674869194092,
+        "worst_busy_hour_share_within": 0.8910675381263616,
+        "busy_hours_failing": 1
+      },
+      {
+        "round": 1,
+        "picker_hours_per_week": 975,
+        "share_within_target": 0.9794142349136006,
+        "worst_busy_hour_share_within": 0.8419301164725458,
+        "busy_hours_failing": 3
+      },
+      {
+        "round": 2,
+        "picker_hours_per_week": 978,
+        "share_within_target": 0.9829204438191241,
+        "worst_busy_hour_share_within": 0.855,
+        "busy_hours_failing": 1
+      },
+      {
+        "round": 3,
+        "picker_hours_per_week": 979,
+        "share_within_target": 0.9834737235766566,
+        "worst_busy_hour_share_within": 0.9128065395095368,
+        "busy_hours_failing": 0
+      }
+    ],
+    "share_within_target": 0.9834737235766566,
+    "mean_wait_min": 0.21131938911421744,
+    "p90_wait_min": 0.8246430107232308,
+    "p90_click_to_ready_min": 5.8166666666656965,
+    "mean_click_to_ready_min": 3.9245440240221607,
+    "picker_hours_per_week_erlang": 974,
+    "picker_hours_per_week_final": 979,
+    "peak_pickers_final": 13
+  }
+}

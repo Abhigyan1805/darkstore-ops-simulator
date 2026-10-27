@@ -1,0 +1,1002 @@
+date,category,lines,short_lines,line_fill_rate
+2026-01-04,Baby Care,158,0.0,1.0
+2026-01-04,"Bakery, Cakes & Dairy",3551,0.0,1.0
+2026-01-04,Beauty & Hygiene,35,0.0,1.0
+2026-01-04,Beverages,1099,0.0,1.0
+2026-01-04,Cleaning & Household,235,0.0,1.0
+2026-01-04,"Eggs, Meat & Fish",1138,0.0,1.0
+2026-01-04,"Foodgrains, Oil & Masala",936,0.0,1.0
+2026-01-04,Fruits & Vegetables,8377,0.0,1.0
+2026-01-04,Gourmet & World Food,1252,0.0,1.0
+2026-01-04,"Kitchen, Garden & Pets",24,0.0,1.0
+2026-01-04,Snacks & Branded Foods,3131,0.0,1.0
+2026-01-05,Baby Care,161,0.0,1.0
+2026-01-05,"Bakery, Cakes & Dairy",3277,0.0,1.0
+2026-01-05,Beauty & Hygiene,41,0.0,1.0
+2026-01-05,Beverages,1353,0.0,1.0
+2026-01-05,Cleaning & Household,256,1.0,0.9961
+2026-01-05,"Eggs, Meat & Fish",963,1.0,0.999
+2026-01-05,"Foodgrains, Oil & Masala",768,0.0,1.0
+2026-01-05,Fruits & Vegetables,7569,0.0,1.0
+2026-01-05,Gourmet & World Food,1287,0.0,1.0
+2026-01-05,"Kitchen, Garden & Pets",28,0.0,1.0
+2026-01-05,Snacks & Branded Foods,2961,9.0,0.997
+2026-01-06,Baby Care,100,1.0,0.99
+2026-01-06,"Bakery, Cakes & Dairy",2663,5.0,0.9981
+2026-01-06,Beauty & Hygiene,26,0.0,1.0
+2026-01-06,Beverages,973,1.0,0.999
+2026-01-06,Cleaning & Household,188,0.0,1.0
+2026-01-06,"Eggs, Meat & Fish",740,4.0,0.9946
+2026-01-06,"Foodgrains, Oil & Masala",656,0.0,1.0
+2026-01-06,Fruits & Vegetables,5453,2.0,0.9996
+2026-01-06,Gourmet & World Food,962,4.0,0.9958
+2026-01-06,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-01-06,Snacks & Branded Foods,2297,10.0,0.9956
+2026-01-07,Baby Care,82,0.0,1.0
+2026-01-07,"Bakery, Cakes & Dairy",2118,0.0,1.0
+2026-01-07,Beauty & Hygiene,35,0.0,1.0
+2026-01-07,Beverages,847,0.0,1.0
+2026-01-07,Cleaning & Household,174,0.0,1.0
+2026-01-07,"Eggs, Meat & Fish",603,0.0,1.0
+2026-01-07,"Foodgrains, Oil & Masala",510,1.0,0.998
+2026-01-07,Fruits & Vegetables,4639,0.0,1.0
+2026-01-07,Gourmet & World Food,797,0.0,1.0
+2026-01-07,"Kitchen, Garden & Pets",22,0.0,1.0
+2026-01-07,Snacks & Branded Foods,1993,2.0,0.999
+2026-01-08,Baby Care,128,0.0,1.0
+2026-01-08,"Bakery, Cakes & Dairy",2258,3.0,0.9987
+2026-01-08,Beauty & Hygiene,37,1.0,0.973
+2026-01-08,Beverages,936,0.0,1.0
+2026-01-08,Cleaning & Household,163,0.0,1.0
+2026-01-08,"Eggs, Meat & Fish",605,0.0,1.0
+2026-01-08,"Foodgrains, Oil & Masala",540,0.0,1.0
+2026-01-08,Fruits & Vegetables,4649,1.0,0.9998
+2026-01-08,Gourmet & World Food,812,1.0,0.9988
+2026-01-08,"Kitchen, Garden & Pets",19,0.0,1.0
+2026-01-08,Snacks & Branded Foods,1916,1.0,0.9995
+2026-01-09,Baby Care,101,0.0,1.0
+2026-01-09,"Bakery, Cakes & Dairy",2431,0.0,1.0
+2026-01-09,Beauty & Hygiene,22,0.0,1.0
+2026-01-09,Beverages,961,1.0,0.999
+2026-01-09,Cleaning & Household,159,0.0,1.0
+2026-01-09,"Eggs, Meat & Fish",644,0.0,1.0
+2026-01-09,"Foodgrains, Oil & Masala",585,0.0,1.0
+2026-01-09,Fruits & Vegetables,5208,0.0,1.0
+2026-01-09,Gourmet & World Food,776,1.0,0.9987
+2026-01-09,"Kitchen, Garden & Pets",20,0.0,1.0
+2026-01-09,Snacks & Branded Foods,2018,2.0,0.999
+2026-01-10,Baby Care,102,0.0,1.0
+2026-01-10,"Bakery, Cakes & Dairy",2517,0.0,1.0
+2026-01-10,Beauty & Hygiene,25,0.0,1.0
+2026-01-10,Beverages,837,0.0,1.0
+2026-01-10,Cleaning & Household,196,0.0,1.0
+2026-01-10,"Eggs, Meat & Fish",778,1.0,0.9987
+2026-01-10,"Foodgrains, Oil & Masala",652,1.0,0.9985
+2026-01-10,Fruits & Vegetables,5793,0.0,1.0
+2026-01-10,Gourmet & World Food,859,0.0,1.0
+2026-01-10,"Kitchen, Garden & Pets",32,0.0,1.0
+2026-01-10,Snacks & Branded Foods,2266,7.0,0.9969
+2026-01-11,Baby Care,191,1.0,0.9948
+2026-01-11,"Bakery, Cakes & Dairy",3454,3.0,0.9991
+2026-01-11,Beauty & Hygiene,37,1.0,0.973
+2026-01-11,Beverages,1139,0.0,1.0
+2026-01-11,Cleaning & Household,227,2.0,0.9912
+2026-01-11,"Eggs, Meat & Fish",1121,3.0,0.9973
+2026-01-11,"Foodgrains, Oil & Masala",853,4.0,0.9953
+2026-01-11,Fruits & Vegetables,8267,5.0,0.9994
+2026-01-11,Gourmet & World Food,1226,2.0,0.9984
+2026-01-11,"Kitchen, Garden & Pets",41,2.0,0.9512
+2026-01-11,Snacks & Branded Foods,3213,12.0,0.9963
+2026-01-12,Baby Care,130,4.0,0.9692
+2026-01-12,"Bakery, Cakes & Dairy",3294,1.0,0.9997
+2026-01-12,Beauty & Hygiene,32,0.0,1.0
+2026-01-12,Beverages,1185,3.0,0.9975
+2026-01-12,Cleaning & Household,204,1.0,0.9951
+2026-01-12,"Eggs, Meat & Fish",937,2.0,0.9979
+2026-01-12,"Foodgrains, Oil & Masala",722,2.0,0.9972
+2026-01-12,Fruits & Vegetables,7409,110.0,0.9852
+2026-01-12,Gourmet & World Food,1213,1.0,0.9992
+2026-01-12,"Kitchen, Garden & Pets",32,0.0,1.0
+2026-01-12,Snacks & Branded Foods,2856,29.0,0.9898
+2026-01-13,Baby Care,114,1.0,0.9912
+2026-01-13,"Bakery, Cakes & Dairy",2561,17.0,0.9934
+2026-01-13,Beauty & Hygiene,33,0.0,1.0
+2026-01-13,Beverages,982,2.0,0.998
+2026-01-13,Cleaning & Household,189,0.0,1.0
+2026-01-13,"Eggs, Meat & Fish",697,0.0,1.0
+2026-01-13,"Foodgrains, Oil & Masala",571,0.0,1.0
+2026-01-13,Fruits & Vegetables,5283,1.0,0.9998
+2026-01-13,Gourmet & World Food,943,6.0,0.9936
+2026-01-13,"Kitchen, Garden & Pets",36,1.0,0.9722
+2026-01-13,Snacks & Branded Foods,2312,16.0,0.9931
+2026-01-14,Baby Care,130,0.0,1.0
+2026-01-14,"Bakery, Cakes & Dairy",2215,2.0,0.9991
+2026-01-14,Beauty & Hygiene,31,0.0,1.0
+2026-01-14,Beverages,902,0.0,1.0
+2026-01-14,Cleaning & Household,158,0.0,1.0
+2026-01-14,"Eggs, Meat & Fish",650,0.0,1.0
+2026-01-14,"Foodgrains, Oil & Masala",594,0.0,1.0
+2026-01-14,Fruits & Vegetables,4723,0.0,1.0
+2026-01-14,Gourmet & World Food,788,0.0,1.0
+2026-01-14,"Kitchen, Garden & Pets",27,0.0,1.0
+2026-01-14,Snacks & Branded Foods,2032,3.0,0.9985
+2026-01-15,Baby Care,116,0.0,1.0
+2026-01-15,"Bakery, Cakes & Dairy",2212,1.0,0.9995
+2026-01-15,Beauty & Hygiene,21,0.0,1.0
+2026-01-15,Beverages,936,0.0,1.0
+2026-01-15,Cleaning & Household,158,0.0,1.0
+2026-01-15,"Eggs, Meat & Fish",579,1.0,0.9983
+2026-01-15,"Foodgrains, Oil & Masala",572,0.0,1.0
+2026-01-15,Fruits & Vegetables,4643,0.0,1.0
+2026-01-15,Gourmet & World Food,783,0.0,1.0
+2026-01-15,"Kitchen, Garden & Pets",36,0.0,1.0
+2026-01-15,Snacks & Branded Foods,2082,1.0,0.9995
+2026-01-16,Baby Care,100,0.0,1.0
+2026-01-16,"Bakery, Cakes & Dairy",2590,8.0,0.9969
+2026-01-16,Beauty & Hygiene,24,0.0,1.0
+2026-01-16,Beverages,1076,4.0,0.9963
+2026-01-16,Cleaning & Household,183,1.0,0.9945
+2026-01-16,"Eggs, Meat & Fish",705,1.0,0.9986
+2026-01-16,"Foodgrains, Oil & Masala",609,0.0,1.0
+2026-01-16,Fruits & Vegetables,5466,3.0,0.9995
+2026-01-16,Gourmet & World Food,885,2.0,0.9977
+2026-01-16,"Kitchen, Garden & Pets",25,0.0,1.0
+2026-01-16,Snacks & Branded Foods,2318,0.0,1.0
+2026-01-17,Baby Care,111,0.0,1.0
+2026-01-17,"Bakery, Cakes & Dairy",2574,1.0,0.9996
+2026-01-17,Beauty & Hygiene,32,0.0,1.0
+2026-01-17,Beverages,984,7.0,0.9929
+2026-01-17,Cleaning & Household,198,0.0,1.0
+2026-01-17,"Eggs, Meat & Fish",808,0.0,1.0
+2026-01-17,"Foodgrains, Oil & Masala",638,0.0,1.0
+2026-01-17,Fruits & Vegetables,5768,6.0,0.999
+2026-01-17,Gourmet & World Food,889,2.0,0.9978
+2026-01-17,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-01-17,Snacks & Branded Foods,2296,3.0,0.9987
+2026-01-18,Baby Care,178,0.0,1.0
+2026-01-18,"Bakery, Cakes & Dairy",3587,4.0,0.9989
+2026-01-18,Beauty & Hygiene,31,0.0,1.0
+2026-01-18,Beverages,1141,3.0,0.9974
+2026-01-18,Cleaning & Household,258,0.0,1.0
+2026-01-18,"Eggs, Meat & Fish",1155,4.0,0.9965
+2026-01-18,"Foodgrains, Oil & Masala",931,9.0,0.9903
+2026-01-18,Fruits & Vegetables,8318,6.0,0.9993
+2026-01-18,Gourmet & World Food,1242,3.0,0.9976
+2026-01-18,"Kitchen, Garden & Pets",33,0.0,1.0
+2026-01-18,Snacks & Branded Foods,3204,11.0,0.9966
+2026-01-19,Baby Care,79,0.0,1.0
+2026-01-19,"Bakery, Cakes & Dairy",3305,21.0,0.9936
+2026-01-19,Beauty & Hygiene,47,2.0,0.9574
+2026-01-19,Beverages,1190,5.0,0.9958
+2026-01-19,Cleaning & Household,195,0.0,1.0
+2026-01-19,"Eggs, Meat & Fish",863,1.0,0.9988
+2026-01-19,"Foodgrains, Oil & Masala",704,2.0,0.9972
+2026-01-19,Fruits & Vegetables,6892,2.0,0.9997
+2026-01-19,Gourmet & World Food,1218,6.0,0.9951
+2026-01-19,"Kitchen, Garden & Pets",41,1.0,0.9756
+2026-01-19,Snacks & Branded Foods,2826,13.0,0.9954
+2026-01-20,Baby Care,105,0.0,1.0
+2026-01-20,"Bakery, Cakes & Dairy",2499,11.0,0.9956
+2026-01-20,Beauty & Hygiene,24,3.0,0.875
+2026-01-20,Beverages,918,2.0,0.9978
+2026-01-20,Cleaning & Household,178,0.0,1.0
+2026-01-20,"Eggs, Meat & Fish",687,0.0,1.0
+2026-01-20,"Foodgrains, Oil & Masala",599,2.0,0.9967
+2026-01-20,Fruits & Vegetables,5120,1.0,0.9998
+2026-01-20,Gourmet & World Food,878,0.0,1.0
+2026-01-20,"Kitchen, Garden & Pets",23,0.0,1.0
+2026-01-20,Snacks & Branded Foods,2106,3.0,0.9986
+2026-01-21,Baby Care,90,0.0,1.0
+2026-01-21,"Bakery, Cakes & Dairy",2311,0.0,1.0
+2026-01-21,Beauty & Hygiene,30,0.0,1.0
+2026-01-21,Beverages,871,0.0,1.0
+2026-01-21,Cleaning & Household,182,0.0,1.0
+2026-01-21,"Eggs, Meat & Fish",662,0.0,1.0
+2026-01-21,"Foodgrains, Oil & Masala",536,0.0,1.0
+2026-01-21,Fruits & Vegetables,4759,0.0,1.0
+2026-01-21,Gourmet & World Food,806,0.0,1.0
+2026-01-21,"Kitchen, Garden & Pets",28,0.0,1.0
+2026-01-21,Snacks & Branded Foods,2097,0.0,1.0
+2026-01-22,Baby Care,101,0.0,1.0
+2026-01-22,"Bakery, Cakes & Dairy",2272,0.0,1.0
+2026-01-22,Beauty & Hygiene,34,0.0,1.0
+2026-01-22,Beverages,906,1.0,0.9989
+2026-01-22,Cleaning & Household,157,0.0,1.0
+2026-01-22,"Eggs, Meat & Fish",599,0.0,1.0
+2026-01-22,"Foodgrains, Oil & Masala",528,0.0,1.0
+2026-01-22,Fruits & Vegetables,4744,0.0,1.0
+2026-01-22,Gourmet & World Food,837,0.0,1.0
+2026-01-22,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-01-22,Snacks & Branded Foods,1999,1.0,0.9995
+2026-01-23,Baby Care,115,0.0,1.0
+2026-01-23,"Bakery, Cakes & Dairy",2517,0.0,1.0
+2026-01-23,Beauty & Hygiene,32,0.0,1.0
+2026-01-23,Beverages,1036,0.0,1.0
+2026-01-23,Cleaning & Household,152,0.0,1.0
+2026-01-23,"Eggs, Meat & Fish",723,0.0,1.0
+2026-01-23,"Foodgrains, Oil & Masala",583,0.0,1.0
+2026-01-23,Fruits & Vegetables,5350,2.0,0.9996
+2026-01-23,Gourmet & World Food,805,0.0,1.0
+2026-01-23,"Kitchen, Garden & Pets",38,1.0,0.9737
+2026-01-23,Snacks & Branded Foods,2152,6.0,0.9972
+2026-01-24,Baby Care,126,0.0,1.0
+2026-01-24,"Bakery, Cakes & Dairy",2728,0.0,1.0
+2026-01-24,Beauty & Hygiene,27,0.0,1.0
+2026-01-24,Beverages,945,5.0,0.9947
+2026-01-24,Cleaning & Household,179,0.0,1.0
+2026-01-24,"Eggs, Meat & Fish",780,0.0,1.0
+2026-01-24,"Foodgrains, Oil & Masala",752,0.0,1.0
+2026-01-24,Fruits & Vegetables,5664,0.0,1.0
+2026-01-24,Gourmet & World Food,863,0.0,1.0
+2026-01-24,"Kitchen, Garden & Pets",22,0.0,1.0
+2026-01-24,Snacks & Branded Foods,2358,4.0,0.9983
+2026-01-25,Baby Care,199,0.0,1.0
+2026-01-25,"Bakery, Cakes & Dairy",3769,12.0,0.9968
+2026-01-25,Beauty & Hygiene,46,0.0,1.0
+2026-01-25,Beverages,1198,1.0,0.9992
+2026-01-25,Cleaning & Household,226,0.0,1.0
+2026-01-25,"Eggs, Meat & Fish",1176,2.0,0.9983
+2026-01-25,"Foodgrains, Oil & Masala",915,3.0,0.9967
+2026-01-25,Fruits & Vegetables,8439,0.0,1.0
+2026-01-25,Gourmet & World Food,1335,9.0,0.9933
+2026-01-25,"Kitchen, Garden & Pets",33,0.0,1.0
+2026-01-25,Snacks & Branded Foods,3261,23.0,0.9929
+2026-01-26,Baby Care,154,5.0,0.9675
+2026-01-26,"Bakery, Cakes & Dairy",3304,15.0,0.9955
+2026-01-26,Beauty & Hygiene,38,0.0,1.0
+2026-01-26,Beverages,1200,2.0,0.9983
+2026-01-26,Cleaning & Household,224,1.0,0.9955
+2026-01-26,"Eggs, Meat & Fish",901,13.0,0.9856
+2026-01-26,"Foodgrains, Oil & Masala",765,2.0,0.9974
+2026-01-26,Fruits & Vegetables,7106,19.0,0.9973
+2026-01-26,Gourmet & World Food,1207,11.0,0.9909
+2026-01-26,"Kitchen, Garden & Pets",43,0.0,1.0
+2026-01-26,Snacks & Branded Foods,2820,23.0,0.9918
+2026-01-27,Baby Care,140,0.0,1.0
+2026-01-27,"Bakery, Cakes & Dairy",2568,9.0,0.9965
+2026-01-27,Beauty & Hygiene,36,1.0,0.9722
+2026-01-27,Beverages,997,2.0,0.998
+2026-01-27,Cleaning & Household,201,2.0,0.99
+2026-01-27,"Eggs, Meat & Fish",679,1.0,0.9985
+2026-01-27,"Foodgrains, Oil & Masala",620,0.0,1.0
+2026-01-27,Fruits & Vegetables,5415,0.0,1.0
+2026-01-27,Gourmet & World Food,919,5.0,0.9946
+2026-01-27,"Kitchen, Garden & Pets",34,0.0,1.0
+2026-01-27,Snacks & Branded Foods,2288,3.0,0.9987
+2026-01-28,Baby Care,99,0.0,1.0
+2026-01-28,"Bakery, Cakes & Dairy",2194,0.0,1.0
+2026-01-28,Beauty & Hygiene,29,0.0,1.0
+2026-01-28,Beverages,866,0.0,1.0
+2026-01-28,Cleaning & Household,161,0.0,1.0
+2026-01-28,"Eggs, Meat & Fish",596,0.0,1.0
+2026-01-28,"Foodgrains, Oil & Masala",531,1.0,0.9981
+2026-01-28,Fruits & Vegetables,4334,0.0,1.0
+2026-01-28,Gourmet & World Food,736,0.0,1.0
+2026-01-28,"Kitchen, Garden & Pets",21,0.0,1.0
+2026-01-28,Snacks & Branded Foods,1891,1.0,0.9995
+2026-01-29,Baby Care,97,0.0,1.0
+2026-01-29,"Bakery, Cakes & Dairy",2213,2.0,0.9991
+2026-01-29,Beauty & Hygiene,29,0.0,1.0
+2026-01-29,Beverages,910,0.0,1.0
+2026-01-29,Cleaning & Household,174,0.0,1.0
+2026-01-29,"Eggs, Meat & Fish",556,0.0,1.0
+2026-01-29,"Foodgrains, Oil & Masala",573,0.0,1.0
+2026-01-29,Fruits & Vegetables,4544,0.0,1.0
+2026-01-29,Gourmet & World Food,727,0.0,1.0
+2026-01-29,"Kitchen, Garden & Pets",15,0.0,1.0
+2026-01-29,Snacks & Branded Foods,1837,1.0,0.9995
+2026-01-30,Baby Care,97,0.0,1.0
+2026-01-30,"Bakery, Cakes & Dairy",2612,2.0,0.9992
+2026-01-30,Beauty & Hygiene,31,0.0,1.0
+2026-01-30,Beverages,984,0.0,1.0
+2026-01-30,Cleaning & Household,192,0.0,1.0
+2026-01-30,"Eggs, Meat & Fish",652,0.0,1.0
+2026-01-30,"Foodgrains, Oil & Masala",583,0.0,1.0
+2026-01-30,Fruits & Vegetables,5255,0.0,1.0
+2026-01-30,Gourmet & World Food,810,0.0,1.0
+2026-01-30,"Kitchen, Garden & Pets",25,0.0,1.0
+2026-01-30,Snacks & Branded Foods,2135,2.0,0.9991
+2026-01-31,Baby Care,120,1.0,0.9917
+2026-01-31,"Bakery, Cakes & Dairy",2525,1.0,0.9996
+2026-01-31,Beauty & Hygiene,30,0.0,1.0
+2026-01-31,Beverages,801,1.0,0.9988
+2026-01-31,Cleaning & Household,184,0.0,1.0
+2026-01-31,"Eggs, Meat & Fish",746,0.0,1.0
+2026-01-31,"Foodgrains, Oil & Masala",604,1.0,0.9983
+2026-01-31,Fruits & Vegetables,5414,3.0,0.9994
+2026-01-31,Gourmet & World Food,799,0.0,1.0
+2026-01-31,"Kitchen, Garden & Pets",21,0.0,1.0
+2026-01-31,Snacks & Branded Foods,2166,2.0,0.9991
+2026-02-01,Baby Care,153,1.0,0.9935
+2026-02-01,"Bakery, Cakes & Dairy",3396,2.0,0.9994
+2026-02-01,Beauty & Hygiene,32,0.0,1.0
+2026-02-01,Beverages,1112,3.0,0.9973
+2026-02-01,Cleaning & Household,262,4.0,0.9847
+2026-02-01,"Eggs, Meat & Fish",1081,4.0,0.9963
+2026-02-01,"Foodgrains, Oil & Masala",840,6.0,0.9929
+2026-02-01,Fruits & Vegetables,7626,10.0,0.9987
+2026-02-01,Gourmet & World Food,1171,5.0,0.9957
+2026-02-01,"Kitchen, Garden & Pets",31,0.0,1.0
+2026-02-01,Snacks & Branded Foods,3033,12.0,0.996
+2026-02-02,Baby Care,133,1.0,0.9925
+2026-02-02,"Bakery, Cakes & Dairy",3322,25.0,0.9925
+2026-02-02,Beauty & Hygiene,43,0.0,1.0
+2026-02-02,Beverages,1233,8.0,0.9935
+2026-02-02,Cleaning & Household,219,0.0,1.0
+2026-02-02,"Eggs, Meat & Fish",947,10.0,0.9894
+2026-02-02,"Foodgrains, Oil & Masala",766,1.0,0.9987
+2026-02-02,Fruits & Vegetables,7047,13.0,0.9982
+2026-02-02,Gourmet & World Food,1217,5.0,0.9959
+2026-02-02,"Kitchen, Garden & Pets",28,0.0,1.0
+2026-02-02,Snacks & Branded Foods,2893,28.0,0.9903
+2026-02-03,Baby Care,118,0.0,1.0
+2026-02-03,"Bakery, Cakes & Dairy",2507,1.0,0.9996
+2026-02-03,Beauty & Hygiene,26,0.0,1.0
+2026-02-03,Beverages,998,4.0,0.996
+2026-02-03,Cleaning & Household,170,0.0,1.0
+2026-02-03,"Eggs, Meat & Fish",710,0.0,1.0
+2026-02-03,"Foodgrains, Oil & Masala",568,1.0,0.9982
+2026-02-03,Fruits & Vegetables,5182,2.0,0.9996
+2026-02-03,Gourmet & World Food,877,4.0,0.9954
+2026-02-03,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-02-03,Snacks & Branded Foods,2134,2.0,0.9991
+2026-02-04,Baby Care,86,0.0,1.0
+2026-02-04,"Bakery, Cakes & Dairy",2251,1.0,0.9996
+2026-02-04,Beauty & Hygiene,27,0.0,1.0
+2026-02-04,Beverages,920,0.0,1.0
+2026-02-04,Cleaning & Household,175,0.0,1.0
+2026-02-04,"Eggs, Meat & Fish",589,0.0,1.0
+2026-02-04,"Foodgrains, Oil & Masala",556,0.0,1.0
+2026-02-04,Fruits & Vegetables,4575,0.0,1.0
+2026-02-04,Gourmet & World Food,755,0.0,1.0
+2026-02-04,"Kitchen, Garden & Pets",23,0.0,1.0
+2026-02-04,Snacks & Branded Foods,1856,2.0,0.9989
+2026-02-05,Baby Care,114,0.0,1.0
+2026-02-05,"Bakery, Cakes & Dairy",2362,1.0,0.9996
+2026-02-05,Beauty & Hygiene,26,0.0,1.0
+2026-02-05,Beverages,931,0.0,1.0
+2026-02-05,Cleaning & Household,185,0.0,1.0
+2026-02-05,"Eggs, Meat & Fish",660,2.0,0.997
+2026-02-05,"Foodgrains, Oil & Masala",566,0.0,1.0
+2026-02-05,Fruits & Vegetables,4588,0.0,1.0
+2026-02-05,Gourmet & World Food,848,0.0,1.0
+2026-02-05,"Kitchen, Garden & Pets",22,0.0,1.0
+2026-02-05,Snacks & Branded Foods,2131,2.0,0.9991
+2026-02-06,Baby Care,111,0.0,1.0
+2026-02-06,"Bakery, Cakes & Dairy",2517,0.0,1.0
+2026-02-06,Beauty & Hygiene,29,0.0,1.0
+2026-02-06,Beverages,998,0.0,1.0
+2026-02-06,Cleaning & Household,174,0.0,1.0
+2026-02-06,"Eggs, Meat & Fish",654,0.0,1.0
+2026-02-06,"Foodgrains, Oil & Masala",606,0.0,1.0
+2026-02-06,Fruits & Vegetables,4984,1.0,0.9998
+2026-02-06,Gourmet & World Food,863,1.0,0.9988
+2026-02-06,"Kitchen, Garden & Pets",23,0.0,1.0
+2026-02-06,Snacks & Branded Foods,2137,2.0,0.9991
+2026-02-07,Baby Care,106,0.0,1.0
+2026-02-07,"Bakery, Cakes & Dairy",2536,1.0,0.9996
+2026-02-07,Beauty & Hygiene,35,0.0,1.0
+2026-02-07,Beverages,854,0.0,1.0
+2026-02-07,Cleaning & Household,195,0.0,1.0
+2026-02-07,"Eggs, Meat & Fish",781,2.0,0.9974
+2026-02-07,"Foodgrains, Oil & Masala",649,0.0,1.0
+2026-02-07,Fruits & Vegetables,5752,0.0,1.0
+2026-02-07,Gourmet & World Food,883,2.0,0.9977
+2026-02-07,"Kitchen, Garden & Pets",22,0.0,1.0
+2026-02-07,Snacks & Branded Foods,2353,7.0,0.997
+2026-02-08,Baby Care,149,0.0,1.0
+2026-02-08,"Bakery, Cakes & Dairy",3490,1.0,0.9997
+2026-02-08,Beauty & Hygiene,40,0.0,1.0
+2026-02-08,Beverages,1084,2.0,0.9982
+2026-02-08,Cleaning & Household,269,1.0,0.9963
+2026-02-08,"Eggs, Meat & Fish",1065,6.0,0.9944
+2026-02-08,"Foodgrains, Oil & Masala",911,12.0,0.9868
+2026-02-08,Fruits & Vegetables,8213,7.0,0.9991
+2026-02-08,Gourmet & World Food,1250,4.0,0.9968
+2026-02-08,"Kitchen, Garden & Pets",31,0.0,1.0
+2026-02-08,Snacks & Branded Foods,3134,12.0,0.9962
+2026-02-09,Baby Care,135,0.0,1.0
+2026-02-09,"Bakery, Cakes & Dairy",3434,34.0,0.9901
+2026-02-09,Beauty & Hygiene,42,0.0,1.0
+2026-02-09,Beverages,1288,5.0,0.9961
+2026-02-09,Cleaning & Household,232,0.0,1.0
+2026-02-09,"Eggs, Meat & Fish",925,0.0,1.0
+2026-02-09,"Foodgrains, Oil & Masala",841,13.0,0.9845
+2026-02-09,Fruits & Vegetables,7429,38.0,0.9949
+2026-02-09,Gourmet & World Food,1219,11.0,0.991
+2026-02-09,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-02-09,Snacks & Branded Foods,3135,27.0,0.9914
+2026-02-10,Baby Care,130,1.0,0.9923
+2026-02-10,"Bakery, Cakes & Dairy",2474,8.0,0.9968
+2026-02-10,Beauty & Hygiene,26,0.0,1.0
+2026-02-10,Beverages,1031,6.0,0.9942
+2026-02-10,Cleaning & Household,165,0.0,1.0
+2026-02-10,"Eggs, Meat & Fish",683,1.0,0.9985
+2026-02-10,"Foodgrains, Oil & Masala",592,2.0,0.9966
+2026-02-10,Fruits & Vegetables,5065,1.0,0.9998
+2026-02-10,Gourmet & World Food,833,2.0,0.9976
+2026-02-10,"Kitchen, Garden & Pets",32,0.0,1.0
+2026-02-10,Snacks & Branded Foods,2329,6.0,0.9974
+2026-02-11,Baby Care,104,0.0,1.0
+2026-02-11,"Bakery, Cakes & Dairy",2158,2.0,0.9991
+2026-02-11,Beauty & Hygiene,24,0.0,1.0
+2026-02-11,Beverages,881,0.0,1.0
+2026-02-11,Cleaning & Household,162,0.0,1.0
+2026-02-11,"Eggs, Meat & Fish",602,0.0,1.0
+2026-02-11,"Foodgrains, Oil & Masala",562,1.0,0.9982
+2026-02-11,Fruits & Vegetables,4538,1.0,0.9998
+2026-02-11,Gourmet & World Food,755,0.0,1.0
+2026-02-11,"Kitchen, Garden & Pets",32,0.0,1.0
+2026-02-11,Snacks & Branded Foods,2017,1.0,0.9995
+2026-02-12,Baby Care,115,0.0,1.0
+2026-02-12,"Bakery, Cakes & Dairy",2105,0.0,1.0
+2026-02-12,Beauty & Hygiene,20,0.0,1.0
+2026-02-12,Beverages,822,2.0,0.9976
+2026-02-12,Cleaning & Household,144,0.0,1.0
+2026-02-12,"Eggs, Meat & Fish",581,0.0,1.0
+2026-02-12,"Foodgrains, Oil & Masala",540,0.0,1.0
+2026-02-12,Fruits & Vegetables,4214,0.0,1.0
+2026-02-12,Gourmet & World Food,714,0.0,1.0
+2026-02-12,"Kitchen, Garden & Pets",22,0.0,1.0
+2026-02-12,Snacks & Branded Foods,1843,2.0,0.9989
+2026-02-13,Baby Care,82,2.0,0.9756
+2026-02-13,"Bakery, Cakes & Dairy",2439,3.0,0.9988
+2026-02-13,Beauty & Hygiene,28,0.0,1.0
+2026-02-13,Beverages,937,1.0,0.9989
+2026-02-13,Cleaning & Household,154,0.0,1.0
+2026-02-13,"Eggs, Meat & Fish",650,0.0,1.0
+2026-02-13,"Foodgrains, Oil & Masala",631,1.0,0.9984
+2026-02-13,Fruits & Vegetables,4915,0.0,1.0
+2026-02-13,Gourmet & World Food,782,0.0,1.0
+2026-02-13,"Kitchen, Garden & Pets",22,0.0,1.0
+2026-02-13,Snacks & Branded Foods,2105,3.0,0.9986
+2026-02-14,Baby Care,104,0.0,1.0
+2026-02-14,"Bakery, Cakes & Dairy",2822,1.0,0.9996
+2026-02-14,Beauty & Hygiene,42,0.0,1.0
+2026-02-14,Beverages,953,0.0,1.0
+2026-02-14,Cleaning & Household,199,0.0,1.0
+2026-02-14,"Eggs, Meat & Fish",821,2.0,0.9976
+2026-02-14,"Foodgrains, Oil & Masala",694,5.0,0.9928
+2026-02-14,Fruits & Vegetables,5991,3.0,0.9995
+2026-02-14,Gourmet & World Food,900,0.0,1.0
+2026-02-14,"Kitchen, Garden & Pets",27,0.0,1.0
+2026-02-14,Snacks & Branded Foods,2426,2.0,0.9992
+2026-02-15,Baby Care,141,1.0,0.9929
+2026-02-15,"Bakery, Cakes & Dairy",3592,14.0,0.9961
+2026-02-15,Beauty & Hygiene,41,0.0,1.0
+2026-02-15,Beverages,1122,6.0,0.9947
+2026-02-15,Cleaning & Household,244,0.0,1.0
+2026-02-15,"Eggs, Meat & Fish",1122,0.0,1.0
+2026-02-15,"Foodgrains, Oil & Masala",895,2.0,0.9978
+2026-02-15,Fruits & Vegetables,8081,12.0,0.9985
+2026-02-15,Gourmet & World Food,1258,13.0,0.9897
+2026-02-15,"Kitchen, Garden & Pets",32,0.0,1.0
+2026-02-15,Snacks & Branded Foods,3238,24.0,0.9926
+2026-02-16,Baby Care,156,0.0,1.0
+2026-02-16,"Bakery, Cakes & Dairy",3413,12.0,0.9965
+2026-02-16,Beauty & Hygiene,43,0.0,1.0
+2026-02-16,Beverages,1207,0.0,1.0
+2026-02-16,Cleaning & Household,221,0.0,1.0
+2026-02-16,"Eggs, Meat & Fish",952,10.0,0.9895
+2026-02-16,"Foodgrains, Oil & Masala",827,8.0,0.9903
+2026-02-16,Fruits & Vegetables,7594,64.0,0.9916
+2026-02-16,Gourmet & World Food,1290,16.0,0.9876
+2026-02-16,"Kitchen, Garden & Pets",31,0.0,1.0
+2026-02-16,Snacks & Branded Foods,2992,19.0,0.9936
+2026-02-17,Baby Care,120,0.0,1.0
+2026-02-17,"Bakery, Cakes & Dairy",2439,8.0,0.9967
+2026-02-17,Beauty & Hygiene,23,0.0,1.0
+2026-02-17,Beverages,957,0.0,1.0
+2026-02-17,Cleaning & Household,191,0.0,1.0
+2026-02-17,"Eggs, Meat & Fish",684,0.0,1.0
+2026-02-17,"Foodgrains, Oil & Masala",627,0.0,1.0
+2026-02-17,Fruits & Vegetables,5264,1.0,0.9998
+2026-02-17,Gourmet & World Food,906,3.0,0.9967
+2026-02-17,"Kitchen, Garden & Pets",31,0.0,1.0
+2026-02-17,Snacks & Branded Foods,2170,5.0,0.9977
+2026-02-18,Baby Care,107,0.0,1.0
+2026-02-18,"Bakery, Cakes & Dairy",2140,0.0,1.0
+2026-02-18,Beauty & Hygiene,25,0.0,1.0
+2026-02-18,Beverages,867,1.0,0.9988
+2026-02-18,Cleaning & Household,166,0.0,1.0
+2026-02-18,"Eggs, Meat & Fish",618,1.0,0.9984
+2026-02-18,"Foodgrains, Oil & Masala",531,1.0,0.9981
+2026-02-18,Fruits & Vegetables,4464,0.0,1.0
+2026-02-18,Gourmet & World Food,809,1.0,0.9988
+2026-02-18,"Kitchen, Garden & Pets",33,0.0,1.0
+2026-02-18,Snacks & Branded Foods,1975,4.0,0.998
+2026-02-19,Baby Care,108,0.0,1.0
+2026-02-19,"Bakery, Cakes & Dairy",2197,0.0,1.0
+2026-02-19,Beauty & Hygiene,19,0.0,1.0
+2026-02-19,Beverages,870,0.0,1.0
+2026-02-19,Cleaning & Household,164,1.0,0.9939
+2026-02-19,"Eggs, Meat & Fish",604,0.0,1.0
+2026-02-19,"Foodgrains, Oil & Masala",497,1.0,0.998
+2026-02-19,Fruits & Vegetables,4282,1.0,0.9998
+2026-02-19,Gourmet & World Food,771,2.0,0.9974
+2026-02-19,"Kitchen, Garden & Pets",23,0.0,1.0
+2026-02-19,Snacks & Branded Foods,1951,1.0,0.9995
+2026-02-20,Baby Care,89,0.0,1.0
+2026-02-20,"Bakery, Cakes & Dairy",2484,0.0,1.0
+2026-02-20,Beauty & Hygiene,23,0.0,1.0
+2026-02-20,Beverages,1017,1.0,0.999
+2026-02-20,Cleaning & Household,189,2.0,0.9894
+2026-02-20,"Eggs, Meat & Fish",695,0.0,1.0
+2026-02-20,"Foodgrains, Oil & Masala",544,1.0,0.9982
+2026-02-20,Fruits & Vegetables,5265,3.0,0.9994
+2026-02-20,Gourmet & World Food,822,2.0,0.9976
+2026-02-20,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-02-20,Snacks & Branded Foods,2214,2.0,0.9991
+2026-02-21,Baby Care,95,0.0,1.0
+2026-02-21,"Bakery, Cakes & Dairy",2595,0.0,1.0
+2026-02-21,Beauty & Hygiene,31,2.0,0.9355
+2026-02-21,Beverages,869,0.0,1.0
+2026-02-21,Cleaning & Household,176,0.0,1.0
+2026-02-21,"Eggs, Meat & Fish",791,0.0,1.0
+2026-02-21,"Foodgrains, Oil & Masala",700,3.0,0.9957
+2026-02-21,Fruits & Vegetables,5865,0.0,1.0
+2026-02-21,Gourmet & World Food,884,0.0,1.0
+2026-02-21,"Kitchen, Garden & Pets",30,0.0,1.0
+2026-02-21,Snacks & Branded Foods,2277,2.0,0.9991
+2026-02-22,Baby Care,177,1.0,0.9944
+2026-02-22,"Bakery, Cakes & Dairy",3596,8.0,0.9978
+2026-02-22,Beauty & Hygiene,36,0.0,1.0
+2026-02-22,Beverages,1137,3.0,0.9974
+2026-02-22,Cleaning & Household,249,0.0,1.0
+2026-02-22,"Eggs, Meat & Fish",1154,2.0,0.9983
+2026-02-22,"Foodgrains, Oil & Masala",955,8.0,0.9916
+2026-02-22,Fruits & Vegetables,8357,21.0,0.9975
+2026-02-22,Gourmet & World Food,1280,8.0,0.9938
+2026-02-22,"Kitchen, Garden & Pets",37,0.0,1.0
+2026-02-22,Snacks & Branded Foods,3348,29.0,0.9913
+2026-02-23,Baby Care,163,0.0,1.0
+2026-02-23,"Bakery, Cakes & Dairy",3331,18.0,0.9946
+2026-02-23,Beauty & Hygiene,34,0.0,1.0
+2026-02-23,Beverages,1277,6.0,0.9953
+2026-02-23,Cleaning & Household,196,1.0,0.9949
+2026-02-23,"Eggs, Meat & Fish",937,22.0,0.9765
+2026-02-23,"Foodgrains, Oil & Masala",770,2.0,0.9974
+2026-02-23,Fruits & Vegetables,7251,44.0,0.9939
+2026-02-23,Gourmet & World Food,1150,13.0,0.9887
+2026-02-23,"Kitchen, Garden & Pets",31,0.0,1.0
+2026-02-23,Snacks & Branded Foods,2964,28.0,0.9906
+2026-02-24,Baby Care,133,0.0,1.0
+2026-02-24,"Bakery, Cakes & Dairy",2478,10.0,0.996
+2026-02-24,Beauty & Hygiene,21,0.0,1.0
+2026-02-24,Beverages,1051,9.0,0.9914
+2026-02-24,Cleaning & Household,187,0.0,1.0
+2026-02-24,"Eggs, Meat & Fish",620,2.0,0.9968
+2026-02-24,"Foodgrains, Oil & Masala",566,0.0,1.0
+2026-02-24,Fruits & Vegetables,5084,7.0,0.9986
+2026-02-24,Gourmet & World Food,837,0.0,1.0
+2026-02-24,"Kitchen, Garden & Pets",30,0.0,1.0
+2026-02-24,Snacks & Branded Foods,2186,3.0,0.9986
+2026-02-25,Baby Care,114,0.0,1.0
+2026-02-25,"Bakery, Cakes & Dairy",2261,1.0,0.9996
+2026-02-25,Beauty & Hygiene,27,0.0,1.0
+2026-02-25,Beverages,830,1.0,0.9988
+2026-02-25,Cleaning & Household,158,1.0,0.9937
+2026-02-25,"Eggs, Meat & Fish",594,0.0,1.0
+2026-02-25,"Foodgrains, Oil & Masala",557,0.0,1.0
+2026-02-25,Fruits & Vegetables,4508,2.0,0.9996
+2026-02-25,Gourmet & World Food,785,0.0,1.0
+2026-02-25,"Kitchen, Garden & Pets",30,2.0,0.9333
+2026-02-25,Snacks & Branded Foods,1985,0.0,1.0
+2026-02-26,Baby Care,101,0.0,1.0
+2026-02-26,"Bakery, Cakes & Dairy",1998,1.0,0.9995
+2026-02-26,Beauty & Hygiene,26,0.0,1.0
+2026-02-26,Beverages,793,0.0,1.0
+2026-02-26,Cleaning & Household,138,0.0,1.0
+2026-02-26,"Eggs, Meat & Fish",546,0.0,1.0
+2026-02-26,"Foodgrains, Oil & Masala",558,0.0,1.0
+2026-02-26,Fruits & Vegetables,4281,0.0,1.0
+2026-02-26,Gourmet & World Food,744,0.0,1.0
+2026-02-26,"Kitchen, Garden & Pets",21,0.0,1.0
+2026-02-26,Snacks & Branded Foods,1979,2.0,0.999
+2026-02-27,Baby Care,85,0.0,1.0
+2026-02-27,"Bakery, Cakes & Dairy",2584,3.0,0.9988
+2026-02-27,Beauty & Hygiene,38,0.0,1.0
+2026-02-27,Beverages,940,0.0,1.0
+2026-02-27,Cleaning & Household,186,0.0,1.0
+2026-02-27,"Eggs, Meat & Fish",699,0.0,1.0
+2026-02-27,"Foodgrains, Oil & Masala",623,0.0,1.0
+2026-02-27,Fruits & Vegetables,5314,0.0,1.0
+2026-02-27,Gourmet & World Food,860,1.0,0.9988
+2026-02-27,"Kitchen, Garden & Pets",20,0.0,1.0
+2026-02-27,Snacks & Branded Foods,2228,2.0,0.9991
+2026-02-28,Baby Care,89,0.0,1.0
+2026-02-28,"Bakery, Cakes & Dairy",2571,0.0,1.0
+2026-02-28,Beauty & Hygiene,28,0.0,1.0
+2026-02-28,Beverages,937,5.0,0.9947
+2026-02-28,Cleaning & Household,234,0.0,1.0
+2026-02-28,"Eggs, Meat & Fish",776,0.0,1.0
+2026-02-28,"Foodgrains, Oil & Masala",735,5.0,0.9932
+2026-02-28,Fruits & Vegetables,5719,0.0,1.0
+2026-02-28,Gourmet & World Food,890,1.0,0.9989
+2026-02-28,"Kitchen, Garden & Pets",31,0.0,1.0
+2026-02-28,Snacks & Branded Foods,2331,9.0,0.9961
+2026-03-01,Baby Care,194,1.0,0.9948
+2026-03-01,"Bakery, Cakes & Dairy",3605,1.0,0.9997
+2026-03-01,Beauty & Hygiene,38,0.0,1.0
+2026-03-01,Beverages,1135,4.0,0.9965
+2026-03-01,Cleaning & Household,242,0.0,1.0
+2026-03-01,"Eggs, Meat & Fish",1171,2.0,0.9983
+2026-03-01,"Foodgrains, Oil & Masala",911,5.0,0.9945
+2026-03-01,Fruits & Vegetables,8363,2.0,0.9998
+2026-03-01,Gourmet & World Food,1295,2.0,0.9985
+2026-03-01,"Kitchen, Garden & Pets",31,1.0,0.9677
+2026-03-01,Snacks & Branded Foods,3347,28.0,0.9916
+2026-03-02,Baby Care,115,3.0,0.9739
+2026-03-02,"Bakery, Cakes & Dairy",3473,31.0,0.9911
+2026-03-02,Beauty & Hygiene,39,0.0,1.0
+2026-03-02,Beverages,1373,11.0,0.992
+2026-03-02,Cleaning & Household,260,3.0,0.9885
+2026-03-02,"Eggs, Meat & Fish",986,13.0,0.9868
+2026-03-02,"Foodgrains, Oil & Masala",786,5.0,0.9936
+2026-03-02,Fruits & Vegetables,7663,64.0,0.9916
+2026-03-02,Gourmet & World Food,1361,11.0,0.9919
+2026-03-02,"Kitchen, Garden & Pets",33,0.0,1.0
+2026-03-02,Snacks & Branded Foods,3173,19.0,0.994
+2026-03-03,Baby Care,146,0.0,1.0
+2026-03-03,"Bakery, Cakes & Dairy",2360,9.0,0.9962
+2026-03-03,Beauty & Hygiene,37,0.0,1.0
+2026-03-03,Beverages,999,2.0,0.998
+2026-03-03,Cleaning & Household,213,0.0,1.0
+2026-03-03,"Eggs, Meat & Fish",614,3.0,0.9951
+2026-03-03,"Foodgrains, Oil & Masala",597,4.0,0.9933
+2026-03-03,Fruits & Vegetables,5087,0.0,1.0
+2026-03-03,Gourmet & World Food,856,3.0,0.9965
+2026-03-03,"Kitchen, Garden & Pets",27,0.0,1.0
+2026-03-03,Snacks & Branded Foods,2105,10.0,0.9952
+2026-03-04,Baby Care,91,0.0,1.0
+2026-03-04,"Bakery, Cakes & Dairy",2277,0.0,1.0
+2026-03-04,Beauty & Hygiene,27,3.0,0.8889
+2026-03-04,Beverages,913,2.0,0.9978
+2026-03-04,Cleaning & Household,159,2.0,0.9874
+2026-03-04,"Eggs, Meat & Fish",636,0.0,1.0
+2026-03-04,"Foodgrains, Oil & Masala",577,0.0,1.0
+2026-03-04,Fruits & Vegetables,4594,2.0,0.9996
+2026-03-04,Gourmet & World Food,777,1.0,0.9987
+2026-03-04,"Kitchen, Garden & Pets",24,0.0,1.0
+2026-03-04,Snacks & Branded Foods,2008,3.0,0.9985
+2026-03-05,Baby Care,102,0.0,1.0
+2026-03-05,"Bakery, Cakes & Dairy",2424,0.0,1.0
+2026-03-05,Beauty & Hygiene,26,0.0,1.0
+2026-03-05,Beverages,912,1.0,0.9989
+2026-03-05,Cleaning & Household,182,0.0,1.0
+2026-03-05,"Eggs, Meat & Fish",597,1.0,0.9983
+2026-03-05,"Foodgrains, Oil & Masala",573,0.0,1.0
+2026-03-05,Fruits & Vegetables,4821,1.0,0.9998
+2026-03-05,Gourmet & World Food,832,0.0,1.0
+2026-03-05,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-03-05,Snacks & Branded Foods,1965,1.0,0.9995
+2026-03-06,Baby Care,102,0.0,1.0
+2026-03-06,"Bakery, Cakes & Dairy",2624,1.0,0.9996
+2026-03-06,Beauty & Hygiene,41,0.0,1.0
+2026-03-06,Beverages,999,4.0,0.996
+2026-03-06,Cleaning & Household,193,0.0,1.0
+2026-03-06,"Eggs, Meat & Fish",703,0.0,1.0
+2026-03-06,"Foodgrains, Oil & Masala",589,2.0,0.9966
+2026-03-06,Fruits & Vegetables,5238,0.0,1.0
+2026-03-06,Gourmet & World Food,879,5.0,0.9943
+2026-03-06,"Kitchen, Garden & Pets",20,0.0,1.0
+2026-03-06,Snacks & Branded Foods,2189,2.0,0.9991
+2026-03-07,Baby Care,107,0.0,1.0
+2026-03-07,"Bakery, Cakes & Dairy",2575,2.0,0.9992
+2026-03-07,Beauty & Hygiene,25,0.0,1.0
+2026-03-07,Beverages,876,0.0,1.0
+2026-03-07,Cleaning & Household,195,0.0,1.0
+2026-03-07,"Eggs, Meat & Fish",807,0.0,1.0
+2026-03-07,"Foodgrains, Oil & Masala",661,2.0,0.997
+2026-03-07,Fruits & Vegetables,5847,2.0,0.9997
+2026-03-07,Gourmet & World Food,837,1.0,0.9988
+2026-03-07,"Kitchen, Garden & Pets",23,0.0,1.0
+2026-03-07,Snacks & Branded Foods,2334,3.0,0.9987
+2026-03-08,Baby Care,155,0.0,1.0
+2026-03-08,"Bakery, Cakes & Dairy",3423,17.0,0.995
+2026-03-08,Beauty & Hygiene,35,0.0,1.0
+2026-03-08,Beverages,1089,0.0,1.0
+2026-03-08,Cleaning & Household,245,0.0,1.0
+2026-03-08,"Eggs, Meat & Fish",1101,3.0,0.9973
+2026-03-08,"Foodgrains, Oil & Masala",998,8.0,0.992
+2026-03-08,Fruits & Vegetables,8337,1.0,0.9999
+2026-03-08,Gourmet & World Food,1190,2.0,0.9983
+2026-03-08,"Kitchen, Garden & Pets",39,0.0,1.0
+2026-03-08,Snacks & Branded Foods,3167,14.0,0.9956
+2026-03-09,Baby Care,125,1.0,0.992
+2026-03-09,"Bakery, Cakes & Dairy",3261,23.0,0.9929
+2026-03-09,Beauty & Hygiene,57,0.0,1.0
+2026-03-09,Beverages,1203,9.0,0.9925
+2026-03-09,Cleaning & Household,243,3.0,0.9877
+2026-03-09,"Eggs, Meat & Fish",946,11.0,0.9884
+2026-03-09,"Foodgrains, Oil & Masala",813,16.0,0.9803
+2026-03-09,Fruits & Vegetables,7088,24.0,0.9966
+2026-03-09,Gourmet & World Food,1176,3.0,0.9974
+2026-03-09,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-03-09,Snacks & Branded Foods,2843,21.0,0.9926
+2026-03-10,Baby Care,121,2.0,0.9835
+2026-03-10,"Bakery, Cakes & Dairy",2451,1.0,0.9996
+2026-03-10,Beauty & Hygiene,34,0.0,1.0
+2026-03-10,Beverages,1060,3.0,0.9972
+2026-03-10,Cleaning & Household,191,4.0,0.9791
+2026-03-10,"Eggs, Meat & Fish",724,0.0,1.0
+2026-03-10,"Foodgrains, Oil & Masala",622,3.0,0.9952
+2026-03-10,Fruits & Vegetables,5318,0.0,1.0
+2026-03-10,Gourmet & World Food,900,5.0,0.9944
+2026-03-10,"Kitchen, Garden & Pets",41,1.0,0.9756
+2026-03-10,Snacks & Branded Foods,2267,7.0,0.9969
+2026-03-11,Baby Care,123,0.0,1.0
+2026-03-11,"Bakery, Cakes & Dairy",2214,0.0,1.0
+2026-03-11,Beauty & Hygiene,23,0.0,1.0
+2026-03-11,Beverages,915,15.0,0.9836
+2026-03-11,Cleaning & Household,181,0.0,1.0
+2026-03-11,"Eggs, Meat & Fish",582,0.0,1.0
+2026-03-11,"Foodgrains, Oil & Masala",566,2.0,0.9965
+2026-03-11,Fruits & Vegetables,4579,0.0,1.0
+2026-03-11,Gourmet & World Food,811,0.0,1.0
+2026-03-11,"Kitchen, Garden & Pets",26,0.0,1.0
+2026-03-11,Snacks & Branded Foods,1965,9.0,0.9954
+2026-03-12,Baby Care,120,0.0,1.0
+2026-03-12,"Bakery, Cakes & Dairy",2299,0.0,1.0
+2026-03-12,Beauty & Hygiene,36,0.0,1.0
+2026-03-12,Beverages,867,0.0,1.0
+2026-03-12,Cleaning & Household,168,0.0,1.0
+2026-03-12,"Eggs, Meat & Fish",657,1.0,0.9985
+2026-03-12,"Foodgrains, Oil & Masala",548,0.0,1.0
+2026-03-12,Fruits & Vegetables,4519,1.0,0.9998
+2026-03-12,Gourmet & World Food,751,0.0,1.0
+2026-03-12,"Kitchen, Garden & Pets",27,0.0,1.0
+2026-03-12,Snacks & Branded Foods,1996,0.0,1.0
+2026-03-13,Baby Care,100,0.0,1.0
+2026-03-13,"Bakery, Cakes & Dairy",2498,4.0,0.9984
+2026-03-13,Beauty & Hygiene,34,0.0,1.0
+2026-03-13,Beverages,1012,0.0,1.0
+2026-03-13,Cleaning & Household,183,0.0,1.0
+2026-03-13,"Eggs, Meat & Fish",690,0.0,1.0
+2026-03-13,"Foodgrains, Oil & Masala",634,0.0,1.0
+2026-03-13,Fruits & Vegetables,5346,5.0,0.9991
+2026-03-13,Gourmet & World Food,862,0.0,1.0
+2026-03-13,"Kitchen, Garden & Pets",30,0.0,1.0
+2026-03-13,Snacks & Branded Foods,2119,1.0,0.9995
+2026-03-14,Baby Care,85,0.0,1.0
+2026-03-14,"Bakery, Cakes & Dairy",2713,2.0,0.9993
+2026-03-14,Beauty & Hygiene,45,0.0,1.0
+2026-03-14,Beverages,986,9.0,0.9909
+2026-03-14,Cleaning & Household,209,2.0,0.9904
+2026-03-14,"Eggs, Meat & Fish",876,1.0,0.9989
+2026-03-14,"Foodgrains, Oil & Masala",676,4.0,0.9941
+2026-03-14,Fruits & Vegetables,6020,0.0,1.0
+2026-03-14,Gourmet & World Food,899,1.0,0.9989
+2026-03-14,"Kitchen, Garden & Pets",33,0.0,1.0
+2026-03-14,Snacks & Branded Foods,2363,0.0,1.0
+2026-03-15,Baby Care,183,0.0,1.0
+2026-03-15,"Bakery, Cakes & Dairy",3694,14.0,0.9962
+2026-03-15,Beauty & Hygiene,40,0.0,1.0
+2026-03-15,Beverages,1203,7.0,0.9942
+2026-03-15,Cleaning & Household,295,5.0,0.9831
+2026-03-15,"Eggs, Meat & Fish",1121,6.0,0.9946
+2026-03-15,"Foodgrains, Oil & Masala",927,4.0,0.9957
+2026-03-15,Fruits & Vegetables,8838,2.0,0.9998
+2026-03-15,Gourmet & World Food,1375,1.0,0.9993
+2026-03-15,"Kitchen, Garden & Pets",41,0.0,1.0
+2026-03-15,Snacks & Branded Foods,3312,19.0,0.9943
+2026-03-16,Baby Care,142,3.0,0.9789
+2026-03-16,"Bakery, Cakes & Dairy",3426,22.0,0.9936
+2026-03-16,Beauty & Hygiene,39,0.0,1.0
+2026-03-16,Beverages,1328,3.0,0.9977
+2026-03-16,Cleaning & Household,189,2.0,0.9894
+2026-03-16,"Eggs, Meat & Fish",991,14.0,0.9859
+2026-03-16,"Foodgrains, Oil & Masala",799,6.0,0.9925
+2026-03-16,Fruits & Vegetables,7496,87.0,0.9884
+2026-03-16,Gourmet & World Food,1345,21.0,0.9844
+2026-03-16,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-03-16,Snacks & Branded Foods,3134,36.0,0.9885
+2026-03-17,Baby Care,136,0.0,1.0
+2026-03-17,"Bakery, Cakes & Dairy",2525,5.0,0.998
+2026-03-17,Beauty & Hygiene,35,0.0,1.0
+2026-03-17,Beverages,904,9.0,0.99
+2026-03-17,Cleaning & Household,169,0.0,1.0
+2026-03-17,"Eggs, Meat & Fish",667,5.0,0.9925
+2026-03-17,"Foodgrains, Oil & Masala",556,0.0,1.0
+2026-03-17,Fruits & Vegetables,4953,0.0,1.0
+2026-03-17,Gourmet & World Food,872,8.0,0.9908
+2026-03-17,"Kitchen, Garden & Pets",32,0.0,1.0
+2026-03-17,Snacks & Branded Foods,2157,6.0,0.9972
+2026-03-18,Baby Care,76,0.0,1.0
+2026-03-18,"Bakery, Cakes & Dairy",2172,0.0,1.0
+2026-03-18,Beauty & Hygiene,31,0.0,1.0
+2026-03-18,Beverages,882,2.0,0.9977
+2026-03-18,Cleaning & Household,170,0.0,1.0
+2026-03-18,"Eggs, Meat & Fish",602,0.0,1.0
+2026-03-18,"Foodgrains, Oil & Masala",560,0.0,1.0
+2026-03-18,Fruits & Vegetables,4458,0.0,1.0
+2026-03-18,Gourmet & World Food,843,1.0,0.9988
+2026-03-18,"Kitchen, Garden & Pets",30,0.0,1.0
+2026-03-18,Snacks & Branded Foods,2004,0.0,1.0
+2026-03-19,Baby Care,112,0.0,1.0
+2026-03-19,"Bakery, Cakes & Dairy",2240,0.0,1.0
+2026-03-19,Beauty & Hygiene,31,0.0,1.0
+2026-03-19,Beverages,922,2.0,0.9978
+2026-03-19,Cleaning & Household,157,1.0,0.9936
+2026-03-19,"Eggs, Meat & Fish",625,0.0,1.0
+2026-03-19,"Foodgrains, Oil & Masala",498,0.0,1.0
+2026-03-19,Fruits & Vegetables,4622,0.0,1.0
+2026-03-19,Gourmet & World Food,833,0.0,1.0
+2026-03-19,"Kitchen, Garden & Pets",29,0.0,1.0
+2026-03-19,Snacks & Branded Foods,2019,3.0,0.9985
+2026-03-20,Baby Care,94,0.0,1.0
+2026-03-20,"Bakery, Cakes & Dairy",2415,0.0,1.0
+2026-03-20,Beauty & Hygiene,23,0.0,1.0
+2026-03-20,Beverages,976,1.0,0.999
+2026-03-20,Cleaning & Household,163,1.0,0.9939
+2026-03-20,"Eggs, Meat & Fish",661,0.0,1.0
+2026-03-20,"Foodgrains, Oil & Masala",620,1.0,0.9984
+2026-03-20,Fruits & Vegetables,5077,0.0,1.0
+2026-03-20,Gourmet & World Food,859,0.0,1.0
+2026-03-20,"Kitchen, Garden & Pets",18,0.0,1.0
+2026-03-20,Snacks & Branded Foods,2172,6.0,0.9972
+2026-03-21,Baby Care,111,0.0,1.0
+2026-03-21,"Bakery, Cakes & Dairy",2697,2.0,0.9993
+2026-03-21,Beauty & Hygiene,37,0.0,1.0
+2026-03-21,Beverages,945,0.0,1.0
+2026-03-21,Cleaning & Household,193,1.0,0.9948
+2026-03-21,"Eggs, Meat & Fish",890,1.0,0.9989
+2026-03-21,"Foodgrains, Oil & Masala",742,1.0,0.9987
+2026-03-21,Fruits & Vegetables,6023,1.0,0.9998
+2026-03-21,Gourmet & World Food,939,0.0,1.0
+2026-03-21,"Kitchen, Garden & Pets",24,0.0,1.0
+2026-03-21,Snacks & Branded Foods,2416,2.0,0.9992
+2026-03-22,Baby Care,180,0.0,1.0
+2026-03-22,"Bakery, Cakes & Dairy",3736,4.0,0.9989
+2026-03-22,Beauty & Hygiene,37,0.0,1.0
+2026-03-22,Beverages,1133,3.0,0.9974
+2026-03-22,Cleaning & Household,249,0.0,1.0
+2026-03-22,"Eggs, Meat & Fish",1216,12.0,0.9901
+2026-03-22,"Foodgrains, Oil & Masala",871,10.0,0.9885
+2026-03-22,Fruits & Vegetables,8598,6.0,0.9993
+2026-03-22,Gourmet & World Food,1235,3.0,0.9976
+2026-03-22,"Kitchen, Garden & Pets",28,0.0,1.0
+2026-03-22,Snacks & Branded Foods,3325,13.0,0.9961
+2026-03-23,Baby Care,109,0.0,1.0
+2026-03-23,"Bakery, Cakes & Dairy",3204,21.0,0.9934
+2026-03-23,Beauty & Hygiene,33,0.0,1.0
+2026-03-23,Beverages,1232,6.0,0.9951
+2026-03-23,Cleaning & Household,225,5.0,0.9778
+2026-03-23,"Eggs, Meat & Fish",869,6.0,0.9931
+2026-03-23,"Foodgrains, Oil & Masala",813,5.0,0.9938
+2026-03-23,Fruits & Vegetables,7092,47.0,0.9934
+2026-03-23,Gourmet & World Food,1135,6.0,0.9947
+2026-03-23,"Kitchen, Garden & Pets",26,0.0,1.0
+2026-03-23,Snacks & Branded Foods,2786,25.0,0.991
+2026-03-24,Baby Care,111,0.0,1.0
+2026-03-24,"Bakery, Cakes & Dairy",2449,1.0,0.9996
+2026-03-24,Beauty & Hygiene,21,0.0,1.0
+2026-03-24,Beverages,976,3.0,0.9969
+2026-03-24,Cleaning & Household,188,0.0,1.0
+2026-03-24,"Eggs, Meat & Fish",726,1.0,0.9986
+2026-03-24,"Foodgrains, Oil & Masala",615,1.0,0.9984
+2026-03-24,Fruits & Vegetables,5306,9.0,0.9983
+2026-03-24,Gourmet & World Food,842,2.0,0.9976
+2026-03-24,"Kitchen, Garden & Pets",28,0.0,1.0
+2026-03-24,Snacks & Branded Foods,2190,5.0,0.9977
+2026-03-25,Baby Care,101,0.0,1.0
+2026-03-25,"Bakery, Cakes & Dairy",2322,0.0,1.0
+2026-03-25,Beauty & Hygiene,35,0.0,1.0
+2026-03-25,Beverages,865,0.0,1.0
+2026-03-25,Cleaning & Household,169,1.0,0.9941
+2026-03-25,"Eggs, Meat & Fish",593,0.0,1.0
+2026-03-25,"Foodgrains, Oil & Masala",525,1.0,0.9981
+2026-03-25,Fruits & Vegetables,4555,1.0,0.9998
+2026-03-25,Gourmet & World Food,780,0.0,1.0
+2026-03-25,"Kitchen, Garden & Pets",30,0.0,1.0
+2026-03-25,Snacks & Branded Foods,2046,3.0,0.9985
+2026-03-26,Baby Care,93,0.0,1.0
+2026-03-26,"Bakery, Cakes & Dairy",2190,0.0,1.0
+2026-03-26,Beauty & Hygiene,29,0.0,1.0
+2026-03-26,Beverages,888,1.0,0.9989
+2026-03-26,Cleaning & Household,159,0.0,1.0
+2026-03-26,"Eggs, Meat & Fish",593,0.0,1.0
+2026-03-26,"Foodgrains, Oil & Masala",543,0.0,1.0
+2026-03-26,Fruits & Vegetables,4429,0.0,1.0
+2026-03-26,Gourmet & World Food,737,0.0,1.0
+2026-03-26,"Kitchen, Garden & Pets",20,0.0,1.0
+2026-03-26,Snacks & Branded Foods,1825,0.0,1.0
+2026-03-27,Baby Care,119,0.0,1.0
+2026-03-27,"Bakery, Cakes & Dairy",2483,0.0,1.0
+2026-03-27,Beauty & Hygiene,35,0.0,1.0
+2026-03-27,Beverages,1035,3.0,0.9971
+2026-03-27,Cleaning & Household,163,0.0,1.0
+2026-03-27,"Eggs, Meat & Fish",658,0.0,1.0
+2026-03-27,"Foodgrains, Oil & Masala",581,0.0,1.0
+2026-03-27,Fruits & Vegetables,5112,0.0,1.0
+2026-03-27,Gourmet & World Food,830,0.0,1.0
+2026-03-27,"Kitchen, Garden & Pets",28,0.0,1.0
+2026-03-27,Snacks & Branded Foods,2200,1.0,0.9995
+2026-03-28,Baby Care,145,0.0,1.0
+2026-03-28,"Bakery, Cakes & Dairy",2590,0.0,1.0
+2026-03-28,Beauty & Hygiene,29,0.0,1.0
+2026-03-28,Beverages,912,2.0,0.9978
+2026-03-28,Cleaning & Household,191,1.0,0.9948
+2026-03-28,"Eggs, Meat & Fish",765,1.0,0.9987
+2026-03-28,"Foodgrains, Oil & Masala",656,0.0,1.0
+2026-03-28,Fruits & Vegetables,5492,1.0,0.9998
+2026-03-28,Gourmet & World Food,771,0.0,1.0
+2026-03-28,"Kitchen, Garden & Pets",20,0.0,1.0
+2026-03-28,Snacks & Branded Foods,2220,2.0,0.9991
+2026-03-29,Baby Care,150,1.0,0.9933
+2026-03-29,"Bakery, Cakes & Dairy",3663,9.0,0.9975
+2026-03-29,Beauty & Hygiene,31,0.0,1.0
+2026-03-29,Beverages,1085,0.0,1.0
+2026-03-29,Cleaning & Household,255,0.0,1.0
+2026-03-29,"Eggs, Meat & Fish",1159,6.0,0.9948
+2026-03-29,"Foodgrains, Oil & Masala",917,6.0,0.9935
+2026-03-29,Fruits & Vegetables,8584,20.0,0.9977
+2026-03-29,Gourmet & World Food,1246,0.0,1.0
+2026-03-29,"Kitchen, Garden & Pets",37,0.0,1.0
+2026-03-29,Snacks & Branded Foods,3395,18.0,0.9947
+2026-03-30,Baby Care,115,0.0,1.0
+2026-03-30,"Bakery, Cakes & Dairy",3220,17.0,0.9947
+2026-03-30,Beauty & Hygiene,40,0.0,1.0
+2026-03-30,Beverages,1233,3.0,0.9976
+2026-03-30,Cleaning & Household,217,0.0,1.0
+2026-03-30,"Eggs, Meat & Fish",959,8.0,0.9917
+2026-03-30,"Foodgrains, Oil & Masala",780,5.0,0.9936
+2026-03-30,Fruits & Vegetables,7020,18.0,0.9974
+2026-03-30,Gourmet & World Food,1168,6.0,0.9949
+2026-03-30,"Kitchen, Garden & Pets",21,0.0,1.0
+2026-03-30,Snacks & Branded Foods,2960,21.0,0.9929
+2026-03-31,Baby Care,118,0.0,1.0
+2026-03-31,"Bakery, Cakes & Dairy",2469,5.0,0.998
+2026-03-31,Beauty & Hygiene,30,0.0,1.0
+2026-03-31,Beverages,987,2.0,0.998
+2026-03-31,Cleaning & Household,169,0.0,1.0
+2026-03-31,"Eggs, Meat & Fish",680,3.0,0.9956
+2026-03-31,"Foodgrains, Oil & Masala",549,0.0,1.0
+2026-03-31,Fruits & Vegetables,4938,1.0,0.9998
+2026-03-31,Gourmet & World Food,847,2.0,0.9976
+2026-03-31,"Kitchen, Garden & Pets",25,0.0,1.0
+2026-03-31,Snacks & Branded Foods,2104,8.0,0.9962
+2026-04-01,Baby Care,121,0.0,1.0
+2026-04-01,"Bakery, Cakes & Dairy",2276,2.0,0.9991
+2026-04-01,Beauty & Hygiene,22,0.0,1.0
+2026-04-01,Beverages,851,0.0,1.0
+2026-04-01,Cleaning & Household,142,0.0,1.0
+2026-04-01,"Eggs, Meat & Fish",632,0.0,1.0
+2026-04-01,"Foodgrains, Oil & Masala",581,1.0,0.9983
+2026-04-01,Fruits & Vegetables,4700,1.0,0.9998
+2026-04-01,Gourmet & World Food,773,4.0,0.9948
+2026-04-01,"Kitchen, Garden & Pets",23,0.0,1.0
+2026-04-01,Snacks & Branded Foods,1986,2.0,0.999
+2026-04-02,Baby Care,144,0.0,1.0
+2026-04-02,"Bakery, Cakes & Dairy",2359,1.0,0.9996
+2026-04-02,Beauty & Hygiene,20,0.0,1.0
+2026-04-02,Beverages,850,0.0,1.0
+2026-04-02,Cleaning & Household,164,0.0,1.0
+2026-04-02,"Eggs, Meat & Fish",586,0.0,1.0
+2026-04-02,"Foodgrains, Oil & Masala",597,0.0,1.0
+2026-04-02,Fruits & Vegetables,4710,0.0,1.0
+2026-04-02,Gourmet & World Food,835,0.0,1.0
+2026-04-02,"Kitchen, Garden & Pets",35,0.0,1.0
+2026-04-02,Snacks & Branded Foods,2057,1.0,0.9995
+2026-04-03,Baby Care,112,0.0,1.0
+2026-04-03,"Bakery, Cakes & Dairy",2690,3.0,0.9989
+2026-04-03,Beauty & Hygiene,34,0.0,1.0
+2026-04-03,Beverages,1034,1.0,0.999
+2026-04-03,Cleaning & Household,197,4.0,0.9797
+2026-04-03,"Eggs, Meat & Fish",699,0.0,1.0
+2026-04-03,"Foodgrains, Oil & Masala",592,2.0,0.9966
+2026-04-03,Fruits & Vegetables,5206,0.0,1.0
+2026-04-03,Gourmet & World Food,845,3.0,0.9964
+2026-04-03,"Kitchen, Garden & Pets",30,0.0,1.0
+2026-04-03,Snacks & Branded Foods,2229,1.0,0.9996
+2026-04-04,Baby Care,94,1.0,0.9894
+2026-04-04,"Bakery, Cakes & Dairy",2611,3.0,0.9989
+2026-04-04,Beauty & Hygiene,24,0.0,1.0
+2026-04-04,Beverages,898,0.0,1.0
+2026-04-04,Cleaning & Household,193,0.0,1.0
+2026-04-04,"Eggs, Meat & Fish",829,0.0,1.0
+2026-04-04,"Foodgrains, Oil & Masala",654,2.0,0.9969
+2026-04-04,Fruits & Vegetables,5901,0.0,1.0
+2026-04-04,Gourmet & World Food,876,0.0,1.0
+2026-04-04,"Kitchen, Garden & Pets",24,0.0,1.0
+2026-04-04,Snacks & Branded Foods,2305,2.0,0.9991
