@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 
 from . import capacity as capm
-from . import charts, kpis, mapping, slotting
+from . import charts, kpis, mapping, report, slotting
 from .config import CFG, CONFIG_DIR, DB_PATH, IMG, RESULTS, SEED, WORK
 from .layout import slot_table
 from .replenishment import Policy, min_max_from_demand, simulate
@@ -531,7 +531,8 @@ def stage_kpis() -> None:
 
 
 STAGES = {"build": stage_build, "slotting": stage_slotting,
-          "replenishment": stage_replenishment, "capacity": stage_capacity, "kpis": stage_kpis}
+          "replenishment": stage_replenishment, "capacity": stage_capacity, "kpis": stage_kpis,
+          "report": report.write}
 
 
 def main(argv) -> None:

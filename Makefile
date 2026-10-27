@@ -1,8 +1,8 @@
 PY ?= .venv/bin/python
 
-.PHONY: all data setup build slotting replenishment capacity kpis test clean
+.PHONY: all data setup build slotting replenishment capacity kpis report test clean
 
-all: build slotting replenishment capacity kpis
+all: build slotting replenishment capacity kpis report
 
 setup:
 	uv venv .venv && uv pip install --python .venv -r requirements.txt
@@ -25,8 +25,11 @@ capacity:
 kpis:
 	$(PY) -m dso.pipeline kpis
 
+report:
+	$(PY) -m dso.pipeline report
+
 test:
 	$(PY) -m pytest -q
 
 clean:
-	rm -rf data/work results/* docs/img/*
+	rm -rf data/work results docs/img

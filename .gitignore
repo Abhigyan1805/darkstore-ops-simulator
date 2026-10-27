@@ -4,4 +4,3 @@ __pycache__/
 .pytest_cache/
 .claude/
 data/
-!data/README.md
