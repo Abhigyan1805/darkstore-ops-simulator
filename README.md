@@ -16,7 +16,8 @@ lead time) is a model. Every number below is produced by `make all`.
 ## What each part solves
 
 **Slotting: where each product sits.** In a dark store a picker walks the
-aisles with a trolley for every order, and walking is most of the pick time.
+aisles with a trolley for every order, and walking is a large share of pick
+time (about 40% in this model).
 If the products people buy most often are at the back or spread across every
 aisle, every order pays for it. This part measures how often each SKU is
 picked and which SKUs are bought together, then compares shelf layouts by
